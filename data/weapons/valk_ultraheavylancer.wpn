@@ -1,0 +1,33 @@
+{
+  "id": "valk_ultraheavylancer", # this id must match what's in the spreadsheet
+  "specClass": "projectile",
+  "type": "BALLISTIC",
+  "size": "LARGE",
+  "everyFrameEffect": "data.scripts.weapons.valk_ThunderGRLancerEveryFramePlugin",
+  "turretSprite": "graphics/weapons/lancer/valk_ultraheavylancer_turret_base00.png",
+  "turretGlowSprite": "graphics/weapons/valk_ultraheavylancer_turret_glow.png",
+  "hardpointSprite": "graphics/weapons/lancer/valk_ultraheavylancer_turret_base00.png",
+  "hardpointGlowSprite": "graphics/weapons/valk_ultraheavylancer_turret_glow.png",
+  "numFrames": 4,
+  "frameRate": 30,
+  #"renderHints": ["RENDER_BARREL_BELOW"],
+  "turretOffsets": [31, 0],
+  "turretAngleOffsets": [0],
+  "hardpointOffsets": [43, 0],
+  "hardpointAngleOffsets": [0],
+  "barrelMode": "ALTERNATING", # or LINKED.  whether barrels fire at the same time or alternate.
+  "animationType": "GLOW_AND_FLASH",
+  "glowColor": [225, 225, 255, 150],
+  "interruptibleBurst": true,
+  "muzzleFlashSpec": {
+    "length": 25.0, # only used if animationType = MUZZLE_FLASH
+    "spread": 5.0,
+    "particleSizeMin": 25.0,
+    "particleSizeRange": 24.0,
+    "particleDuration": 0.1,
+    "particleCount": 10,
+    "particleColor": [255, 225, 225, 150]
+  },
+  "projectileSpecId": "valk_ultraheavylancer_shot", # projectile that will be fired
+  "fireSoundTwo": "valk_ultraheavylancer_fire",
+}

@@ -1,0 +1,165 @@
+{
+  "hullName": "Excalibur",
+  "hullId": "valk_excalibur",
+  "hullSize": "FIGHTER",
+  "spriteName": "graphics/ships/Valk_Excalibur.png",
+  "style": "VALKHULL",
+  "height": 80,
+  "width": 70,
+  "center": [35, 38],
+  "collisionRadius": 46,
+  "shieldCenter": [0, -0],
+  "shieldRadius": 46,
+  "viewOffset": 0,
+  "builtInMods": [
+    "no_weapon_flux"
+  ],
+  "builtInWeapons": {
+    "WS0006": "valk_blinker_long",
+    "WS0007": "valk_blinker_long"
+  },
+  "weaponSlots": [
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 10,
+      "angle": 0,
+      "locations": [5.5, 19]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 10,
+      "angle": -0,
+      "locations": [5.5, -19]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 360,
+      "angle": 0,
+      "locations": [-15, -0]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "DECORATIVE",
+      "mount": "TURRET",
+      "arc": 0,
+      "angle": 0,
+      "locations": [-11.5, 25.5]
+    },
+    {
+      "id": "WS0007",
+      "size": "SMALL",
+      "type": "DECORATIVE",
+      "mount": "TURRET",
+      "arc": 0,
+      "angle": -0,
+      "locations": [-11.5, -25.5]
+    },
+    {
+      "id": "WS0008",
+      "size": "SMALL",
+      "type": "DECORATIVE",
+      "mount": "TURRET",
+      "arc": 0,
+      "angle": 0,
+      "locations": [-15.5, 21.5]
+    },
+    {
+      "id": "WS0009",
+      "size": "SMALL",
+      "type": "DECORATIVE",
+      "mount": "TURRET",
+      "arc": 0,
+      "angle": -0,
+      "locations": [-15.5, -21.5]
+    },
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "HIDDEN",
+      "arc": 10,
+      "angle": 0,
+      "locations": [10.5, 11.5]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "HIDDEN",
+      "arc": 10,
+      "angle": -0,
+      "locations": [10.5, -11.5]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-20.5, 17],
+      "length": 16.5,
+      "width": 5,
+      "angle": 180,
+      "contrailSize": 5,
+      "style": "CUSTOM",
+      "styleId": "valkEngine"
+    },
+    {
+      "location": [-20.5, -17],
+      "length": 16.5,
+      "width": 5,
+      "angle": -180,
+      "contrailSize": 5,
+      "style": "CUSTOM",
+      "styleId": "valkEngine"
+    },
+    {
+      "location": [-24, -0],
+      "length": 29.5,
+      "width": 12,
+      "angle": 180,
+      "contrailSize": 12,
+      "style": "CUSTOM",
+      "styleId": "valkEngine"
+    },
+    {
+      "location": [-19.5, 14.5],
+      "length": 15,
+      "width": 4,
+      "angle": 180,
+      "contrailSize": 4,
+      "style": "CUSTOM",
+      "styleId": "valkEngine"
+    },
+    {
+      "location": [-19.5, -14.5],
+      "length": 15,
+      "width": 4,
+      "angle": -180,
+      "contrailSize": 4,
+      "style": "CUSTOM",
+      "styleId": "valkEngine"
+    }
+  ],
+  "bounds": [
+    -32, -13,
+    -14, -11.5,
+    -22, -28,
+    10.5, -28,
+    8, -13,
+    34.5, -4,
+    34.5, 4,
+    8, 13,
+    10.5, 28,
+    -22, 28,
+    -14, 11.5,
+    -32, 13
+  ]
+}

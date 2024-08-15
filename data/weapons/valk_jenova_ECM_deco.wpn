@@ -1,0 +1,29 @@
+{
+  "id": "valk_jenova_ECM_deco",
+  "specClass": "projectile",
+  "type": "SYSTEM",
+  "size": "SMALL",
+  "everyFrameEffect": "data.scripts.plugins.valk_AnimationWhenShipSystemUsed",
+  "turretSprite": "graphics/weapons/deco/valk_jenova/jenova_system00.png",
+  "hardpointSprite": "graphics/weapons/deco/valk_jenova/jenova_system00.png",
+  "renderHints": ["RENDER_ADDITIVE"],
+  "numFrames": 11,
+  "frameRate": 16,
+  "alwaysAnimate": "true",
+  "turretOffsets": [0, 0],
+  "turretAngleOffsets": [0],
+  "hardpointOffsets": [0, 0],
+  "hardpointAngleOffsets": [0],
+  "barrelMode": "ALTERNATING", # or LINKED.  whether barrels fire at the same time or alternate.
+  "animationType": "MUZZLE_FLASH", # NONE, GLOW, MUZZLE_FLASH, SMOKE
+  "muzzleFlashSpec": {
+    "length": 0.0, # only used if animationType = MUZZLE_FLASH
+    "spread": 10,
+    "particleSizeMin": 4.0,
+    "particleSizeRange": 18.0,
+    "particleDuration": 0.2,
+    "particleCount": 25,
+    "particleColor": [255, 150, 30, 200]
+  },
+  "projectileSpecId": "shredder_shot", # projectile that will be fired
+}

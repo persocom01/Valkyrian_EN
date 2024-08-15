@@ -1,0 +1,34 @@
+{
+    "displayName": "Advanced",
+    "fluxCapacitors": 18,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "valk_valkyrie_b",
+    "hullMods": ["expanded_deck_crew"],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_valkyrie_b_A",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "valk_spectre"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0002": "valk_phantasm"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "valk_irpdcannon",
+                "WS0004": "valk_irpdcannon",
+                "WS0005": "valk_irpdcannon",
+                "WS0006": "valk_irpdcannon"
+            }
+        }
+    ],
+    "wings": ["valk_lightning_wing"]
+}

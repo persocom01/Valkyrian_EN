@@ -1,0 +1,45 @@
+{
+    "displayName": "Assault",
+    "fluxCapacitors": 30,
+    "fluxVents": 8,
+    "goalVariant": true,
+    "hullId": "valk_heron_b",
+    "hullMods": [],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_heron_AS",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0007": "valk_spectre",
+                "WS0008": "valk_spectre"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0012": "valk_ballista",
+                "WS0013": "valk_ballista"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "valk_irpdcannon",
+                "WS0002": "valk_irpdcannon",
+                "WS0003": "valk_irpdcannon",
+                "WS0004": "valk_irpdcannon",
+                "WS0005": "valk_irpdcannon",
+                "WS0006": "valk_irpdcannon"
+            }
+        }
+    ],
+    "wings": [
+        "valk_ancord_H-bomber_wing",
+        "valk_ancord_H-bomber_wing"
+    ]
+}

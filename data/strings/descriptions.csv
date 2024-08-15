@@ -1,0 +1,211 @@
+id,type,text1,text2,text3,text4,notes
+valk_azmodaeus,SHIP,"An experimental super-heavy fleet command ship, more massive than all the Design Bureau's previous work. The Azmodaeus class is the pinnacle of super battleships.
+
+Designed after an encounter with an alien titan ship in the outer system, this behemoth is equipped with a host of advanced weapons and defenses taken from that ancient vessel. The only known completed ship of this type was lost in an engagement with the Hegemony's large offensive fleet at Heaven's Gates.
+No wreckage has been found to date.",,,,
+,,,,,,
+valk_vatican_II,SHIP,"One of the largest super battleships the Valkyries have used in frontline combat so far, she can easily dominate the battlefield with her massive firepower and defense systems.
+
+Unlike previous designs, the Vatican Mk.II is equipped with Stargate-class jump engines, which was why the Valkyries were still capable of interstellar travel without the use of Stargates.
+
+The Vatican Mk.II has firepower comparable to that of an entire fleet, though it has its own design flaws, such as although her powerful fire system is capable of destroying any ship in seconds, but it is greatly limited by ammunition and strained flux dissipation channels. Her weapons layout is another flaw; she cannot effectively defend and counter attacks from specific angles. However, she can still be used as a flagship.",,,,
+,,,,,,
+valk_almire_III,SHIP,"The Almire Mk.III is last of the Almire assault ship line. Like her sisters, she focuses on speed and overwhelming firepower.
+
+About the same size as the Yoshura Mk.II, She was originally designed as a super battlecruiser, but subsequent reports from the front showed that her flux system, shields, armor, and overall weaponry were not capable of performing the missions she was assigned. She was redesigned as a heavy battlecruiser, then refitted to retain her sensor and shield specifications, removing most of her isolation and adaptive armor, and downgrading her hyperdrive to a more suitable type, giving her a strong defense against aggressive attacks and electronic warfare, a powerful offensive weapon, and the ability to assist other ships on the battlefield at any time by quickly moving around. Despite losing a lot of her defensive structures, she still has enough weapons and defenses to fight any known capital ship. However, this type of ship has been largely replaced by lighter and cheaper light cruisers with similar offensive and defensive capabilities.",,,,
+,,,,,,
+valk_vatican_I,SHIP,"The first super battleship built by Archon Industries, it is capable of unleashing a massive wave of fighters from its six hangars, defending the Navy's every interest.
+
+Called the ""largest carrier in the sector"", it was built 30 years ago at a cost equivalent to that of a super battleship, at a time when the Navy was desperate for supplies and lacking in resources. Once built, she served on all fronts, guarding or blockading large areas of airspace with an almost unlimited number of fighters, bombers, and light escorts that could be called upon at a moment's notice. Even more terrifying was the fact that she possessed battleship-level firepower of her own. This ship would put any pirate or raiding fleet to flight, and any notable general would prefer to consider tactical alternatives to advancing when facing her.",,,,
+,,,,,,
+valk_yoshura,SHIP,"A giant battleship representing the latest technological advances of the Valkyries, Yoshura is unmatched in protracted warfare. During her patrols of the starfield, enemies who face her must exercise caution.
+
+The decision to develop the Yoshura was based on the idea of building a modern Valkyrie fleet, as most of their super battleships were aging and becoming obsolete and did not meet current naval standard. Several battleship designs were proposed, but eventually, the retired Yoshura class was deemed suitable to be used in the development of a new type of battleship. She would become larger and more powerful than any modern battleship currently owned by the Navy, while having the living standards of a luxury cruise ship.
+
+Yoshura's hull was expanded with the addition of a hyperspace engine common on all Valkyrian super battleships, a heavily modified Vatican Mk.II engine package, an advanced bridge, a radar system, a wide variety of damping structures, fire control systems, omni-directional ECM, and an advanced AI. Her armor 8-10 meters thick, with protection up to 14 meters in important places. The shield generators have been modernized to protect the ship from danger, and finally, a powerful energy reactor was installed to power this behemoth.
+The ship has also been purposely designed have first class luxury, so serving on her will be most comfortable. Upon her completion, she replaced her aging predecessor super battleships as the new pride of the Valkyrian Navy, recognized and loved by her crew as the most durable battleship ever built. Capable of withstanding incoming fire of all calibers, even torpedoes, Yoshura was considered to be the most powerful warship in the galaxy, and rival fleets considered sinking her near impossible. The name ""Yoshura"" was also used for some of her later modifications.
+
+All known ships of this class:
+
+VKS Valensia:
+Valensia was the first ship built and commissioned of the Yoshura family. She was also the largest. When she emerged from her orbital docks, she dwarfed all other ships to date. Almost a kilometer long and three hundred meters wide, she made the main ship of the day look like a regular escort. She served the Navy for twelve years until the Battle of Heaven's Gates.
+She won many battles, fought off many attacks and earned several meritorious awards.
+Valencia sank countless battlecruisers and cruisers in that great battle to defend the gate. After the battle she was temporarily retired and hauled back to her homeworld due to being too badly damaged to be repaired in the field, and since then, she has remained in Archon's dockyard, slowly receiving repairs and upgrades.
+
+VKS Templar:
+Templar was built in the midst of the push to modernization. She was originally intended to replace the VKS Saint Helens Vatican Mk.IV class, a ship whose whereabouts were unknown.
+After a massive air attack on Templar's fleet, her crew scuttled the Templar, which had been hit by hundreds of bombs and torpedoes.
+
+VKS Exile:
+Exile was the second Yoshura variant built six years after Valencia. Her service was incredibly short, as during a deep space encounter while on duty behind enemy lines, her starboard side came under intense fire from a phase bomber, followed by a nuclear bomb sent to her reactor. The wreckage was eventually salvaged and quickly used to produce other battleships of the same class.
+
+VKS Saya:
+The Saya was the newest ship to enter service in this class. She was built after many improvements and modifications based on the data provided by her sisters from years of combat, especially Valencia. She serves under the command of Valkyrian Admiral Cassandra Everflame even today.",,,,
+valk_yoshura_prime,SHIP,"Remodeled from a prototypes of one of the revisions of the Yoshura class giant battleships, it can be called the strongest Yoshura, large enough to be titled a dreadnought. Other information is uncertain.",,,,
+valk_yoshura_VI,SHIP,"The sixth iteration of the Yoshura, the ship as a whole has been miniaturized and converted into a carrier. Using tighter armor materials and more advanced sensor arrays, it is able to overclock the performance of fighter wings controllably and effectively, and uses high-precision radar to aid the fighter's pathfinding calculation AI.
+Yoshura Mk.VI often served as a wingman for the Vatican Mk.I in large carrier fleets, and is considered to be one of the most successful Yoshura variants, having fought with great success against the ""invaders"".",,,,
+valk_cherberos,SHIP,"The Cherberos was used to replace the Yoshura Mk.I series of battlecruisers. She uses lighter armor and smaller scale firepower, but is capable of higher speeds.",,,,
+valk_radiance,SHIP,"This was the most solid super battleship the Valkyries had ever designed, and has had a great war record since the rise of the Valkyries as a killing machine.
+
+Her powerful base stats left her with almost no shortcomings. When conflict with the other forces of the Persean Sector arose, the Gloria class achieved the record of one against three of the same size class of ship, and had several times effortlessly defeated the enemy's fleet with a single ship.
+
+In some of the mercenary organizations under the Valkyries, the female captains of the Gloria class have ruthlessly stomped on the captains of the Paragon and Onslaught classes as far as status is concerned.",,,,
+,,,,,,
+,,,,,,
+valk_elegy,SHIP,"When this ship goes on the warpath, it is the moment of the Valkyrie's desperate counterattack. The Elegy class Siege Ship is designed with as a heavy cruiser at its core, yet she has attack power comparable to that of a conventional battleship. Compared to the main heavy cruisers such as the Almire and Nirvana series, this experimental ship is extremely dangerous, her offense is like dancing on the tip of a sword, and she is often used in the fleet as a trump card of last resort.
+
+Supporting all of this is an imperfect Valhalla Core. This device encompassed nearly a century of Valkyrian experiments, but due to an accident, a large amount of experimental data went missing. After much effort, it was only possible to reproduce this flawed replica. Fortunately, even with its flaws, the Valhalla was able to provide the Elegy class Siege Ship with an energy supply that far exceeds other ships. The side effect of ""Valhalla"" is that the ship will become unstable while gaining a large amount of energy in a high flux state. We can only pray that the female officers don't go overboard, lest they perish.",,,,
+valk_nirvana_II,SHIP,"A concept next generation ship. She is larger than all her sisters and has built in weapons. She has a size comparable to that of a capital ship and is classified as a super-armor cruiser, specializing in hunting heavy cruisers. This high-performance cruiser must not be taken lightly.
+
+The question of ""what role should she play"" has caused a dilemma for the Navy, which already has the Almire class of assault ships for the frontline. While the Nirvana Mk.II was equipped with a system specifically designed for its class, its alpha strike potential was still not the best. The Navy ultimately concluded is that it is better as a flanking assault and surprise role than normal heavy cruisers.
+
+Nirvana Mk.II serves as the main heavy cruiser for the Valkyrian Navy, along with the Almire Mk.II.",,,,
+,,,,,,
+valk_sequence,SHIP,序列级重型航母是可以替换女武神组织所有航母的现代航母。她机动性高经济适用，可以同时支持多种战机进行战斗。,,,,
+valk_nirvana_I,SHIP,"A first generation Nirvana class ship, her suitability for all types of missions led to her rapid adoption as the main cruiser of the Valkyrian Navy. She is now the most widely used cruiser.
+
+The Nirvana class are the heaviest cruisers of the Valkyries, they focus on defense and firepower and have moderate stats in other areas. They tend to be part of the fleet's offensive force, unless they have a different task.",,,,
+,,,,,,
+valk_almire_II,SHIP,"A new design of the Almire class, built for offense. Enhanced firepower and speed make her surpass the Nirvana class. Any enemy which finds her on the opposing side should say their prayers.
+
+The Almireclass are the lighter heavy cruisers of the Valkyrian Navy. They focus on speed and offense, and have the potential to generate powerful bursts of firepower. They tend to be in the second column of the fleet, unless they have a different task.",,,,
+,,,,,,
+valk_nirvana,SHIP,"The prototype of the Nirvana, long obsolete by modern design standards, is now used as an escort as well as a means of raising funds for development.",,,,
+valk_almire_I,SHIP,"A cruiser that has undergone numerous modifications over the years, including rating changes. She can fight alongside the Nirvana class on the battlefield.",,,,
+,,,,,,
+,,,,,,
+,,,,,,
+valk_herald,SHIP,一种可以部署数个护盾无人机的难啃的骨头。以一个极乐世界级驱逐舰船体为基础，给了他可以从远处齐射导弹砸向敌人的力量和操控性。,,,,
+valk_heron_b,SHIP,"A heavily armed carrier that replaced the aging Valkyrian carriers and brought new life to them. The oval shape maximizes armor performance, and it provides strong logistical support for fighters, and in doing so, provides powerful fire support for the fleet that protects her.
+
+The Heron is one of the most widely used ships by the Valkyries, and one of the most mass-produced, on part with Elfheim, better known as the ""Avenger Class"" destroyers. Its powerful point defense can easily clear missile barrages and enemy fighters, while sending in its own fighters to cover its fleet. In the later stages of modernization, after the Sequence class carriers were deployed, the Heron class itself received a complete update. A larger engine and stronger sensors were placed for better combat effectiveness. Sequence and Heron are now the old and new generation working side by side, replacing the supercarriers and light carriers of the past. They will guard the Valkyrian starfield for generations.",,,,
+,,,,,,
+valk_elfheim,SHIP,"The workhorse of the Valkyrian Navy. Her loadout is mission dependant. Her powerful bursts of firepower allow her to tear through smaller vessels with ease, thus earning her a less than honorable reputation.
+
+Due to her operational efficiency and reliability, large fleets often cozy up to these destroyers, giving them the roles of long-range missile support or harassment ships.",,,,
+,,,,,,
+valk_eclair,SHIP,"A prototype destroyer currently still in the process of in the process of modernization. It is a complex and expensive design, still in the testing phase.",,,,
+valk_elysium,SHIP,"Built for blitzkrieg, the Elysium can easily make those who belittle her cry for their mothers. Her powerful maneuverability and sturdy armor are nightmare level for such a small ship.",,,,
+valk_valkyrie_b,SHIP,"In the early days of carrier design this troop carrier was adapted and designed as a light carrier. It has now been surpassed by newer designs, but is still a great candidate for those with limited budgets.",,,,
+valk_tesladora_ii,SHIP,通常被部署在空间站或关键目标处执行保护任务，一些也会跟随舰队参战。她异常坚固的装甲和强大的护盾可以让她淡定地威吓同级对手。,,,,
+valk_topaz,SHIP,A common fuel ship used to avoid using other forces' freighters or fuel ships. She has enough fuel to meet the entire fleet's fuel consumption.,,,,
+valk_emerald,SHIP,"If you've ever heard of the Valkyries having an irreplaceable cargo ship, then the answer is undoubtedly the Emerald.",,,,
+,,,,,,
+,,,,,,
+valk_inquisitor,SHIP,"Developed alongside the Jenova, this heavy frigate can pummel anyone with its heavy weapons. Her main weapon is even a threat to off-guard cruisers or battleships.
+
+The design is a little bit of a pain, as the main guns are strong, but can only be fired a few times before needing to back off to vent the flux. A large number of the gun mounts are unusually fitted with point defense weapons, greatly extending the life of this heavy frigate.",,,,
+valk_longinus,SHIP,A reliable weapons platform with a design that balances offensive and defensive capabilities. She relies on long range fire to outperform older designs such as the Hound and the Lasher. This makes her a favored ship for new pilots.,,,,
+valk_yuusha_II,SHIP,这个设计是如此的成功，以致她们只需要一些微调。添加了第二炮架和更强力的引擎，是个整起来很麻烦的对手。,,,,
+valk_yuusha,SHIP,"The smallest member of the Valkyrian frigate family. Fast enough to induce nausea and headaches, with great scouting abilities, considerable endurance and firepower, it's an improved version of the Hound.",,,,
+valk_tesladora,SHIP,通常被部署在空间站或关键目标处执行保护任务，一些也会跟随舰队参战。她异常坚固的装甲和强大的护盾可以让她淡定地威吓同级对手。,,,,
+valk_jenova,SHIP,"Due to the Valkyrie's lack of electronic warfare support platforms, engineers joined forces to create this superb ship, the ""Jenova"".
+
+She boasts the best defense system and a newly developed experimental electronic warfare system.
+
+It could be said that the Jenova was something that the Valkyries had needed for a long time. Her huge cost was not a problem in the eyes of the fleet, which wished to have such an amazing tool in the hanger.",,,,
+valk_ilena,SHIP,"An extremely agile member of the Valkyrian frigate family, carrying high-end phase teleport technology that leaves enemies defenseless.",,,,
+,,,,,,
+,,,,,,
+valk_infinity,SHIP,"原型战机。为获取任意形式的战场优势而建造，配有重武器和与誓约之剑相同的原形反应堆。
+由于不合理的快速发展导致的制造和维护的巨额成本，她的存在价值已近乎零。双翼的激光中继器和前置的一个大口径冲击波构成了强大的武器系统，引擎也很强劲，不过碍于过大的体型，她的转向很糟糕。",,,,
+valk_excalibur,SHIP,"The ultimate creation of Archon Industries, this advanced and expensive light escort fighter boasts advanced weaponry and defense systems that have been uncharacteristically over-modified, posing a threat to even Neutrino and Tri-Tachyon technology.
+Using technology beyond what was expected, the ship is an artistic fusion of shields, energy grids, and weapons systems. The ship is as sharp as her name, ""Excalibur"". Her most notable feature is an antimatter reactor capable of dissipating hard flux.",,,,
+valk_firefly,SHIP,"An advanced modern fighter that relies on fast movement and advanced weaponry to defeat its enemies.
+Armed with a brand new Gatling laser cannon and two phaser pods, the Firefly can easily leapfrog interceptions from fighters and small frigates, and even heavy weapon fire nets. The obvious weakness, however, is her slow maneuverability. Due to the lightweight construction concept to ensure speed, she is very vulnerable to sudden attacks.",,,,
+valk_ancord,SHIP,"During modernization, the original design of the Ancord was scrapped and replaced by a design of the same name. It is now a fearsome missile bomber.",,,,
+valk_helia,SHIP,"A light escort fighter designed to support larger battlefields and execute blitzkrieg operations against enemy formations. With improved power supplies and engines, they can whiz across the battlefield and sink a variety of targets.",,,,
+valk_azgard,SHIP,"The Valkyrie's fighter. Her twin laser cannons can deal heavy blows to enemy ships, and her quick lasers can defend against enemy interceptors and missiles.",,,,
+valk_lightning,SHIP,"A high-speed interceptor with two large-caliber cannons in the nose, her wings can be extended to provide intra-atmospheric flight capability.",,,,
+valk_sahara,SHIP,"A large, slow bomber wing with a two bombs payload. They can destroy any target, but are rarely successful due to their poor maneuverability.",,,,
+valk_morgiana,SHIP,"Slightly larger than the Talon but twice as deadly, it was designed to be launched from any carrier at any time, be it on a planet's surface or in space.",,,,
+,,,,,,
+,,,,,,
+,,,,,,
+valk_ilc,WEAPON,A powerful energy cannon that can project three consecutive dense particle beams at once over long distances.,,,,
+valk_ilc_II,WEAPON,"A highly burst, enhanced version of the Redemption Laser Cannon that combines all the firepower in one shot.",,,,
+valk_quadheavymg,WEAPON,"A wicked quad-mounted heavy machine gun with a monstrous rate of fire. A ship equipped with it is basically immune to the threat of fighters or missiles.
+This weapon combines four heavy machine guns on a gun mount upgraded by pneumatic loading and liquid-cooled mechanisms, and fires fragmentation ammunition at high speeds to intercept fighters.",,,,
+,,,,,,
+valk_dsc,WEAPON,"A small machine gun that fires large-caliber discarding sabot rounds at sublight speeds, which has an additional penetrating effect on high-strength shields.",,,,
+valk_irpdburst,WEAPON,A not-so-powerful but very effective instant point defense system that is often seen on most military ships.,,,,
+valk_ibcm,WEAPON,Hurricane launch system equipped with IBCM kinetic warheads capable of powerful strikes against shields.,,,,
+valk_heavy_assault_cannon,WEAPON,"Created at the same time as the Vatican Mk.III, its immense destructive power far exceeded any ship's defenses.
+It was a simple triple barrel design with a caliber of 350 to 420mm, with great punch and incredible range, destroying or wounding enemy ships in a few shots.",,,,
+valk_antiproton_laser,WEAPON,"Designed to give large ships burst firepower at medium to long range. The burst output can destroy all small and medium-sized ships, or put a great deal of flux pressure on the opposing capital ships.",,,,
+valk_plasma_laser,WEAPON,"A medium-sized cannon that was improved by combining advanced technology with careful study of the fragmentation cannons of Blackstone Drive Yards.
+While the cannon itself does not do much damage, the ammunition it fires, those fickle unstable plasmas, can easily cause additional special effects and cause major damage to the target.",,,,
+valk_bcnn,WEAPON,"A versatile kinetic weapon, often used to suppress enemies from a distance. Due to its design being based on the revolver core, it is not recommended for non-Valkyrian ships.",,,,
+,,,,,,
+,,,,,,
+valk_ballista,WEAPON,An improved Annihilator rocket pod using plasma charges and fuel. Its improved AI makes it harder for point defense weapons to shoot it down.,,,,
+valk_wraith,WEAPON,This heavy missile is designed to quickly take out large targets at extreme ranges. Its large fins allow it to steer like a normal missile.,,,,
+valk_spectre,WEAPON,Powerful missile developed for long range combat between capital ships. Usually equipped on smaller ships in a support role.,,,,
+valk_phantasm,WEAPON,Powerful missile developed for long range combat between capital ships. Usually equipped on smaller ships in a support role.,,,,
+valk_shadow,WEAPON,"A powerful cruise missile with great explosive power, the number of missiles has been reduced to accommodate the twin launch system.",,,,
+valk_sunfury,WEAPON,"This relatively advanced torpedo uses a powerful high-explosive warhead with a heavy armor-piercing tip, and possesses unparalleled destructive power. A direct hit with this torpedo will deal a devastating blow.
+Developed as a capital ship killer late in the modernization period, its 750mm plutonium warhead salvo has enough destructive power to blow up half a space station. The top is covered with hardened titanium, allowing it to penetrate several meters of the target's armor, followed by a layer of adamantium alloy to ensure the survivability of the torpedo, with even stronger protection on the sides.
+The detonator design is taken from a relatively simple water based armor piercing torpedo that detonated once penetration was complete. This is monitored by a sensor, which checks if the detonation trigger was caused by a damaged or broken probe, and if switches from the firmware device to a momentum sensor, which detonates after it detects a preset change in kinetic energy.",,,,
+valk_scorpionpod,WEAPON,"A lightweight MIRV warhead with a Harpoon engine that improves maneuverability but reduces damage, with a small built-in capacitor that produces less EMP damage. It has a large ammunition capacity.",,,,
+valk_scorpion,WEAPON,"A lightweight MIRV warhead with a Harpoon engine that improves maneuverability but reduces damage, with a small built-in capacitor that produces less EMP damage.",,,,
+,,,,,,
+,,,,,,
+,,,,,,
+valk_hyperbeam,WEAPON,"This heavy beam cannon uses hypermatter to unleash potent attack power through a stream of hot particles that melt armor in the target zone.",,,,
+,,,,,,
+valk_imbc,WEAPON,"An super-heavy laser system capable of firing ultra-high density antiproton streams over long distances, which can inflict tons of damage to unshielded ships.",,,,
+valk_light_antimatter_laser,WEAPON,"A lighter version of the heavier Antiproton Beam Cannon, with the same long range and high damage. It was the company's first beam weapon.",,,,
+valk_irdriver,WEAPON,A small laser created during the modernization period. It was meant to replace outdated machine guns and provide more powerful weapons for small fighters.,,,,
+valk_ptr_laser,WEAPON,"Strong and effective laser cannons made late in the modernization period which replaced the fighters' old weapons, giving them greater combat power when other condition are the same.
+The PTR consists of a basic repeater equipped with a quadruple radiator, plus four cyclotron particle jet pumps and accelerators, which can maintain terrifying firepower for extended periods of time. The low level of flux consumption means that this weapon can theoretically be fired indefinitely with a powerful energy source. However, the maintenance center strongly advises that captains not to do so, because melted particle jet pumps are difficult to repair.",,,,
+valk_xr_repeater,WEAPON,"The recalibrated PTR laser repeater fires plasma shells under the guidance of an X-ray tracer. Its intense thermal damage often has a terrible impact on the ship it hits.
+The X-ray ATC is essentially a miniature pulsed laser cannon, but with plasma ammunition.",,,,
+,,,,,,
+valk_cockatrice,WEAPON,"The Cockatrice is a mythical monster that is said to have the power to kill anyone with a single glance. This rapid-fire machine gun is installed in the gun pods of heavy fighters, and its heavy ammunition is even capable of penetrating armor and reaching the structure of fighters.",,,,
+valk_irpdcannon,WEAPON,"The Vulcan cannon was disassembled and simplified, and a laser medium and energy capacitor were installed in the structure., it has a high degree of accuracy and is known for its cost-effectiveness.",,,,
+valk_nxk_pd,WEAPON,The NX-K is an ultra-high tech gamma ray blaster that provides unparalleled defense against swarms of missiles and fighters.,,,,
+valk_ether_driver,WEAPON,"试验型加农炮，发射一个包裹有超物质的，由“以太”这种物质构成的炮弹，可以直接穿过护盾对装甲进行打击。
+以太驱动器及其变种都是依靠对捕获的外星科技进行逆向工程而制成的超物质加农炮系列，结合了名为“以太”的物质能够吞掉离子场并销毁任何形式的物化能量这一特性。
+伴随着发射时的震天价响，物质和外壳以一毫秒的间隔先后被发射出去，超物质外壳会撞上前面的以太炮弹随后融为一体前进，在护盾上造成一个破洞，随后以一个巨大的爆炸打击目标船体。",,,,
+valk_geironul,WEAPON,"A large, high-performance cannon modeled after the Hellbore. The interior of the munition is encased in a trace amount of unstable antimatter, such that after hitting an enemy ship, the breakage of the core can trigger another explosion, dealing a more severe blow to lightly armored targets.",,,,
+,,,,,,
+valk_ice_lance,WEAPON,"以太驱动器的衍生版本。更重于瘫痪电子设备而非造成伤害。
+它的弹药同样拥有穿透护盾的能力。
+冰冻长枪发射的包裹物质是圆筒形破坏螺栓而不是超物质，以太被单独存放以防它从内部破坏螺栓。",,,,
+,,,,,,
+valk_twin_hiir_laser,WEAPON,"A large caliber laser cannon equipped with a delicate emitter and lens capable of inflicting sustained damage at long range. However, sustained fire causes a sharp drop in accuracy.",,,,
+,,,,,,
+valk_lightlancer,WEAPON,An energy version of the Needler weapons that pour out projectiles that cause strong EMP effects on the target. Designed for use against a wide variety of targets. The small caliber makes it highly accurate.,,,,
+,,,,,,
+valk_heavylancer,WEAPON,An energy version of the Needler weapons that pour out projectiles that cause strong EMP effects on the target. Designed for use against a wide variety of targets. The medium caliber provides a larger burst window compared to small caliber.,,,,
+,,,,,,
+valk_ultraheavylancer,WEAPON,"An energy weapon version of the Needler weapon of same-sized, it fires high-temperature projectiles that focus on structural damage. Designed for use against a wide variety of targets.",,,,
+,,,,,,
+,,,,,,
+valk_ecm_jammer,SHIP_SYSTEM,An advanced electronic warfare system that reduces the effective detection range on an enemy ship's radar by 2000SU.,Close Range Support,,,
+valk_chargingjets,SHIP_SYSTEM,Increase maximum speed and maneuverability while generating EMP arcs that strike enemy ships and missiles in front of you.,Maneuverability,Increase maximum speed and maneuverability while generating EMP arcs that strike enemy ships and missiles in front of you.,,
+valk_overcharge,SHIP_SYSTEM,"Overclocks ship systems, increasing weapon damage and top speed by up to 25%, and flux dissipation and maneuverability by 50%, but will reduce those attributes by 100% for a time after the effect ends.",Attack,,25% | 50% | 100%,
+valk_valiant_defense,SHIP_SYSTEM,"Removes security protocols and core constraints, greatly improving ship attributes and repairing ship structure, including but not limited to: flux dissipation, top speed, maneuverability, weapon damage, shield resistance, etc. Any damage to the ship will reduce the cooldown of this system.",Attack,,,
+valk_inferniumdrive,SHIP_SYSTEM,"A potent combustion agent is injected into the engine, greatly increasing its power.",Attack,,,
+valk_phaseteleporter,SHIP_SYSTEM,"The Valkyrian version of a space jump, not unlike that of the Hyperion class frigate",Maneuverability,,,
+valk_burstdrive,SHIP_SYSTEM,"Provides instantaneous engine acceleration, propelling the ship forward a distance at breakneck speed. Collisions will cause the engines to stall.",Maneuverability,"Provides instantaneous engine acceleration, propelling the ship forward a distance at breakneck speed. Collisions will cause the engines to stall.",,
+,,,,,,
+valkyrian,FACTION,"The Valkyries are an independent military power in this sector, once part of the Domain of Man, in a mystery filled corner of the star map. After several years of private research on the core technologies of the Domain of Man, they went on to arm themselves with this deciphered knowledge and gradually became a large, powerful and respectable organization in the ship design industry, possessing ship design capabilities that far surpassed those of the private sector and of the Navy.
+
+However, simply learning blueprints and improving on them became no longer enough, and as more and more advanced technologies were hidden away, they begin to use more and more fanatical means to satisfy their sense of superiority. This culminated in a bitter conflict with the development department of the Domain of Man, and the ending of their relationship. When the ruling powers in the Domain of Man noticed their growing threat and suppressed them, they decided to make their own path, destroying any enemies that stood in the way of their quest for power.
+
+In order to finally break free from the control of the Domain of Man, they devoted all their productivity into creation of ship-borne stargates. This enabled them to travel subspace without a stargates, as long as they stationed a super fleet equipped with a stargate drive in the corresponding star system. They can now be found in most of space. Some of these places became lost worlds when they collapsed or were forgotten. They eventually discovered the Persean Sector in their own way and are among the competing forces vying for control of civilization there.",,,,
+valk_boostrefit,SHIP_SYSTEM,"The rate of decay of the carrier's fighter replacement rate and fighter replacement time is reduced by one-third, and the speed and maneuverability of returning fighters is doubled. Use generates large amounts of flux energy.",Attack,,,
+,,,,,,
+valk_planet_enigma_i,CUSTOM,"The Valkyrian capital. It is here that sector wide royal decrees are made.
+
+The mineral corporations that were based there before the Great Collapse left the Valkyries with a massive industrial base. Archon Industries and the Enigma Company, which were hatched from this legacy, as well as other small and medium-sized enterprises, represent the real economy of the Valkyries, which was further stimulated by the recovery of foreign investment during the modernization period.
+
+The importance of this place as a Valkyrie war factory cannot be overstated, with three royal cruisers permanently stationed at the orbital base, maintaining a state of combat readiness to respond to emergencies.",,"There's a strong whiff of female hormones here, and the executives are almost exclusively women as far as the eye can see. Men are doing odd jobs on the docks, and every now and then you see a whip coming down hard on them.",,
+valk_station_enigma_i,CUSTOM,"A high orbit orbital defense facility, unlike the Sky Fortress, which serves as a near-ground defense, this facility has extensive production facilities within it, allowing it to be self-sufficient. The massive harbor is moored with capital ships. During the glorious years of the Valkyries' conquests, this giant silently watched the passage of generations of expeditionary fleets.",,,,
+valk_planet_enigma_i_moon,CUSTOM,"Bleak winds howl across the cluttered moon, and it has been many years since a ship has sailed near the zone. No one on Enigma I can say why, and the blighted planet is usually ignored.
+
+The most recent investigation recorded in the Valkyrian Royal Archives dates back 14 years, when a clue was found on this dead world —— somewhere in the ruins, the scattered remains of unidentified creatures were scattered and piled into puzzling shapes, seemingly related to the Valkyrie's most ancient and terrifying enemy.",,,,
+valk_planet_enigma_ii,CUSTOM,"A Valkyrian mining world, modernized and transformed. It has become increasingly important to the Valkyries as their ability to project power sector wide has greatly diminished.
+
+Thanks to its rich mineral deposits and the perpetual geysers of volatiles at the equator, this world is able to feed the insatiable appetite of the Valkyrian Starfleet and war machine. Unlike the glamorous Enigma I, the majority of the population lives on hard labor and are very miserable.",,,,

@@ -1,0 +1,33 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 10,
+    "fluxVents": 8,
+    "goalVariant": true,
+    "hullId": "valk_longinus",
+    "hullMods": [
+        "targetingunit",
+        "valk_peakfire"
+    ],
+    "permaMods": [],
+    "variantId": "valk_longinus_E",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "valk_lightlancer",
+                "WS0002": "valk_lightlancer",
+                "WS0003": "valk_lightlancer",
+                "WS0004": "valk_lightlancer"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "valk_nxk_pd",
+                "WS0006": "valk_nxk_pd"
+            }
+        }
+    ]
+}

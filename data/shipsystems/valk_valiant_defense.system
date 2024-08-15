@@ -1,0 +1,15 @@
+{
+    "id":"valk_valiant_defense",
+    "type":"STAT_MOD",
+    "statsScript":"data.shipsystems.scripts.valk_ValiantDefense",
+	
+	"weaponGlowColor":[0,155,255,255],
+	"weaponTypes":[BALLISTIC],
+	
+	"useSound":"valk_valiant_defense_activate",
+	"loopSound":"system_fortress_shield_loop",
+	"deactivateSound":"valk_valiant_defense_deactivate",
+	
+    "aiType":"CUSTOM",
+    "aiScript":"data.shipsystems.scripts.ai.valk_ValiantDefenseAI",
+}

@@ -1,0 +1,77 @@
+{
+    "displayName": "Advanced",
+    "fluxCapacitors": 14,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "valk_cherberos",
+    "hullMods": [
+        "missleracks",
+        "targetingunit",
+        "valk_peakfire"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_cherberos_A",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0004": "valk_geironul"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0002": "hydra",
+                "WS0003": "hydra"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0012": "salamanderpod",
+                "WS0013": "salamanderpod"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "valk_hyperbeam"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0026": "valk_heavylancer",
+                "WS0027": "valk_heavylancer"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0016": "valk_bcnn",
+                "WS0017": "valk_bcnn",
+                "WS0020": "valk_bcnn",
+                "WS0021": "valk_bcnn"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0006": "valk_nxk_pd",
+                "WS0007": "valk_nxk_pd",
+                "WS0008": "valk_nxk_pd",
+                "WS0009": "valk_nxk_pd",
+                "WS0010": "valk_irpdcannon",
+                "WS0011": "valk_irpdcannon",
+                "WS0014": "valk_irpdcannon",
+                "WS0015": "valk_irpdcannon",
+                "WS0018": "valk_quadheavymg",
+                "WS0019": "valk_quadheavymg"
+            }
+        }
+    ]
+}

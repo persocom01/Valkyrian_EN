@@ -1,0 +1,20 @@
+{
+	"id":"valk_boostrefit",
+	"type":"STAT_MOD",
+	"aiType":"CUSTOM",
+	
+	"statsScript":"data.shipsystems.scripts.valk_BoostRefit",
+    "aiScript":"data.shipsystems.scripts.ai.valk_BoostRefitAI",
+	
+	"useSound":"system_targeting_feed",
+	#"loopSound":"system_targeting_feed_loop",
+	"deactivateSound":"gun_out_of_ammo",
+	"outOfUsesSound":"gun_out_of_ammo",
+	
+	"aiHints":{
+	}
+}
+
+
+
+

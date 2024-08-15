@@ -1,0 +1,52 @@
+{
+    "displayName": "Advanced",
+    "fluxCapacitors": 11,
+    "fluxVents": 25,
+    "goalVariant": true,
+    "hullId": "valk_almire_I",
+    "hullMods": [
+        "targetingunit",
+        "missile_autoloader",
+        "missleracks"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_almire_I_A",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0003": "typhoon"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0001": "reaper",
+                "WS0002": "reaper"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0010": "valk_bcnn",
+                "WS0011": "valk_bcnn",
+                "WS0014": "valk_bcnn",
+                "WS0015": "valk_bcnn"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0004": "valk_irpdcannon",
+                "WS0005": "valk_irpdcannon",
+                "WS0006": "valk_irpdcannon",
+                "WS0007": "valk_irpdcannon",
+                "WS0008": "valk_irpdcannon",
+                "WS0009": "valk_irpdcannon"
+            }
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+name,id,faction,script,desc,icon,order
+Enigma II Economy,enigma_ii,,data.scripts.campaign.econ.EnigmaIIEconomy,Valkyries combine strict military discipline with advanced technology to stabilize their economy,graphics/icons/markets/urbanized_polity.png,99
+Enigma III Economy,enigma_iii,,data.scripts.campaign.econ.EnigmaIIIEconomy,Valkyries combine strict military discipline with advanced technology to stabilize their economy,graphics/icons/markets/urbanized_polity.png,100

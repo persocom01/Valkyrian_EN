@@ -1,0 +1,65 @@
+{
+    "displayName": "Support",
+    "fluxCapacitors": 14,
+    "fluxVents": 25,
+    "goalVariant": true,
+    "hullId": "valk_yoshura_VI",
+    "hullMods": [
+        "expanded_deck_crew",
+        "targetingunit"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_yoshura_VI_S",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0015": "gauss",
+                "WS0016": "gauss"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0017": "breach",
+                "WS0018": "breach"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "mininglaser",
+                "WS0006": "mininglaser",
+                "WS0007": "mininglaser",
+                "WS0008": "mininglaser",
+                "WS0009": "mininglaser",
+                "WS0010": "mininglaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "valk_nxk_pd",
+                "WS0002": "valk_nxk_pd",
+                "WS0003": "valk_nxk_pd",
+                "WS0004": "valk_nxk_pd",
+                "WS0011": "valk_nxk_pd",
+                "WS0012": "valk_nxk_pd",
+                "WS0013": "valk_nxk_pd",
+                "WS0014": "valk_nxk_pd"
+            }
+        }
+    ],
+    "wings": [
+        "valk_helia_corv_wing",
+        "valk_helia_corv_wing",
+        "valk_excalibur_corv_wing",
+        "valk_excalibur_corv_wing",
+        "valk_azgard_wing"
+    ]
+}

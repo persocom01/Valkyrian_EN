@@ -1,0 +1,80 @@
+{
+    "displayName": "Advanced",
+    "fluxCapacitors": 11,
+    "fluxVents": 40,
+    "goalVariant": true,
+    "hullId": "valk_almire_III",
+    "hullMods": [
+        "targetingunit",
+        "valk_peakfire",
+        "stabilizedshieldemitter",
+        "ballistic_rangefinder"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_almire_III_A",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0022": "valk_geironul",
+                "WS0023": "valk_geironul"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "breach"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0002": "valk_dsc",
+                "WS0003": "valk_dsc",
+                "WS0004": "valk_dsc",
+                "WS0005": "valk_dsc"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0014": "valk_plasma_laser",
+                "WS0015": "valk_plasma_laser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0016": "valk_bcnn",
+                "WS0017": "valk_bcnn"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0024": "devastator"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0006": "valk_irpdcannon",
+                "WS0007": "valk_irpdcannon",
+                "WS0008": "valk_irpdcannon",
+                "WS0009": "valk_irpdcannon",
+                "WS0010": "valk_irpdcannon",
+                "WS0011": "valk_irpdcannon",
+                "WS0018": "valk_irpdcannon",
+                "WS0019": "valk_irpdcannon",
+                "WS0020": "valk_quadheavymg",
+                "WS0021": "valk_quadheavymg",
+                "WS0043": "valk_irpdcannon",
+                "WS0044": "valk_irpdcannon"
+            }
+        }
+    ]
+}

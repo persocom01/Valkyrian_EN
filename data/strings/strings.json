@@ -1,0 +1,95 @@
+{
+  "valk_shipSystem": {
+    "ff_title": "Fog Armor",
+    "ff_progress": "Progress:",
+    "ff_success": "Resistance has been improved",
+    "pf_title": "Peak beam energy matrix",
+    "pf_progress1": "Weapon fire rate +",
+    "pf_progress2": "Weapon flux cost -",
+    "ra_title": "Trauma response conduit",
+    "ra_content": "Flux dissipation +",
+    "ra_hardFlux": "Hard flux dissipation obtained:",
+    "mod_rejection0": "The following hullmod is not compatible:",
+    "mod_rejection1": "The following hullmods are not compatible with each other:",
+    "oc_0": "Weapon damage",
+    "oc_1": "Flux dissipation",
+    "br_0": "Preparation time x ",
+    "br_1": "Increased fighter return speed",
+    "td_0": "Increased engine power",
+    "dd_0": "Structure restored per second %s",
+    "dd_3": "Damage to shield - ",
+    "cm_title": "Cruiser mapping | Current Area Progress",
+    "max_speed": "Max speed",
+    "maneuverability": "Maneuverability",
+    "ecm_0": "Enemy ship radar strength reduction %s",
+    "hc_title": "Covenant benefits"
+  },
+  "valk_hullmods": {
+    "bryn_heading": "Reduces weapon ordnance cost based on type/size",
+    "bryn_weapon_type": "Weapon type",
+    "bryn_valk_weapons": "Valkyrian ballistic/energy",
+    "bryn_other_weapons": "Other ballistic/energy",
+    "bryn_missile_weapons": "Missile",
+    "skogul_desc0": "Performance improvement: %s",
+    "skogul_desc1": "Minimum crew requirement + %s",
+    "skogul_desc2": "Deployment and monthly maintenance cost + %s",
+    "skogul_remove_penalty": "Removal side effects",
+    "hc_bonus_factor_heading": "Gain factor",
+    "hc_bonus_factor_content": "Valkyrian capital ships always get @[(positive)100%] gain.\nDepending on the ship class, those with deployment point cost greater or equal to @[%s] get maximum gain.\nFor fighters, those with ordnance point cost greater or equal to @[%s] gain the most.\nDeployment/ordnance point costs for non-Valkyrian ships are @[(negative)halved] for the purposes of calculation.",
+    "hc_bonus_detail_heading": "Gain benefits",
+    "hc_bonus_detail_maximum": "(Cap @[%s])",
+    "hc_bonus_detail_content_common": "Damage to non-capital ships + @[(positive)%s]",
+    "hc_bonus_detail_content_battle_desc": "@[Yoshura] / @[Yoshura Prime] / @[Gloria] additional bonuses:",
+    "hc_bonus_detail_content_battle1": "Hard flux dissipation when shields are active + @[(positive)%s]",
+    "hc_bonus_detail_content_battle2": "Energy/ballistic weapon recoil - @[(positive)%s]",
+    "hc_bonus_detail_content_missile_desc": "@[Yoshura Mk.IV] / @[Vatican Mk.I] additional bonuses:",
+    "hc_bonus_detail_content_missile1": "Missile top speed + @[(positive)%s]",
+    "hc_bonus_detail_content_missile2": "Missile damage to capital ships + @[(positive)%s]",
+    "hc_bonus_detail_content_speed_desc": "@[Almire Mk.III] / @[Cherberos] additional bonuses:",
+    "hc_bonus_detail_content_speed1": "Top speed + @[(positive)%s]",
+    "hc_bonus_detail_content_speed2": "Maneuverability + @[(positive)%s]"
+  },
+  "valk_fearlessTour": {
+    "bar_s0": "A woman wearing the Valkyrian badge sat by the window, frowning as she looked out, making the atmosphere in the bar a little unusual.",
+    "bar_o0": "After thinking for a moment, you approached the Valkyrian officer",
+    "bar_s1": "You try to strike up a conversation, and the atmosphere is obviously a bit unusual. The other party talks about the current situation in the sector while secretly sizing you up...\n\n\"If I'm not mistaken, you seem to have a considerable fortune, and perhaps even a private fleet.\"\n\nThe topic begins to touch on the secrets of the Knights of Ludd, special scanning imaging on anomalous earth-like planets, and another top-secret warship of the Valkyries...The other party's words successfully pique your curiosity.",
+    "bar_o1_1": "Show her your various engineering certificates",
+    "bar_o1_2": "Boast her about your seasoned combat skills",
+    "bar_o1_3": "Elaborate to her about your extensive starfaring experience",
+    "bar_o1_leave": "Say you don't want to go any further and turn to leave",
+    "bar_s2_0": "\"Fact is, this is a special private commission, and I hope to get a reply as soon as possible.\"\n\nA pile of documents that seemed to come out of nowhere has been spread out on the table, with the contact address and some rough outlines written in large, bold letters.\n",
+    "bar_s2_1": "After some conversation, she expressed her admiration for your rich technical knowledge.",
+    "bar_s2_2": "After some conversation, she expressed some skepticism about your ability to command.",
+    "bar_s2_3": "After some conversation, she expresses great interest in your adventures.",
+    "bar_o2": "\"Okay. I will do it as soon as possible.\"",
+    "bar_o2_leave": "Express no interest and leave",
+    "bar_leave": "Leave",
+    "event_title": "Fearless Tour",
+    "event_end": "End",
+    "event_end_s0": "You found the man she was looking for.",
+    "event_failed": "Failure",
+    "event_failed_s0": "You have failed to live up to the expectations of the Valkyrie.",
+    "event_otherEnd": "Accident",
+    "event_otherEnd_s0": "According to reports from those in the know, the fleet the man was with has disappeared. Regretfully, you will not be able to meet with the man who intrigued you.",
+    "event_s0": "A Valkyrian officer gave you the bounty information. To learn the details, you need to find the person who offered the bounty.",
+    "event_s0_l0": "Go to %s of %s",
+    "event_s1": "The female Admiral has asked you to deliver three brand new Yoshura class battleships to her planet's harbor within the specified time.",
+    "event_s1_tip": "Please ensure that the ship is mothballed and has no officer in command.",
+    "event_s1_l0": "Days remaining: %s",
+    "event_s1_l1": "Collect %s Yoshura class battleships",
+    "event_s1_l2": "Go to %s of %s to deliver the battleships",
+    "event_s1_r1": "你失去了 %s 艘约书亚级战列舰",
+    "event_s2": "Find that man.",
+    "event_s2_l0": "According to the female Admiral, he is at %s in %s",
+    "event_fleet_name": "%s Land Defense Fleet"
+  }
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,106 @@
+{
+  "bounds": [
+    -14,
+    -10,
+    21,
+    -0,
+    -14,
+    10,
+    -18,
+    -0
+  ],
+  "center": [
+    13,
+    21
+  ],
+  "collisionRadius": 24.005207,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 10,
+      "length": 30,
+      "location": [
+        -21,
+        -0
+      ],
+      "style": "CUSTOM",
+      "styleId": "valkEngine",
+      "width": 10
+    }
+  ],
+  "height": 43,
+  "hullId": "valk_lightning",
+  "hullName": "Lightning",
+  "hullSize": "FIGHTER",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 25.124689,
+  "spriteName": "graphics/ships/Valk_lightning.png",
+  "style": "VALKHULL",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS0001",
+      "locations": [
+        17.5,
+        2.5
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -0,
+      "arc": 0,
+      "id": "WS0002",
+      "locations": [
+        17.5,
+        -2.5
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -0,
+      "arc": 0,
+      "id": "WS0003",
+      "locations": [
+        1,
+        -0
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "MISSILE"
+    },
+    {
+      "angle": 135,
+      "arc": 0,
+      "id": "WS0004",
+      "locations": [
+        -13,
+        5
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "SYSTEM"
+    },
+    {
+      "angle": -135,
+      "arc": 0,
+      "id": "WS0005",
+      "locations": [
+        -13,
+        -5
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "SYSTEM"
+    }
+  ],
+  "width": 26
+}

@@ -1,0 +1,34 @@
+{
+	"defaultChannels":[
+		"valk_public",
+	],
+	
+	# messages sent on these channels will need to pass the same intel check as intercepts of comms
+	# on other channels, but won't show an "intercepted by comm sniffer" note,
+	# as conceptually they're an intel report based on data gleaned by comm sniffer,
+	# rather than an actual intercept.
+	
+	"valk_public":{
+		"name":"Valkyrian 新闻网 ",
+		"logo":"graphics/icons/intel/valk_news.png",
+		"icon":"graphics/icons/intel/valk_news.png",
+		"image":"graphics/factions/valk_flag.png",
+		"sound":"ui_channel_news",
+		"faction":"valkyrian",
+		"type":"Info bulletin",
+		"shortType":"Info",
+	},
+	"valk_internal":{
+		"name":"Valkyrian 评估服务",
+		"logo":"graphics/icons/intel/valk_intel.png",
+		"icon":"graphics/icons/intel/valk_intel.png",
+		"image":"graphics/factions/valk_flag.png",
+		"sound":"ui_channel_comm_secure",
+		"faction":"valkyrian",
+		"type":"Situation assessment",
+		"shortType":"Assesment",
+	},
+}
+
+
+

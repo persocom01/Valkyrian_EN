@@ -1,0 +1,64 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 11,
+    "fluxVents": 20,
+    "goalVariant": true,
+    "hullId": "valk_elegy",
+    "hullMods": [
+        "targetingunit",
+        "valk_redarmor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_elegy_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0017": "valk_geironul",
+                "WS0018": "valk_geironul"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0015": "valk_sunfury",
+                "WS0016": "valk_sunfury"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0009": "valk_twin_hiir_laser",
+                "WS0010": "valk_twin_hiir_laser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "valk_lightlancer",
+                "WS0002": "valk_lightlancer"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "valk_nxk_pd",
+                "WS0004": "valk_nxk_pd",
+                "WS0005": "valk_irpdcannon",
+                "WS0006": "valk_irpdcannon",
+                "WS0007": "valk_irpdcannon",
+                "WS0008": "valk_irpdcannon",
+                "WS0011": "valk_quadheavymg",
+                "WS0012": "valk_quadheavymg",
+                "WS0013": "flak",
+                "WS0014": "flak"
+            }
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+id,variant,tags,tier,rarity,fleet pts,op cost,formation,range,attackrunRange,attackPositionOffset,num,role,role desc,refit,base value,number
+valk_morgiana_wing,valk_morgiana_interceptor,"fighter2, interceptor, mid, valk_archon_bp",1,,3,4,CLAW,4000,200,,5,INTERCEPTOR,Interceptor,5,2500,
+valk_helia_corv_wing,valk_helia_corv,"fighter3, fighter, mid, valk_archon_bp",1,,9,15,V,4000,500,600,1,FIGHTER,Storm Fighter,15,20000,
+valk_azgard_wing,valk_azgard_hft,"fighter4, fighter, mid, valk_archon_bp",1,,6,15,V,4000,500,900,3,FIGHTER,Heavy Fighter,12,10000,
+valk_lightning_wing,valk_lightning_Assault,"fighter3, fighter, mid, valk_archon_bp",1,,5,12,BOX,4000,500,,2,FIGHTER,Blitz Fighter,10,7500,
+valk_firefly_wing,valk_firefly_laser,"fighter3, fighter, mid, valk_archon_bp",1,,9,6,V,4000,500,,3,FIGHTER,Laser Fighter,10,20000,
+valk_excalibur_corv_wing,valk_excalibur_corv,"fighter3, fighter, mid, valk_archon_bp",1,,12,15,V,4000,500,600,1,FIGHTER,Fighter,20,30000,
+valk_sahara_wing,valk_sahara_bomber,"bomber4, bomber, high, valk_archon_bp",1,,5,8,BOX,4000,2000,300,2,BOMBER,Bomber,12,5000,
+valk_ancord_H-bomber_wing,valk_ancord_bomber,"bomber5, bomber, high, valk_archon_bp",1,0.25,9,25,BOX,4000,2000,600,2,BOMBER,Heavy Bomber,20,35000,

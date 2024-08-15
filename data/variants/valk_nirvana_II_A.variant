@@ -1,0 +1,58 @@
+{
+    "displayName": "Advanced",
+    "fluxCapacitors": 9,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "valk_nirvana_II",
+    "hullMods": [
+        "targetingunit",
+        "fluxbreakers",
+        "valk_redarmor",
+        "ballistic_rangefinder"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_nirvana_II_A",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0024": "valk_geironul",
+                "WS0025": "valk_geironul"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0002": "heatseeker",
+                "WS0003": "heatseeker",
+                "WS0004": "valk_shadow",
+                "WS0005": "valk_shadow"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0008": "valk_dsc",
+                "WS0009": "valk_dsc",
+                "WS0010": "valk_dsc",
+                "WS0011": "valk_dsc"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0012": "valk_irpdcannon",
+                "WS0013": "valk_irpdcannon",
+                "WS0014": "valk_irpdcannon",
+                "WS0015": "valk_irpdcannon",
+                "WS0018": "valk_nxk_pd",
+                "WS0019": "valk_nxk_pd"
+            }
+        }
+    ]
+}

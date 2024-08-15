@@ -1,0 +1,52 @@
+{
+    "displayName": "Advanced",
+    "fluxCapacitors": 12,
+    "fluxVents": 20,
+    "goalVariant": true,
+    "hullId": "valk_almire_II",
+    "hullMods": [
+        "targetingunit",
+        "stabilizedshieldemitter",
+        "missleracks"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_almire_II_A",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0012": "valk_bcnn",
+                "WS0013": "valk_bcnn",
+                "WS0018": "valk_bcnn",
+                "WS0019": "valk_bcnn"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0001": "annihilatorpod",
+                "WS0002": "annihilatorpod",
+                "WS0003": "annihilatorpod"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0004": "valk_irpdcannon",
+                "WS0005": "valk_irpdcannon",
+                "WS0008": "valk_irpdcannon",
+                "WS0009": "valk_irpdcannon",
+                "WS0010": "valk_irpdcannon",
+                "WS0011": "valk_irpdcannon",
+                "WS0014": "valk_nxk_pd",
+                "WS0015": "valk_nxk_pd",
+                "WS0016": "valk_nxk_pd",
+                "WS0017": "valk_nxk_pd"
+            }
+        }
+    ]
+}

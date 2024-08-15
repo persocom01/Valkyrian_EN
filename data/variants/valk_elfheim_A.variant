@@ -1,0 +1,45 @@
+{
+    "displayName": "Advanced",
+    "fluxCapacitors": 10,
+    "fluxVents": 3,
+    "goalVariant": true,
+    "hullId": "valk_elfheim",
+    "hullMods": [
+        "converted_hangar",
+        "missile_autoloader"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_elfheim_A",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0001": "valk_spectre",
+                "WS0002": "valk_spectre"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0003": "gorgon",
+                "WS0004": "gorgon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "valk_nxk_pd",
+                "WS0006": "valk_nxk_pd",
+                "WS0007": "valk_irpdcannon",
+                "WS0008": "valk_irpdcannon",
+                "WS0009": "valk_nxk_pd",
+                "WS0010": "valk_nxk_pd"
+            }
+        }
+    ],
+    "wings": ["valk_morgiana_wing"]
+}

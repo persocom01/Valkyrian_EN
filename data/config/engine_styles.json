@@ -1,0 +1,21 @@
+{
+  "valkEngine": {
+    "engineColor": [175, 50, 50, 175],
+    "contrailParticleSizeMult": 6,
+    "contrailParticleDuration": 1.25,
+    "contrailMaxSpeedMult": 0.5f,
+    "contrailAngularVelocityMult": 0f,
+    "contrailColor": [175, 125, 125, 25],
+    "type": "GLOW" # GLOW or SMOKE
+  },
+  "valkEngine_Fusion_Missile": {
+    "engineColor": [220, 145, 220, 180],
+    "contrailParticleSizeMult": 2,
+    "contrailParticleDuration": 4,
+    "contrailParticleFinalSizeMult": 3,
+    "contrailMaxSpeedMult": 0.1,
+    "contrailAngularVelocityMult": 0.1,
+    "contrailColor": [80, 90, 100, 100],
+    "type": "SMOKE" # GLOW or SMOKE
+  }
+}

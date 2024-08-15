@@ -1,0 +1,38 @@
+{
+	"id":"valk_scorpion_mrm_warhead",
+	"specClass":"missile",	
+	"missileType":"MISSILE",
+    "onHitEffect":"data.scripts.weapons.valk_ScorpionOnHitEffect",
+	"sprite":"graphics/missiles/missile_valk_scorpion_warhead.png",
+	"size":[6,20],	
+	"center":[3,10],
+	"collisionRadius":10,
+	"collisionClass":"MISSILE_NO_FF",
+	"explosionColor":[255,100,100,100],  # purely visual, will get a white additively blended core on top of this color
+	"explosionRadius":50, # purely visual
+	"engineSpec":{"turnAcc":150,
+				  "turnRate":180,
+                  "maxSpeed":350,
+				  "acc":1000,
+				  "dec":500},
+    "maxFlightTime":5,  
+	"engineSlots":[{"id":"ES1",
+                                    "loc":[-10, 0],
+                                    "style":"CUSTOM",
+                                    "styleSpec":{
+                                            "mode":"QUAD_STRIP", # PARTICLES or QUAD_STRIP, determines which params are used
+                                            "engineColor":[200,155,125,255],
+                                            "contrailDuration":1,
+                                            "contrailWidthMult":1.5,
+                                            "contrailWidthAddedFractionAtEnd":2,  # can be negative. makes trail spread out/narrow at the end
+                                            "contrailMinSeg":15, # min segment length, in pixels
+                                            "contrailMaxSpeedMult":0.1f,
+                                            "contrailAngularVelocityMult":0.1f,
+                                            "contrailColor":[100,165,255,75],
+                                            "type":"SMOKE" # GLOW or SMOKE; additive or regular blend mode
+                                            },
+				    "width":7.0,
+				    "length":20.0,
+				    "angle":180.0},
+				    ]
+}

@@ -1,0 +1,102 @@
+{
+    "displayName": "Support",
+    "fluxCapacitors": 23,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "valk_vatican_II",
+    "hullMods": [
+        "targetingunit",
+        "valk_peakfire",
+        "adaptiveshields",
+        "stabilizedshieldemitter"
+    ],
+    "permaMods": [],
+    "variantId": "valk_vatican_II_S",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0053": "valk_heavy_assault_cannon",
+                "WS0054": "valk_heavy_assault_cannon",
+                "WS0055": "valk_heavy_assault_cannon",
+                "WS0056": "valk_heavy_assault_cannon",
+                "WS0057": "valk_heavy_assault_cannon",
+                "WS0058": "valk_heavy_assault_cannon",
+                "WS0059": "gauss",
+                "WS0060": "gauss",
+                "WS0061": "gauss",
+                "WS0062": "gauss"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0065": "locust"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0029": "valk_bcnn",
+                "WS0030": "valk_bcnn",
+                "WS0035": "hveldriver",
+                "WS0036": "hveldriver",
+                "WS0037": "hveldriver",
+                "WS0038": "hveldriver",
+                "WS0041": "hveldriver",
+                "WS0042": "hveldriver",
+                "WS0043": "heavymauler",
+                "WS0044": "heavymauler",
+                "WS0045": "heavymauler",
+                "WS0046": "heavymauler"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0063": "devastator",
+                "WS0064": "devastator"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "vulcan",
+                "WS0002": "vulcan",
+                "WS0003": "vulcan",
+                "WS0004": "vulcan",
+                "WS0005": "vulcan",
+                "WS0006": "vulcan",
+                "WS0011": "vulcan",
+                "WS0012": "vulcan",
+                "WS0015": "valk_irpdcannon",
+                "WS0016": "valk_irpdcannon",
+                "WS0017": "valk_irpdcannon",
+                "WS0018": "valk_irpdcannon",
+                "WS0019": "vulcan",
+                "WS0020": "vulcan",
+                "WS0021": "vulcan",
+                "WS0022": "vulcan",
+                "WS0023": "vulcan",
+                "WS0024": "vulcan",
+                "WS0025": "vulcan",
+                "WS0026": "vulcan",
+                "WS0027": "flak",
+                "WS0028": "flak",
+                "WS0031": "flak",
+                "WS0032": "flak",
+                "WS0033": "flak",
+                "WS0034": "flak",
+                "WS0039": "flak",
+                "WS0040": "flak",
+                "WS0047": "flak",
+                "WS0048": "flak",
+                "WS0049": "flak",
+                "WS0050": "flak"
+            }
+        }
+    ]
+}

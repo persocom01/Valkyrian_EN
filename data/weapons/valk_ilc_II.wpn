@@ -1,0 +1,28 @@
+{
+	"id":"valk_ilc_II",  # this id must match what's in the spreadsheet
+	"specClass":"projectile",
+	"type":"ENERGY",
+	"size":"LARGE",
+	"turretSprite":"graphics/weapons/valk_ilc_turret_II.png",
+	"turretGlowSprite":"graphics/weapons/valk_ilc_glow.png",
+	"hardpointSprite":"graphics/weapons/valk_ilc_turret_II.png",
+	"hardpointGlowSprite":"graphics/weapons/valk_ilc_glow.png",
+	"turretOffsets":[30, 0],
+	"turretAngleOffsets":[0],
+	"hardpointOffsets":[30, 0],
+	"hardpointAngleOffsets":[0],
+	"barrelMode":"ALTERNATING", # or LINKED.  whether barrels fire at the same time or alternate.
+	"animationType":"GLOW_AND_FLASH",
+	"glowColor":[255,100,155,255],
+	"muzzleFlashSpec":{"length":100.0,
+					   "spread":14.5,
+					   "particleSizeMin":8.0,
+					   "particleSizeRange":15.0,
+					   "particleDuration":1.5,
+					   "particleCount":60,
+					   "particleColor":[255,100,155,255]},		
+	"autocharge":true,  # whether the weapon will continue charging and fire if the LMB is tapped instead of held
+	"projectileSpecId":"valk_ilc_shot",  # projectile that will be fired
+	"fireSoundOne":"valk_ilc_ii_charge",
+	"fireSoundTwo":"valk_ilc_ii_fire",
+}

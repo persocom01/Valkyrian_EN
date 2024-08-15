@@ -1,0 +1,22 @@
+{
+	"id":"valk_geironul_shot",
+	"specClass":"projectile",
+	"spawnType":"BALLISTIC",
+	"onHitEffect":"data.scripts.weapons.valk_GeironulOnHitEffect",
+	"collisionClass":"PROJECTILE_FF",
+	"collisionClassByFighter":"PROJECTILE_FIGHTER",
+	"length":60.0,
+	"hitGlowRadius":120,
+	"width":12.0,
+	"fadeTime":0.5,
+	"fringeColor":[220,60,10,175],
+	#"coreColor":[255,225,175,225],
+	"coreColor":[255,200,200,200],
+	"glowColor":[255,90,30,105],
+	"glowRadius":60,
+	"textureScrollSpeed":64.0,
+	"pixelsPerTexel":5.0,
+	"passThroughMissiles":true,
+	"bulletSprite":"graphics/missiles/shell_hellbore.png"
+	#"bulletSprite":"graphics/missiles/shell_round_lrg.png"
+}

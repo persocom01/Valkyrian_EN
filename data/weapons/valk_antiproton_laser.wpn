@@ -1,0 +1,49 @@
+{
+  "id": "valk_antiproton_laser",
+  "specClass": "projectile",
+  "projectileSpecId": "valk_antiproton_shot",
+  "type": "BALLISTIC",
+  "size": "LARGE",
+  "turretSprite": "graphics/weapons/valk_antiproton_laser_turret_base.png",
+  "turretGlowSprite": "graphics/weapons/valk_antiproton_laser_turret_glow.png",
+  "hardpointSprite": "graphics/weapons/valk_antiproton_laser_hardpoint_base.png",
+  "hardpointGlowSprite": "graphics/weapons/valk_antiproton_laser_hardpoint_glow.png",
+  "glowColor": [
+    255,
+    150,
+    100,
+    255
+  ],
+  "turretOffsets": [
+    19,
+    0
+  ],
+  "turretAngleOffsets": [
+    0
+  ],
+  "hardpointOffsets": [
+    19,
+    0
+  ],
+  "hardpointAngleOffsets": [
+    0
+  ],
+  "barrelMode": "ALTERNATING",
+  "animationType": "GLOW_AND_FLASH",
+  "autocharge": true,
+  "muzzleFlashSpec": {
+    "length": 30,
+    "spread": 5,
+    "particleSizeMin": 15,
+    "particleSizeRange": 20,
+    "particleDuration": 0.12,
+    "particleCount": 10,
+    "particleColor": [
+      255,
+      150,
+      100,
+      255
+    ]
+  },
+  "fireSoundTwo": "valk_antiproton_laser_fire"
+}

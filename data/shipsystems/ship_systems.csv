@@ -1,0 +1,9 @@
+name,id,flux/second,f/s (base rate),f/s (base cap),flux/use,f/u (base rate),f/u (base cap),cr/u,max uses,regen,charge up,active,down,cooldown,toggle,noDissipation,noHardDissipation,hardFlux,noFiring,noTurning,noStrafing,noAccel,noShield,noVent,isPhaseCloak,tags,icon
+ECM Jammer,valk_ecm_jammer,,,,,,0.2,,,,1,15,1,15,,,,,,,,,,,,,graphics/icons/hullsys/ammo_feeder.png
+Infernium Drive,valk_inferniumdrive,1,,,,,,,,,0.3,3.2,2.3,11,TRUE,,,,,TRUE,TRUE,TRUE,TRUE,,,,graphics/icons/hullsys/burn_drive.png
+Valiant Defense,valk_valiant_defense,1,,,,,,,,,1,18,1,30,,,,,,,,,,,,,graphics/icons/hullsys/fortress_shield.png
+Overcharger,valk_overcharge,,,,,,,,,,0.5,4.5,3,8,,,,,,,,,,,,,graphics/icons/hullsys/ammo_feeder.png
+Phase Teleporter,valk_phaseteleporter,,,,,,0.33,,,,0.5,0,0.5,5,,TRUE,,TRUE,,,,,,,,,graphics/icons/hullsys/displacer.png
+Emergency Preparedness,valk_boostrefit,,,,,,0.33,,,,0.5,15,0.5,15,,,,,,,,,,,,,graphics/icons/hullsys/reserve_deployment.png
+Charging Jets,valk_chargingjets,,,,,,,,,,1,3,2,5,,,,,,,,,,,,,graphics/icons/hullsys/infernium_injector.png
+Burst Drive,valk_burstdrive,1,,,,,,,2,0.1,0.5,0.5,0.5,,,,,,,,TRUE,TRUE,,,,,graphics/icons/hullsys/burn_drive.png

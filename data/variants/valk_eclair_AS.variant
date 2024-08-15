@@ -1,0 +1,48 @@
+{
+    "displayName": "Assault",
+    "fluxCapacitors": 5,
+    "fluxVents": 11,
+    "goalVariant": true,
+    "hullId": "valk_eclair",
+    "hullMods": [
+        "targetingunit",
+        "hardenedshieldemitter",
+        "valk_peakfire"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_eclair_AS",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0008": "valk_plasma_laser"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0001": "valk_phantasm",
+                "WS0002": "valk_phantasm"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0010": "valk_bcnn",
+                "WS0011": "valk_bcnn"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0004": "valk_irpdcannon",
+                "WS0005": "valk_irpdcannon",
+                "WS0009": "valk_irpdcannon",
+                "WS0012": "valk_irpdcannon"
+            }
+        }
+    ]
+}

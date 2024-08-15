@@ -1,0 +1,19 @@
+{
+	"id":"valk_plasma_laser_shot",
+	"specClass":"projectile",
+    "onHitEffect":"data.scripts.weapons.valk_plasmaOnHitEffect",
+	"spawnType":"BALLISTIC_AS_BEAM",
+	"collisionClass":"RAY",
+	"collisionClassByFighter":"RAY_FIGHTER",
+	"length":80.0,
+	"width":6,
+	"fadeTime":0.3,
+	"fringeColor":[255,100,100,255],
+	"coreColor":[255,255,255,255],	
+	"glowColor":[155,0,0,200],
+	"glowRadius":25,
+	"hitGlowRadius":45,
+	"textureScrollSpeed":75.0,
+	"pixelsPerTexel":10.0,
+	"bulletSprite":"graphics/missiles/shell_gauss_cannon.png"	
+}

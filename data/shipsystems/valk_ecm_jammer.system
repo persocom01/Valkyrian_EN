@@ -1,0 +1,11 @@
+{
+    "id":"valk_ecm_jammer",
+    "type":"STAT_MOD",
+    "aiType":"CUSTOM",
+    "aiScript":"data.shipsystems.scripts.ai.valk_ECMJammerAI",
+
+    "statsScript":"data.shipsystems.scripts.valk_ECMJammer",
+
+    "useSound":"valk_ecm_jammer_use",
+    "outOfUsesSound":"gun_out_of_ammo",
+}

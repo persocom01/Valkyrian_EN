@@ -1,0 +1,45 @@
+{
+	"id":"valk_phantasm_cruise_missile",
+	"specClass":"missile",
+	"missileType":"MISSILE",
+	"sprite":"graphics/missiles/missile_valk_phantasm.png",
+	"size":[10,50],	
+	"center":[5,25],
+	"collisionRadius":30,
+	"collisionClass":"MISSILE_NO_FF",
+	"explosionColor":[255,75,75,255],  # purely visual, will get a white additively blended core on top of this color
+	"explosionRadius":200, # purely visual
+	"explosionSpec":{"duration":0.25f, # not visual
+					 "radius":180,
+					 "coreRadius":90, # full damage within core radius
+					 "collisionClass":HITS_SHIPS_AND_ASTEROIDS,
+					 "collisionClassByFighter":HITS_SHIPS_AND_ASTEROIDS,
+					 "particleSizeMin":6.0,
+					 "particleSizeRange":2.0,
+					 "particleDuration":1.5,
+					 "particleCount":100,
+					 "particleColor":[255,155,155,255]},
+	"engineSpec":{"turnAcc":60,
+				  "turnRate":30,
+				  "acc":350,
+				  "dec":150},
+	"engineSlots":[{"id":"ES1",
+					"loc":[-24, 0],
+				    "style": "CUSTOM",
+					"styleSpec":{
+						"mode":"QUAD_STRIP", # PARTICLES or QUAD_STRIP, determines which params are used
+						"engineColor":[255,145,75,255],
+						"contrailDuration":3,
+						"contrailWidthMult":1,
+						"contrailWidthAddedFractionAtEnd":2,  # can be negative. makes trail spread out/narrow at the end
+						"contrailMinSeg":15, # min segment length, in pixels
+						"contrailMaxSpeedMult":.0f,
+						"contrailAngularVelocityMult":0.5f,
+						"contrailSpawnDistMult":.75, # how far away from engine it starts
+						"contrailColor":[125,75,75,255],
+						"type":"SMOKE" # GLOW or SMOKE; additive or regular blend mode
+					},
+				    "width":20.0,
+				    "length":80.0,
+				    "angle":180.0}]
+}

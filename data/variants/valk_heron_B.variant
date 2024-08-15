@@ -1,0 +1,56 @@
+{
+    "displayName": "Advanced",
+    "fluxCapacitors": 16,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "valk_heron_b",
+    "hullMods": [
+        "valk_fluxfog",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "fluxbreakers"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_heron_B",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0007": "valk_phantasm",
+                "WS0008": "valk_phantasm"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0012": "valk_ballista",
+                "WS0013": "valk_ballista"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "valk_irpdcannon",
+                "WS0006": "valk_irpdcannon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "valk_nxk_pd",
+                "WS0002": "valk_nxk_pd",
+                "WS0003": "valk_irpdcannon",
+                "WS0004": "valk_irpdcannon"
+            }
+        }
+    ],
+    "wings": [
+        "valk_firefly_wing",
+        "valk_morgiana_wing"
+    ]
+}

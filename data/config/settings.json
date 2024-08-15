@@ -1,0 +1,35 @@
+{
+  "designTypeColors": {
+    "Valkyrian Archon Industries": [130, 0, 0, 255],
+    "Valkyrian Horizon Shipyards": [200, 20, 40, 255],
+    "Valkyrian Enigma Company": [150, 0, 70, 255],
+  },
+  "plugins": {
+    "valk_CombatPlugin": "data.scripts.plugins.valk_CombatPlugin"
+  },
+  "graphics": {
+    "backgrounds": {
+      "purplePeace": "graphics/backgrounds/valk_extra_background.jpg",
+      "enigma": "graphics/backgrounds/valk_background4.jpg",
+    },
+    "blueprint_packages": {
+      "valk_archon_package": "graphics/icons/cargo/bp_valk_archon.png",
+      "valk_enigma_package": "graphics/icons/cargo/bp_valk_enigma.png",
+      "valk_horizon_package": "graphics/icons/cargo/bp_valk_horizon.png",
+    },
+    "fx": {
+      "valk_shockwave0": "graphics/fx/valk_shockwave0.png",
+      "valk_shockwave1": "graphics/fx/valk_shockwave1.png"
+    },
+    "intel": {
+      "valk_fearlesstour": "graphics/icons/intel/valk_fearlesstour.png"
+    },
+    "yoshuraSkin": {
+      "valk_yoshuraSkinLove": "graphics/ships/Valk_Yoshura_prime_love.png",
+      "valk_yoshuraSkinHate": "graphics/ships/Valk_Yoshura_prime_hate.png"
+    },
+    "ui": {
+      "valk_holycovenant_icon": "graphics/icons/hullsys/valk_holycovenant_icon.png"
+    }
+  }
+}	

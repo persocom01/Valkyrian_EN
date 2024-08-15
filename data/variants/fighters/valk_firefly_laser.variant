@@ -1,0 +1,25 @@
+{
+  "displayName": "Laser Fighter",
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "hullId": "valk_firefly",
+  "hullMods": [],
+  "variantId": "valk_firefly_laser",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "valk_ptr_laser"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0002": "valk_cockatrice",
+        "WS0003": "valk_cockatrice"
+      }
+    }
+  ]
+}

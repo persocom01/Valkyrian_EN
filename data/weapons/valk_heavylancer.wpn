@@ -1,0 +1,32 @@
+{
+	"id":"valk_heavylancer",  # this id must match what's in the spreadsheet
+	"specClass":"projectile",
+	"type":"BALLISTIC",
+	"size":"MEDIUM",
+	"turretSprite":"graphics/weapons/valk_heavylancer_turret_base.png",
+	"turretGunSprite":"graphics/weapons/valk_heavylancer_turret_recoil.png",
+	"turretGlowSprite":"graphics/weapons/valk_heavylancer_turret_glow.png",
+	"hardpointSprite":"graphics/weapons/valk_heavylancer_hardpoint_base.png",
+	"hardpointGunSprite":"graphics/weapons/valk_heavylancer_hardpoint_recoil.png",
+    "hardpointGlowSprite":"graphics/weapons/valk_heavylancer_hardpoint_glow.png",		
+	"visualRecoil":3.0,  # the gun sprites are only used if this is non-0
+	"renderHints":["RENDER_BARREL_BELOW"],
+	"turretOffsets":[17, -3, 17, 3],
+	"turretAngleOffsets":[0],
+	"hardpointOffsets":[24, -3, 24, 3],
+	"hardpointAngleOffsets":[0],
+	"specialWeaponGlowWidth":10,
+	"specialWeaponGlowHeight":30,
+	"barrelMode":"ALTERNATING", # or LINKED.  whether barrels fire at the same time or alternate.
+	"animationType":"GLOW_AND_FLASH",
+	"glowColor":[225,225,255,150],
+	"muzzleFlashSpec":{"length":50.0,   # only used if animationType = MUZZLE_FLASH
+					   "spread":0.0,
+					   "particleSizeMin":7.0,
+					   "particleSizeRange":7.0,
+					   "particleDuration":0.2,
+					   "particleCount":12,
+					   "particleColor":[225,225,255,150]},
+	"projectileSpecId":"valk_heavylancer_shot",  # projectile that will be fired
+	"fireSoundTwo":"valk_grlancer_fire_medium",
+}

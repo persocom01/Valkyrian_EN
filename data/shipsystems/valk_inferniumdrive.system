@@ -1,0 +1,28 @@
+{
+	"id":"valk_inferniumdrive",
+	"type":"ENGINE_MOD",
+	"aiType":"BURN_DRIVE_TOGGLE",
+	
+	"statsScript":"data.shipsystems.scripts.valk_InferniumDrive",
+
+	"engineGlowLengthMult":3.5,
+	"engineGlowWidthMult":3,
+	"engineGlowGlowMult":3,
+
+	"flameoutOnImpactChance":0.5,
+
+	"clampTurnRateAfter":true,
+	"clampMaxSpeedAfter":true,
+	"alwaysAccelerate":true,
+
+	"useSound":"valk_inferniumdrive_start",
+	"loopSound":"valk_inferniumdrive_loop",
+	"deactivateSound":"valk_inferniumdrive_end",
+	"outOfUsesSound":"engine_disabled",
+
+	"aiHints":{
+		"activeSpeedIncrease":100,
+		"burstMovementPotential":0,
+		"averageSpeedIncrease":100,
+	}
+}

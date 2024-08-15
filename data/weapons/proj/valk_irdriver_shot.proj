@@ -1,0 +1,15 @@
+{
+  "id": "valk_irdriver_shot",
+  "specClass": "projectile",
+  "spawnType": "BALLISTIC_AS_BEAM",
+  "collisionClass": "RAY",
+  "collisionClassByFighter": "RAY_FIGHTER",
+  "length": 65.0,
+  "width": 10.0,
+  "fadeTime": 0.25,
+  "fringeColor": [255, 100, 155, 255],
+  "coreColor": [255, 255, 255, 200],
+  "textureType": "SMOOTH",
+  "textureScrollSpeed": -256.0,
+  "pixelsPerTexel": 1.0
+}

@@ -1,0 +1,70 @@
+{
+    "displayName": "Beamer",
+    "fluxCapacitors": 10,
+    "fluxVents": 24,
+    "goalVariant": true,
+    "hullId": "valk_almire_III",
+    "hullMods": [
+        "targetingunit",
+        "hardenedshieldemitter",
+        "pointdefenseai",
+        "valk_peakfire",
+        "stabilizedshieldemitter",
+        "ballistic_rangefinder"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_almire_III_B",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0024": "valk_imbc"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "hammer_single"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0022": "valk_geironul",
+                "WS0023": "valk_geironul"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0002": "valk_dsc",
+                "WS0003": "valk_dsc",
+                "WS0004": "valk_dsc",
+                "WS0005": "valk_dsc"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0006": "valk_irpdcannon",
+                "WS0007": "valk_irpdcannon",
+                "WS0008": "valk_irpdcannon",
+                "WS0009": "valk_irpdcannon",
+                "WS0010": "valk_irpdcannon",
+                "WS0011": "valk_irpdcannon",
+                "WS0014": "valk_irpdcannon",
+                "WS0015": "valk_irpdcannon",
+                "WS0016": "valk_irpdcannon",
+                "WS0017": "valk_irpdcannon",
+                "WS0018": "valk_quadheavymg",
+                "WS0019": "valk_quadheavymg",
+                "WS0020": "valk_irpdcannon",
+                "WS0021": "valk_irpdcannon",
+                "WS0043": "valk_irpdcannon",
+                "WS0044": "valk_irpdcannon"
+            }
+        }
+    ]
+}

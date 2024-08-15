@@ -1,0 +1,14 @@
+{
+	"id":"valk_overcharge",
+	"type":"STAT_MOD",
+	"aiType":"WEAPON_BOOST",
+
+
+	"statsScript":"data.shipsystems.scripts.valk_OverchargeStats",
+
+	"useSound":"system_ammo_feeder",
+	"deactivateSound":"system_high_energy_focus_deactivate",
+
+	"outOfUsesSound":"gun_out_of_ammo",
+	"loopSound":"system_high_energy_focus_loop",
+}

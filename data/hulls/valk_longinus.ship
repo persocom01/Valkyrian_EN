@@ -1,0 +1,231 @@
+{
+  "bounds": [
+    40,
+    6.5,
+    40.5,
+    15.5,
+    27.5,
+    20.5,
+    27.5,
+    45.5,
+    22.5,
+    50.5,
+    -32.5,
+    49.5,
+    -26,
+    46.5,
+    -26,
+    -46.5,
+    -32.5,
+    -49.5,
+    22.5,
+    -50.5,
+    26.5,
+    -46.5,
+    26.5,
+    -21.5,
+    40.5,
+    -15.5,
+    40.5,
+    -6.5,
+    25.5,
+    -0
+  ],
+    "builtInMods": [
+    "valk_microbryncore"
+  ],
+  "builtInWeapons": {
+    "WS0007": "valk_blinker_short",
+    "WS0008": "valk_blinker_short"
+  },
+  "center": [
+    52,
+    34
+  ],
+  "collisionRadius": 64.158005,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 14,
+      "length": 67,
+      "location": [
+        -33,
+        6
+      ],
+      "style": "CUSTOM",
+      "styleId": "valkEngine",
+      "width": 14
+    },
+    {
+      "angle": -180,
+      "contrailSize": 14,
+      "length": 67,
+      "location": [
+        -33,
+        -6
+      ],
+      "style": "CUSTOM",
+      "styleId": "valkEngine",
+      "width": 14
+    },
+    {
+      "angle": -180,
+      "contrailSize": 10,
+      "length": 42,
+      "location": [
+        -29,
+        -30.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "valkEngine",
+      "width": 10
+    },
+    {
+      "angle": 180,
+      "contrailSize": 10,
+      "length": 42,
+      "location": [
+        -29,
+        30.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "valkEngine",
+      "width": 10
+    },
+    {
+      "angle": -180,
+      "contrailSize": 8,
+      "length": 46,
+      "location": [
+        -30,
+        -39
+      ],
+      "style": "CUSTOM",
+      "styleId": "valkEngine",
+      "width": 8
+    },
+    {
+      "angle": 180,
+      "contrailSize": 8,
+      "length": 46,
+      "location": [
+        -30,
+        39
+      ],
+      "style": "CUSTOM",
+      "styleId": "valkEngine",
+      "width": 8
+    }
+  ],
+  "height": 78,
+  "hullId": "valk_longinus",
+  "hullName": "Longinus",
+  "hullSize": "FRIGATE",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 63.007935,
+  "spriteName": "graphics/ships/Valk_Longinus.png",
+  "style": "VALKHULL",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS0003",
+      "locations": [
+        37,
+        11
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -0,
+      "arc": 5,
+      "id": "WS0004",
+      "locations": [
+        37,
+        -11
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 90,
+      "arc": 225,
+      "id": "WS0005",
+      "locations": [
+        3,
+        19
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -90,
+      "arc": 225,
+      "id": "WS0006",
+      "locations": [
+        3,
+        -19
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS0007",
+      "locations": [
+        16.5,
+        18.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": -0,
+      "arc": 0,
+      "id": "WS0008",
+      "locations": [
+        16.5,
+        -18.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": -0,
+      "arc": 20,
+      "id": "WS0001",
+      "locations": [
+        29,
+        -31
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 0,
+      "arc": 20,
+      "id": "WS0002",
+      "locations": [
+        29,
+        31
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    }
+  ],
+  "width": 104
+}

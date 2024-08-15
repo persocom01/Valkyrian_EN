@@ -1,0 +1,119 @@
+{
+  "music": {
+    "valkyrian_hostile": [
+      {"file": "valkyrian_hostile.ogg", "source": "sounds/music/", "volume": 0.4, "randomStart": true},
+    ],
+    "valkyrian_neutral": [
+      {"file": "valkyrian_neutral.ogg", "source": "sounds/music/", "volume": 0.4, "randomStart": true},
+    ],
+    "valkyrian_friendly": [
+      {"file": "valkyrian_friendly.ogg", "source": "sounds/music/", "volume": 0.4, "randomStart": true},
+    ],
+  },
+  "valk_antiproton_laser_fire": [
+    {"file": "sounds/fx/guns/valk_antiproton_laser_fire.ogg", "pitch": 1.0, "volume": 0.8},
+    {"file": "sounds/fx/guns/valk_antiproton_laser_fire.ogg", "pitch": 1.05, "volume": 0.8},
+    {"file": "sounds/fx/guns/valk_antiproton_laser_fire.ogg", "pitch": 0.95, "volume": 0.8}
+  ],
+  "valk_ilc_fire": [{"file": "sounds/fx/guns/valk_ilc_fire.ogg", "pitch": 1, "volume": 1.0}],
+  "valk_ilc_ii_fire": [{"file": "sounds/fx/guns/valk_ilc_ii_fire.ogg", "pitch": 1.0, "volume": 1.0}],
+  "valk_plasma_laser_fire": [{"file": "sounds/fx/guns/valk_plasma_laser_fire.ogg", "pitch": 1, "volume": 1}],
+  "valk_bcnn_fire": [{"file": "sounds/fx/guns/valk_bcnn_fire.ogg", "pitch": 1, "volume": 1}],
+  "valk_ptr_laser_fire": [{"file": "sounds/fx/guns/valk_ptr_laser_fire.ogg", "pitch": 1.5, "volume": 1.0}],
+  "valk_xr_repeater_fire": [{"file": "sounds/fx/guns/valk_twin_hiir_fire.ogg", "pitch": 1.15, "volume": 0.60}],
+  "valk_twin_hiir_fire": [{"file": "sounds/fx/guns/valk_twin_hiir_fire.ogg", "pitch": 1, "volume": 0.80}],
+  "valk_quadheavymg_fire": [
+    {"file": "sounds/fx/guns/valk_quadheavymg_fire_01.ogg", "pitch": 1, "volume": 0.50},
+    {"file": "sounds/fx/guns/valk_quadheavymg_fire_02.ogg", "pitch": 1, "volume": 0.50},
+  ],
+  "valk_cockatrice_fire": [{"file": "sounds/fx/guns/valk_cockatrice_fire.ogg", "pitch": 1.0, "volume": 0.5},],
+  "valk_hyperbeam_fire": [
+    {"file": "sounds/fx/guns/valk_hyperbeam_fire_01.ogg", "pitch": 1, "volume": 1.0},
+    {"file": "sounds/fx/guns/valk_hyperbeam_fire_02.ogg", "pitch": 1, "volume": 1.0},
+  ],
+  "valk_inferniumdrive_start": [
+    {"file": "sounds/fx/systems/valk_inferniumdrive_start.ogg", "pitch": 1, "volume": 0.9},
+  ],
+  "valk_inferniumdrive_end": [
+    {"file": "sounds/fx/systems/valk_inferniumdrive_end.ogg", "pitch": 1, "volume": 1},
+  ],
+  "valk_inferniumdrive_loop": [
+    {"file": "sounds/fx/systems/valk_inferniumdrive_loop.ogg", "pitch": 1, "volume": 1},
+  ],
+  "valk_irpdcannon2": [{"file": "sounds/fx/guns/valk_irpdcannon2.ogg", "pitch": 1.1, "volume": 0.2}],
+  "valk_ultraheavylancer_fire": [
+    {"file": "sounds/fx/guns/valk_ultraheavylancer_fire.ogg", "pitch": 0.5, "volume": 0.4}
+  ],
+  "valk_grlancer_fire_medium": [
+    {"file": "sounds/fx/guns/valk_grlancer_fire1.ogg", "pitch": 1.0, "volume": 0.5},
+    {"file": "sounds/fx/guns/valk_grlancer_fire2.ogg", "pitch": 1.0, "volume": 0.5},
+    {"file": "sounds/fx/guns/valk_grlancer_fire3.ogg", "pitch": 1.0, "volume": 0.5},
+  ],
+  "valk_grlancer_fire_small": [
+    {"file": "sounds/fx/guns/valk_grlancer_fire1.ogg", "pitch": 1.2, "volume": 0.3},
+    {"file": "sounds/fx/guns/valk_grlancer_fire2.ogg", "pitch": 1.2, "volume": 0.3},
+    {"file": "sounds/fx/guns/valk_grlancer_fire3.ogg", "pitch": 1.2, "volume": 0.3},
+  ],
+  "valk_ballista_launch": [
+    {"file": "sounds/fx/guns/valk_ballista_launch_01.ogg", "pitch": 1.00, "volume": 1},
+    {"file": "sounds/fx/guns/valk_ballista_launch_02.ogg", "pitch": 1.00, "volume": 1},
+  ],
+  "valk_beam_loop": [
+    {"file": "sounds/fx/guns/valk_beam_loop.ogg", "pitch": 1.0, "volume": 0.9},
+  ],
+  "valk_irpdburst_loop": [
+    {"file": "sounds/fx/guns/valk_irpdburst_loop.ogg", "pitch": 1, "volume": 0.5},
+  ],
+  "valk_irpdburst_fire": [
+    {"file": "sounds/fx/guns/valk_irpdburst_fire.ogg", "pitch": 1, "volume": 0.2},
+  ],
+  "valk_irdriver_fire": [
+    {"file": "sounds/fx/guns/valk_irdriver_fire.ogg", "pitch": 1, "volume": 0.33},
+  ],
+  "valk_ilc_ii_charge": [
+    {"file": "sounds/fx/guns/valk_ilc_ii_charge.ogg", "pitch": 1, "volume": 1},
+  ],
+  "valk_plasma_blast": [
+    {"file": "sounds/fx/guns/valk_plasma_blast_01.ogg", "pitch": 1, "volume": 1},
+    {"file": "sounds/fx/guns/valk_plasma_blast_02.ogg", "pitch": 1, "volume": 1},
+  ],
+  "valk_scorpion_mrm_split": [
+    {"file": "sounds/fx/missiles/valk_scorpion_mrm_split.ogg", "pitch": 1, "volume": 0.6},
+    {"file": "sounds/fx/missiles/valk_scorpion_mrm_split.ogg", "pitch": 1.05, "volume": 0.6},
+    {"file": "sounds/fx/missiles/valk_scorpion_mrm_split.ogg", "pitch": 0.95, "volume": 0.6},
+  ],
+  "valk_dsc_fire": [
+    {"file": "sounds/fx/guns/valk_dsc_fire.ogg", "pitch": 1, "volume": 1},
+  ],
+  "valk_heavy_support_missile_launch": [
+    {"file": "sounds/fx/guns/valk_heavy_support_missile_launch.ogg", "pitch": 0.8, "volume": 1},
+  ],
+  "valk_valiant_defense_activate": [
+    {"file": "sounds/fx/systems/valk_valiant_defense_activate.ogg", "pitch": 0.8, "volume": 1.0}
+  ],
+  "valk_valiant_defense_deactivate": [
+    {"file": "sounds/fx/systems/valk_valiant_defense_deactivate.ogg", "pitch": 0.8, "volume": 1.0}
+  ],
+  "valk_overcharge_out": [
+    {"file": "sounds/fx/systems/valk_overcharge_out.ogg", "pitch": 1, "volume": 1.0}
+  ],
+  "valk_ecm_jammer_use": [{"file": "sounds/fx/guns/valk_ecm_jammer_use.ogg", "pitch": 1, "volume": 1}],
+  "valk_heavy_assault_cannon_fire": {
+    "sounds": [
+      {"file": "sounds/fx/guns/valk_heavy_assault_cannon_fire_01.ogg", "pitch": 1, "volume": 1.0},
+      {"file": "sounds/fx/guns/valk_heavy_assault_cannon_fire_02.ogg", "pitch": 1, "volume": 1.0},
+    ],
+  },
+  "valk_geironul_fire": {
+    "sounds": [
+      {"file": "sounds/fx/guns/valk_geironul_fire.ogg", "pitch": 1, "volume": 0.8},
+      {"file": "sounds/fx/guns/valk_geironul_fire.ogg", "pitch": 0.95, "volume": 0.8},
+      {"file": "sounds/fx/guns/valk_geironul_fire.ogg", "pitch": 1.05, "volume": 0.8},
+    ]
+  },
+  "valk_geironul_lightup": {
+    "sounds": [
+      {"file": "sounds/fx/guns/valk_geironul_lightup.ogg", "pitch": 1, "volume": 0.6}
+    ]
+  }
+}

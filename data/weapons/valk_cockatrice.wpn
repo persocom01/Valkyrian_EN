@@ -1,0 +1,46 @@
+{
+  "id": "valk_cockatrice", # this id must match what's in the spreadsheet
+  "specClass": "projectile",
+  "type": "BALLISTIC",
+  "size": "SMALL",
+  "displayArcRadius": 300,
+  "turretSprite": "graphics/weapons/valk_irpdcannon_turret_base.png",
+  "turretGunSprite": "graphics/weapons/valk_irpdcannon_turret_recoil.png",
+  "hardpointSprite": "graphics/weapons/valk_irpdcannon_hardpoint_base.png",
+  "hardpointGunSprite": "graphics/weapons/valk_irpdcannon_hardpoint_recoil.png",
+  "visualRecoil": 4,
+  "renderHints": [RENDER_BARREL_BELOW],
+  "turretOffsets": [
+    9,
+    -3.5,
+    9,
+    3.5
+  ],
+  "turretAngleOffsets": [
+    0,
+    0
+  ],
+  "hardpointOffsets": [
+    9,
+    -3.5,
+    9,
+    3.5
+  ],
+  "hardpointAngleOffsets": [
+    0,
+    0
+  ],
+  "barrelMode": "LINKED", # or ALTERNATING.  whether barrels fire at the same time or alternate.
+  "animationType": "MUZZLE_FLASH",
+  "muzzleFlashSpec": {
+    "length": 20.0, # only used if animationType = MUZZLE_FLASH
+    "spread": 5.0,
+    "particleSizeMin": 4.0,
+    "particleSizeRange": 11.0,
+    "particleDuration": 0.11,
+    "particleCount": 6,
+    "particleColor": [125, 120, 175, 250]
+  },
+  "projectileSpecId": "valk_irpdcannon_shot", # projectile that will be fired
+  "fireSoundTwo": "valk_cockatrice_fire",
+}

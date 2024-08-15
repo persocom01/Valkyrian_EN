@@ -1,0 +1,63 @@
+{
+  "id": "valk_light_antimatter_laser",
+  "specClass": "beam",
+  "type": "BALLISTIC",
+  "size": "MEDIUM",
+  "beamEffect": "data.scripts.weapons.valk_AntiMatterBeamEffect",
+  "collisionClass": "RAY",
+  "collisionClassByFighter": "RAY_FIGHTER",
+  "displayArcRadius": 1000,
+  "turretSprite": "graphics/weapons/valk_light_antimatter_laser_turret_base.png",
+  "turretGlowSprite": "graphics/weapons/valk_light_antimatter_laser_turret_glow.png",
+  "hardpointSprite": "graphics/weapons/valk_light_antimatter_laser_hardpoint_base.png",
+  "hardpointGlowSprite": "graphics/weapons/valk_light_antimatter_laser_hardpoint_glow.png",
+  "glowColor": [
+    255,
+    75,
+    75,
+    235
+  ],
+  "hitGlowRadius": 0,
+  "turretOffsets": [
+    16,
+    2,
+    16,
+    -2
+  ],
+  "turretAngleOffsets": [
+    0
+  ],
+  "hardpointOffsets": [
+    16,
+    2,
+    16,
+    -2
+  ],
+  "hardpointAngleOffsets": [
+    0
+  ],
+  "fringeColor": [
+    255,
+    155,
+    155,
+    255
+  ],
+  "coreColor": [
+    105,
+    105,
+    255,
+    255
+  ],
+  "width": 8,
+  "textureType": LASER,
+  "textureScrollSpeed": 64,
+  "pixelsPerTexel": 5,
+  "pierceSet": [
+    PROJECTILE_FF,
+    PROJECTILE_NO_FF,
+    PROJECTILE_FIGHTER,
+    MISSILE_FF,
+    MISSILE_NO_FF
+  ],
+  "fireSoundTwo": "graviton_beam_loop"
+}

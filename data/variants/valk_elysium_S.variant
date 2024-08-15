@@ -1,0 +1,47 @@
+{
+    "displayName": "Support",
+    "fluxCapacitors": 4,
+    "fluxVents": 12,
+    "goalVariant": true,
+    "hullId": "valk_elysium",
+    "hullMods": [
+        "targetingunit",
+        "ballistic_rangefinder"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_elysium_S",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0009": "valk_imbc"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0007": "valk_spectre",
+                "WS0008": "valk_spectre"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0011": "valk_dsc",
+                "WS0012": "valk_dsc"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "valk_nxk_pd",
+                "WS0002": "valk_nxk_pd",
+                "WS0005": "valk_irpdcannon",
+                "WS0006": "valk_irpdcannon"
+            }
+        }
+    ]
+}

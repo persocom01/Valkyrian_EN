@@ -1,0 +1,62 @@
+{
+  "id": "valk_imbc",
+  "specClass": "beam",
+  "type": "BALLISTIC",
+  "size": "LARGE",
+  "beamEffect": "data.scripts.weapons.valk_AntiMatterBeamEffect",
+  "collisionClass": "RAY",
+  "collisionClassByFighter": "RAY_FIGHTER",
+  "turretSprite": "graphics/weapons/valk_imbc_turret_base.png",
+  "turretGlowSprite": "graphics/weapons/valk_imbc_turret_glow.png",
+  "hardpointSprite": "graphics/weapons/valk_imbc_hardpoint_base.png",
+  "hardpointGlowSprite": "graphics/weapons/valk_imbc_hardpoint_glow.png",
+  "glowColor": [
+    255,
+    75,
+    75,
+    235
+  ],
+  "hitGlowRadius": 0,
+  "turretOffsets": [
+    29,
+    2,
+    29,
+    -2
+  ],
+  "turretAngleOffsets": [
+    0
+  ],
+  "hardpointOffsets": [
+    29,
+    2,
+    29,
+    -2
+  ],
+  "hardpointAngleOffsets": [
+    0
+  ],
+  "fringeColor": [
+    255,
+    155,
+    155,
+    255
+  ],
+  "coreColor": [
+    255,
+    225,
+    255,
+    255
+  ],
+  "width": 12,
+  "textureType": ROUGH,
+  "textureScrollSpeed": 256,
+  "pixelsPerTexel": 5,
+  "pierceSet": [
+    PROJECTILE_FF,
+    PROJECTILE_NO_FF,
+    PROJECTILE_FIGHTER,
+    MISSILE_FF,
+    MISSILE_NO_FF
+  ],
+  "fireSoundTwo": "valk_beam_loop"
+}

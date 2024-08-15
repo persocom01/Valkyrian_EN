@@ -1,0 +1,98 @@
+{
+    "displayName": "Advanced",
+    "fluxCapacitors": 34,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "valk_vatican_I",
+    "hullMods": [
+        "expanded_deck_crew",
+        "missleracks",
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_vatican_I_A",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0009": "valk_spectre",
+                "WS0010": "valk_spectre",
+                "WS0011": "valk_spectre",
+                "WS0012": "valk_spectre"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0013": "valk_phantasm",
+                "WS0014": "valk_phantasm",
+                "WS0015": "valk_phantasm",
+                "WS0016": "valk_phantasm"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "valk_scorpion",
+                "WS0002": "valk_scorpion",
+                "WS0003": "valk_scorpion",
+                "WS0004": "valk_scorpion",
+                "WS0005": "valk_scorpion",
+                "WS0006": "valk_scorpion",
+                "WS0007": "valk_scorpion",
+                "WS0008": "valk_scorpion"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0037": "valk_heavylancer",
+                "WS0038": "valk_heavylancer"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0017": "valk_lightlancer",
+                "WS0018": "valk_lightlancer"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0019": "valk_nxk_pd",
+                "WS0020": "valk_nxk_pd",
+                "WS0021": "valk_irpdcannon",
+                "WS0022": "valk_irpdcannon",
+                "WS0025": "valk_nxk_pd",
+                "WS0026": "valk_nxk_pd",
+                "WS0029": "valk_irpdcannon",
+                "WS0030": "valk_irpdcannon",
+                "WS0035": "valk_irpdcannon",
+                "WS0036": "valk_irpdcannon",
+                "WS0047": "valk_nxk_pd",
+                "WS0048": "valk_nxk_pd",
+                "WS0049": "valk_nxk_pd",
+                "WS0050": "valk_nxk_pd",
+                "WS0051": "valk_nxk_pd",
+                "WS0052": "valk_nxk_pd"
+            }
+        }
+    ],
+    "wings": [
+        "valk_lightning_wing",
+        "valk_helia_corv_wing",
+        "valk_morgiana_wing",
+        "valk_morgiana_wing",
+        "valk_firefly_wing",
+        "valk_firefly_wing"
+    ]
+}

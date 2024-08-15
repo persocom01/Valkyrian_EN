@@ -1,0 +1,59 @@
+{
+  "playableFaction": true,
+  "corvusCompatible": true,
+  "marketSpawnWeight": 1.1,
+  "rebelFleetSuffix": "Karas",
+  "morality": "neutral",
+  "startRelationships": {"hegemony": -0.3, "tritachyon": -0.3, "independent": 0.1},
+  "maxRelationships": {"hegemony": 0.5, "pirates": -0.1},
+  "diplomacyTraits": ["irredentist", "stalwart", "monopolist"],
+  "diplomacyPositiveChance": {"hegemony": 0.75, "tritachyon": 1.1, "sindrian_diktat": 1.5,"persean": 1.5},
+  "diplomacyNegativeChance": {"hegemony": 1.5},
+  "alignments": {
+    "corporate": 0.5,
+    "technocratic": 0.5,
+    "militarist": 1,
+    "diplomatic": -0.5,
+    "ideological": 0.5,
+  },
+  "colonyExpeditionChance": 1.25,
+  "startShipsSolo": ["valk_ilena_Elite"],
+  "startShipsCombatSmall": [
+    "valk_elysium_A",
+    "valk_yuusha_A",
+    "valk_ilena_Elite"
+  ],
+  "startShipsCombatLarge": [
+    "valk_almire_II_A",
+    "valk_elysium_A",
+    "valk_inquisitor_E"
+  ],
+  "startShipsTradeSmall": [
+    "valk_valkyrie_b_A",
+    "valk_topaz_A",
+    "valk_ilena_Elite"
+  ],
+  "startShipsTradeLarge": [
+    "valk_emerald_A",
+    "valk_emerald_A",
+    "valk_inquisitor_E"
+  ],
+  "startSpecialItems": [
+    [["valk_horizon_package", ""]],
+  ],
+  "defenceStations": [
+    {"ids": ["orbitalstation", "battlestation", "starfortress"]},
+    {"ids": ["orbitalstation_mid", "battlestation_mid", "starfortress_mid"], "weight": 0.5},
+  ],
+  "industrySeeds": [
+    {"id": "orbitalworks", "mult": 0.1},
+  ],
+  "bonusSeeds": [
+    {"id": "population_upsize", "count": 1},
+    {"id": "nanoforge_pristine", "count": 1},
+    {"id": "aiCore_station", "count": 2, "mult": 0.2},
+    {"id": "aiCore_military", "mult": 0.3},
+    {"id": "aiCore_heavyindustry", "count": 1},
+    {"id": "aiCore_any", "mult": 1.2}
+  ],
+}

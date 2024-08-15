@@ -1,0 +1,491 @@
+{
+  "bounds": [
+    -371,
+    -16,
+    -322,
+    -42,
+    -368,
+    -75,
+    -368,
+    -109,
+    -320,
+    -154,
+    -302,
+    -139,
+    -255,
+    -174,
+    -255,
+    -201,
+    -150.5,
+    -226.5,
+    -113.5,
+    -169.5,
+    -48.5,
+    -142.5,
+    0.5,
+    -132.5,
+    64.5,
+    -141.5,
+    274,
+    -73,
+    306,
+    -83,
+    397,
+    -38,
+    422,
+    -13,
+    422,
+    13,
+    397,
+    38,
+    306,
+    83,
+    274,
+    73,
+    64.5,
+    141.5,
+    0.5,
+    132.5,
+    -48.5,
+    142.5,
+    -113.5,
+    169.5,
+    -150.5,
+    226.5,
+    -255,
+    201,
+    -255,
+    174,
+    -302,
+    139,
+    -320,
+    154,
+    -368,
+    109,
+    -368,
+    75,
+    -322,
+    42,
+    -371,
+    16
+  ],
+  "builtInMods": [
+    "valk_bryncore",
+    "hbi",
+    "supercomputer"
+  ],
+  "builtInWeapons": {
+    "WS0021": "valk_ballista",
+    "WS0022": "valk_ballista",
+    "WS0023": "valk_ballista",
+    "WS0024": "valk_ballista",
+    "WS0025": "valk_ballista",
+    "WS0026": "valk_ballista"
+  },
+  "center": [
+    262,
+    479
+  ],
+  "collisionRadius": 486.001038,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 20,
+      "length": 65,
+      "location": [
+        -374,
+        15
+      ],
+      "style": "CUSTOM",
+      "styleId": "valkEngine",
+      "width": 20
+    },
+    {
+      "angle": -180,
+      "contrailSize": 20,
+      "length": 65,
+      "location": [
+        -374,
+        -15
+      ],
+      "style": "CUSTOM",
+      "styleId": "valkEngine",
+      "width": 20
+    },
+    {
+      "angle": 180,
+      "contrailSize": 20,
+      "length": 60,
+      "location": [
+        -356,
+        54.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "valkEngine",
+      "width": 20
+    },
+    {
+      "angle": -180,
+      "contrailSize": 20,
+      "length": 60,
+      "location": [
+        -356,
+        -54.5
+      ],
+      "style": "CUSTOM",
+      "styleId": "valkEngine",
+      "width": 20
+    },
+    {
+      "angle": 180,
+      "contrailSize": 20,
+      "length": 80,
+      "location": [
+        -374,
+        75
+      ],
+      "style": "CUSTOM",
+      "styleId": "valkEngine",
+      "width": 20
+    },
+    {
+      "angle": -180,
+      "contrailSize": 20,
+      "length": 80,
+      "location": [
+        -374,
+        -75
+      ],
+      "style": "CUSTOM",
+      "styleId": "valkEngine",
+      "width": 20
+    }
+  ],
+  "height": 958,
+  "hullId": "valk_azmodaeus",
+  "hullName": "Azmodaeus",
+  "hullSize": "CAPITAL_SHIP",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 475.551514,
+  "spriteName": "graphics/ships/Valk_Azmodaeus.png",
+  "style": "VALKHULL",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 45,
+      "arc": 120,
+      "id": "WS0001",
+      "locations": [
+        158,
+        46
+      ],
+      "mount": "HIDDEN",
+      "size": "MEDIUM",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -45,
+      "arc": 120,
+      "id": "WS0002",
+      "locations": [
+        158,
+        -46
+      ],
+      "mount": "HIDDEN",
+      "size": "MEDIUM",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 45,
+      "arc": 120,
+      "id": "WS0003",
+      "locations": [
+        114,
+        53
+      ],
+      "mount": "HIDDEN",
+      "size": "MEDIUM",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -45,
+      "arc": 120,
+      "id": "WS0004",
+      "locations": [
+        114,
+        -53
+      ],
+      "mount": "HIDDEN",
+      "size": "MEDIUM",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 90,
+      "arc": 120,
+      "id": "WS0005",
+      "locations": [
+        -6,
+        65
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -90,
+      "arc": 120,
+      "id": "WS0006",
+      "locations": [
+        -6,
+        -65
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 90,
+      "arc": 120,
+      "id": "WS0007",
+      "locations": [
+        -56,
+        69
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -90,
+      "arc": 120,
+      "id": "WS0008",
+      "locations": [
+        -56,
+        -69
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 135,
+      "arc": 120,
+      "id": "WS0009",
+      "locations": [
+        -165,
+        85
+      ],
+      "mount": "HIDDEN",
+      "size": "MEDIUM",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -135,
+      "arc": 120,
+      "id": "WS0010",
+      "locations": [
+        -165,
+        -85
+      ],
+      "mount": "HIDDEN",
+      "size": "MEDIUM",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 90,
+      "arc": 160,
+      "id": "WS0011",
+      "locations": [
+        163.5,
+        106.5
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -90,
+      "arc": 160,
+      "id": "WS0012",
+      "locations": [
+        163.5,
+        -106.5
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 90,
+      "arc": 160,
+      "id": "WS0013",
+      "locations": [
+        119,
+        112
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -90,
+      "arc": 160,
+      "id": "WS0014",
+      "locations": [
+        119,
+        -112
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 90,
+      "arc": 160,
+      "id": "WS0015",
+      "locations": [
+        1,
+        133
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -90,
+      "arc": 160,
+      "id": "WS0016",
+      "locations": [
+        1,
+        -133
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 90,
+      "arc": 160,
+      "id": "WS0017",
+      "locations": [
+        -49,
+        142
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -90,
+      "arc": 160,
+      "id": "WS0018",
+      "locations": [
+        -49,
+        -142
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 90,
+      "arc": 160,
+      "id": "WS0019",
+      "locations": [
+        -159,
+        174
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -90,
+      "arc": 160,
+      "id": "WS0020",
+      "locations": [
+        -159,
+        -174
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 115,
+      "arc": 0,
+      "id": "WS0021",
+      "locations": [
+        43,
+        136
+      ],
+      "mount": "HIDDEN",
+      "size": "MEDIUM",
+      "type": "BUILT_IN"
+    },
+    {
+      "angle": -115,
+      "arc": 0,
+      "id": "WS0022",
+      "locations": [
+        43,
+        -136
+      ],
+      "mount": "HIDDEN",
+      "size": "MEDIUM",
+      "type": "BUILT_IN"
+    },
+    {
+      "angle": 90,
+      "arc": 0,
+      "id": "WS0023",
+      "locations": [
+        47,
+        136
+      ],
+      "mount": "HIDDEN",
+      "size": "MEDIUM",
+      "type": "BUILT_IN"
+    },
+    {
+      "angle": -90,
+      "arc": 0,
+      "id": "WS0024",
+      "locations": [
+        47,
+        -136
+      ],
+      "mount": "HIDDEN",
+      "size": "MEDIUM",
+      "type": "BUILT_IN"
+    },
+    {
+      "angle": 75,
+      "arc": 0,
+      "id": "WS0025",
+      "locations": [
+        51,
+        136
+      ],
+      "mount": "HIDDEN",
+      "size": "MEDIUM",
+      "type": "BUILT_IN"
+    },
+    {
+      "angle": -75,
+      "arc": 0,
+      "id": "WS0026",
+      "locations": [
+        51,
+        -136
+      ],
+      "mount": "HIDDEN",
+      "size": "MEDIUM",
+      "type": "BUILT_IN"
+    }
+  ],
+  "width": 524
+}

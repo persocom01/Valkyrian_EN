@@ -1,0 +1,18 @@
+{
+	"id":"valk_heavylancer_shot",
+	"specClass":"projectile",
+	"onHitEffect": "data.scripts.weapons.valk_GRInductionProjEffect",
+	"spawnType":"BALLISTIC_AS_BEAM",
+	"collisionClass":"RAY",
+	"collisionClassByFighter":"RAY_FIGHTER",
+	"length":80.0,
+	"width":8,
+	"hitGlowRadius":25,
+	"fadeTime":0.2,
+	"fringeColor":[255,255,255,150],
+	"coreColor":[150,150,255,250],
+	"glowColor":[225,225,255,150],	
+	"textureScrollSpeed":64.0,
+	"pixelsPerTexel":5.0,
+	#"bulletSprite":"graphics/missiles/shell_gauss_cannon.png"
+}

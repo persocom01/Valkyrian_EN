@@ -1,0 +1,130 @@
+{
+  "bounds": [
+    -51,
+    -14,
+    -13,
+    -29,
+    51,
+    -9,
+    51,
+    9,
+    -13,
+    29,
+    -51,
+    14
+  ],
+    "builtInMods": [
+    "valk_microbryncore"
+  ],
+  "builtInWeapons": {
+    "WS0001": "valk_hyperbeam",
+    "WS0006": "valk_blinker_short",
+    "WS0007": "valk_blinker_short"
+  },
+  "center": [
+    40,
+    61
+  ],
+  "collisionRadius": 75,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 30,
+      "length": 60,
+      "location": [
+        -56,
+        -0
+      ],
+      "style": "CUSTOM",
+      "styleId": "valkEngine",
+      "width": 30
+    }
+  ],
+  "height": 125,
+  "hullId": "valk_ilena",
+  "hullName": "Ilena",
+  "hullSize": "FRIGATE",
+  "shieldCenter": [
+    0,
+    -0.5
+  ],
+  "shieldRadius": 70,
+  "spriteName": "graphics/ships/Valk_Ilena.png",
+  "style": "VALKHULL",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS0001",
+      "locations": [
+        32,
+        -0
+      ],
+      "mount": "HIDDEN",
+      "size": "LARGE",
+      "type": "BUILT_IN"
+    },
+    {
+      "angle": 0,
+      "arc": 10,
+      "id": "WS0002",
+      "locations": [
+        -6,
+        23
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "UNIVERSAL"
+    },
+    {
+      "angle": -0,
+      "arc": 10,
+      "id": "WS0003",
+      "locations": [
+        -6,
+        -23
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "UNIVERSAL"
+    },
+    {
+      "angle": 0,
+      "arc": 360,
+      "id": "WS0005",
+      "locations": [
+        -9,
+        -0
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS0006",
+      "locations": [
+        -34.5,
+        30.5
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": -0,
+      "arc": 0,
+      "id": "WS0007",
+      "locations": [
+        -34.5,
+        -30.5
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    }
+  ],
+  "width": 80
+}

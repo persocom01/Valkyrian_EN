@@ -1,0 +1,15 @@
+{
+  "id": "valkyrian",
+  "name": "Valkyrian",
+  "author": "Original Author:ValkyriaL\nCurrent Author:Originem\nNew Texture Reset:Laomi\nAssistance:FAX, Shadow Light\nTranslation: persocom01",
+  "version": {"major": 3, "minor": 2, "patch": 2},
+  "description": "The Valkyries? They are an independent military power that once occupied many undiscovered worlds and galaxies in this sector. They specialize in lasers, missiles and artillery, their fleet is very large, and their unconventional battleships numerous. They are a formidable opponent, and should not be taken lightly unless you are confident.",
+  "dependencies": [
+    {"id": "lw_lazylib", "name": "LazyLib"},
+    {"id": "MagicLib", "name": "MagicLib"},
+    {"id": "shaderLib", "name": "GraphicLib"}
+  ],
+  "gameVersion": "0.97",
+  "jars": ["jars/Valkyrians.jar"],
+  "modPlugin": "data.scripts.VKSModPlugin"
+}

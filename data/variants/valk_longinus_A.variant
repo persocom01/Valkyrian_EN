@@ -1,0 +1,43 @@
+{
+    "displayName": "Advanced",
+    "fluxCapacitors": 7,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "valk_longinus",
+    "hullMods": [
+        "valk_peakfire",
+        "targetingunit",
+        "stabilizedshieldemitter",
+        "hardenedshieldemitter",
+        "fluxbreakers"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_longinus_A",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "valk_dsc",
+                "WS0004": "valk_dsc"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "lightag",
+                "WS0002": "lightag"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "valk_irpdcannon",
+                "WS0006": "valk_irpdcannon"
+            }
+        }
+    ]
+}

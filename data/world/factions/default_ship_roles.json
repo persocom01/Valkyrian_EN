@@ -1,0 +1,123 @@
+{
+  "combatSmallForSmallFleet": {
+    "valk_longinus_B": 5,
+    "valk_longinus_A": 5,
+    "valk_ilena_Elite": 5,
+    "valk_ilena_A": 5,
+    "valk_inquisitor_A": 10,
+    "valk_jenova_ECM": 5,
+    "valk_jenova_P": 5,
+  },
+  "combatSmall": {
+    "valk_longinus_B": 5,
+    "valk_longinus_A": 5,
+    "valk_ilena_Elite": 5,
+    "valk_ilena_A": 5,
+    "valk_inquisitor_A": 10,
+    "valk_jenova_ECM": 5,
+    "valk_jenova_P": 5,
+  },
+  "combatMedium": {
+    "valk_elfheim_A": 5,
+    "valk_elfheim_S": 5,
+    "valk_elysium_A": 5,
+    "valk_elysium_AS": 5,
+    "valk_eclair_A": 5,
+    "valk_eclair_AS": 5,
+  },
+  "combatLarge": {
+    "valk_almire_I_A": 5,
+    "valk_almire_I_AS": 5,
+    "valk_almire_II_A": 5,
+    "valk_almire_II_B": 5,
+    "valk_nirvana_I_A": 5,
+    "valk_nirvana_I_AS": 5,
+    "valk_nirvana_II_A": 5,
+    "valk_nirvana_II_P": 5,
+    "valk_elegy_Standard": 10,
+  },
+  "combatCapital": {
+    "valk_cherberos_A": 5,
+    "valk_cherberos_B": 5,
+    "valk_radiance_A": 5,
+    "valk_radiance_AS": 5,
+    "valk_almire_III_A": 5,
+    "valk_almire_III_B": 5,
+    "valk_yoshura_A": 5,
+    "valk_yoshura_AS": 5,
+    "valk_yoshura_prime_A": 5,
+    "valk_yoshura_prime_AS": 5,
+    "valk_vatican_II_A": 5,
+    "valk_vatican_II_S": 5,
+
+    "valk_yoshura_prime_normal_Standard": 10,
+    "valk_yoshura_prime_love_Standard": 10,
+    "valk_yoshura_prime_hate_Standard": 10,
+  },
+  "combatFreighterSmall": {
+  },
+  "combatFreighterMedium": {
+  },
+  "combatFreighterLarge": {
+  },
+  "civilianRandom": {
+  },
+  "carrierSmall": {
+  },
+  "carrierMedium": {
+    "valk_valkyrie_b_A": 10,
+    "valk_heron_B": 10,
+    "valk_heron_AS": 10,
+  },
+  "carrierLarge": {
+    "valk_vatican_I_A": 5,
+    "valk_vatican_I_S": 5,
+    "valk_yoshura_VI_A":5,
+    "valk_yoshura_VI_S":5
+  },
+  "phaseSmall": {
+  },
+  "phaseMedium": {
+  },
+  "phaseLarge": {
+  },
+  "phaseCapital": {
+  },
+  "freighterSmall": {
+  },
+  "freighterMedium": {
+    "valk_emerald_A": 10,
+  },
+  "freighterLarge": {
+  },
+  "tankerSmall": {
+  },
+  "tankerMedium": {
+    "valk_topaz_A": 10
+  },
+  "tankerLarge": {
+  },
+  "personnelSmall": {
+  },
+  "personnelMedium": {
+    "valk_valkyrie_b_A": 10,
+  },
+  "personnelLarge": {
+  },
+  "linerSmall": {
+  },
+  "linerMedium": {
+  },
+  "linerLarge": {
+  },
+  "tug": {
+  },
+  "crig": {
+  },
+  "utility": {
+  },
+  "orbitalStationLowTech": {
+  },
+  "battlestationLowTech": {
+  },
+}

@@ -1,0 +1,43 @@
+{
+    "displayName": "Advanced",
+    "fluxCapacitors": 9,
+    "fluxVents": 9,
+    "goalVariant": true,
+    "hullId": "valk_eclair",
+    "hullMods": [
+        "targetingunit",
+        "valk_redarmor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_eclair_A",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0008": "valk_twin_hiir_laser",
+                "WS0010": "valk_twin_hiir_laser",
+                "WS0011": "valk_twin_hiir_laser"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0001": "valk_sunfury",
+                "WS0002": "valk_sunfury"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0004": "valk_irpdcannon",
+                "WS0005": "valk_irpdcannon",
+                "WS0009": "valk_irpdcannon",
+                "WS0012": "valk_irpdcannon"
+            }
+        }
+    ]
+}

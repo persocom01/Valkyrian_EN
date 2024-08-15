@@ -1,0 +1,198 @@
+{
+  "id": "valkyrian",
+  "color": [130, 0, 0, 255],
+  "secondaryUIColor": [195, 195, 195, 255],
+  "secondarySegments": 6,
+  "displayName": "Valkyrian",
+  "displayNameLong": "Valkyrian Battle Maidens",
+  "displayNameWithArticle": "the Valkyrian Battle Maidens",
+  "logo": "graphics/factions/valk_flag.png",
+  "crest": "graphics/factions/valk_crest.png",
+  "shipNamePrefix": "VKS",
+  "shipNameSources": {
+    "VALKYRIANS": 1,
+  },
+  "names": {
+    "modern": 1,
+    "world": 1,
+  },
+  # variantOverrides restricts hulls to listed variants and adjusts their probability
+  "variantOverrides": {
+  },
+  # multiplier for how often hulls show up in the faction's fleets
+  "hullFrequency": {
+    "tags": {
+      "base_bp": 0.1,
+      "lowtech_bp": 0.2,
+      "midline_bp": 0.25,
+    },
+    "hulls": {
+      "buffalo2": 0,
+      "valk_radiance": 0.5,
+      "valk_vatican_I": 0.1,
+      "valk_almire_III": 0.5
+    },
+  },
+  # ships the faction gets access to when importing S&W out-of-faction
+  "shipsWhenImporting": {
+    "tags": ["base_bp", "lowtech_bp", "midline_bp", "valk_archon_bp", "valk_horizon_bp"],
+    "hulls": [
+    ],
+  },
+  "knownShips": {
+    "tags": ["base_bp", "lowtech_bp", "midline_bp", "valk_archon_bp", "valk_horizon_bp"],
+    "hulls": [
+      "atlas",
+      "prometheus",
+      "legion",
+      "onslaught",
+      "valkyrie",
+      "valk_vatican_I",
+      "valk_almire_III",
+      "valk_radiance",
+      "valk_cherberos",
+      "valk_yoshura_VI"
+    ],
+  },
+  # listing ships here will make the faction mostly use them even if other hulls become available
+  "priorityShips": {
+    "tags": ["valk_archon_bp", "valk_horizon_bp"],
+    "hulls": [
+      "valk_vatican_I",
+      "valk_almire_III",
+      "valk_radiance",
+      "valk_cherberos",
+      "valk_yoshura_VI"
+    ],
+  },
+  "knownFighters": {
+    "tags": ["base_bp", "lowtech_bp", "midline_bp", "valk_archon_bp"],
+    "fighters": [
+      "thunder_wing",
+      "hoplon_wing",
+    ],
+  },
+  "priorityFighters": {
+    "tags": ["valk_archon_bp"],
+    "fighters": [
+    ],
+  },
+  "knownWeapons": {
+    "tags": ["base_bp", "lowtech_bp", "midline_bp", "hightech_bp", "missile_bp", "valk_enigma_bp"],
+    "weapons": [
+      "railgun",
+      "dualflak",
+      "heavymauler",
+      "lightneedler",
+      "heavyneedler",
+      "hveldriver",
+      "gauss",
+      "mjolnir",
+      "sabotpod",
+      "cyclone",
+      "hurricane",
+      "squall",
+      "locust",
+      "pdburst",
+      "phasebeam",
+      "heavyburst",
+      "ionpulser",
+      "ionbeam"
+    ],
+  },
+  "priorityWeapons": {
+    "tags": ["valk_enigma_bp"],
+    "weapons": [
+    ],
+  },
+  "knownHullMods": {
+    "tags": ["base_bp"],
+    "hullMods": [
+      "turretgyros",
+      "armoredweapons",
+      "autorepair",
+      "auxiliarythrusters",
+      "blast_doors",
+      "dedicated_targeting_core",
+      "magazines",
+      "missleracks",
+      "hardened_subsystems",
+      "heavyarmor",
+      "insulatedengine",
+      "reinforcedhull",
+      "fluxbreakers",
+      "expanded_deck_crew",
+      "recovery_shuttles",
+      "operations_center",
+      "valk_reconoptimization",
+      "valk_skogulmodernization",
+      "targetingunit",
+      "valk_peakfire",
+      "valk_fluxfog",
+      "valk_redarmor",
+    ],
+  },
+  "illegalCommodities": [
+    "drugs",
+    "hand_weapons",
+    "ai_cores",
+  ],
+  "internalComms": "valk_internal",
+  "portraits": {
+    "standard_male": [
+      "graphics/portraits/Valk_M_1.png",
+      "graphics/portraits/Valk_M_2.png"
+    ],
+    "standard_female": [
+      "graphics/portraits/Valk_F_1.png",
+      "graphics/portraits/Valk_F_2.png",
+    ],
+  },
+  "music": {
+    "theme": "valkyrian_neutral",
+    "market_neutral": "valkyrian_neutral",
+    "market_hostile": "valkyrian_hostile",
+    "market_friendly": "valkyrian_friendly",
+    "encounter_neutral": "valkyrian_neutral",
+    "encounter_hostile": "valkyrian_hostile",
+    "encounter_friendly": "valkyrian_friendly"
+  },
+  "custom": {
+    "allowsTransponderOffTrade": false,
+    "offersCommissions": true,
+    "engagesInHostilities": true,
+    "buysAICores": true,
+    "AICoreValueMult": 2,
+    "AICoreRepMult": 1.5,
+    "buysSurveyData": true,
+    "hostilityImpactOnGrowth": false,
+    "caresAboutAtrocities": true,
+    "punitiveExpeditionData": {
+      "vsCompetitors": true,
+      "vsFreePort": false,
+      "canBombard": false,
+      "territorial": true,
+    },
+  },
+  "factionDoctrine": {
+    "warships": 5,
+    "carriers": 1,
+    "phaseShips": 1,
+    "officerQuality": 2,
+    "shipQuality": 2,
+    "numShips": 4,
+    "shipSize": 4,
+    "aggression": 4,
+    "combatFreighterProbability": 0.1, # instead of some portion of the freighters in a fleet
+    "combatFreighterCombatUseFraction": 0, # as part of the normal combat lineup
+    "combatFreighterCombatUseFractionWhenPriority": 0, # as part of normal combat lineup, when marked as priority ship
+    "autofitRandomizeProbability": 0.1,
+    "commanderSkillsShuffleProbability": 0,
+    "commanderSkills": [
+      "officer_management",
+      "coordinated_maneuvers",
+      "fighter_doctrine",
+      "electronic_warfare",
+    ],
+  }
+}

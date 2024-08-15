@@ -1,0 +1,95 @@
+{
+    "displayName": "Advanced",
+    "fluxCapacitors": 19,
+    "fluxVents": 50,
+    "goalVariant": true,
+    "hullId": "valk_yoshura",
+    "hullMods": [
+        "targetingunit",
+        "stabilizedshieldemitter",
+        "ballistic_rangefinder",
+        "valk_peakfire",
+        "hardenedshieldemitter"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_yoshura_A",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0020": "valk_geironul",
+                "WS0021": "valk_geironul"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0024": "sabot_single",
+                "WS0026": "sabot_single",
+                "WS0027": "sabot_single",
+                "WS0028": "sabot_single",
+                "WS0029": "sabot_single",
+                "WS0030": "sabot_single",
+                "WS0031": "sabot_single",
+                "WS0032": "sabot_single"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0022": "valk_hyperbeam",
+                "WS0023": "valk_hyperbeam"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0010": "valk_dsc",
+                "WS0011": "valk_dsc",
+                "WS0012": "valk_dsc",
+                "WS0013": "valk_dsc"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0018": "valk_plasma_laser",
+                "WS0019": "valk_plasma_laser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0016": "valk_bcnn",
+                "WS0017": "valk_bcnn"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "valk_irpdcannon",
+                "WS0003": "valk_irpdcannon",
+                "WS0004": "valk_irpdcannon",
+                "WS0005": "valk_irpdcannon",
+                "WS0006": "valk_nxk_pd",
+                "WS0007": "valk_nxk_pd",
+                "WS0008": "valk_nxk_pd",
+                "WS0009": "valk_nxk_pd",
+                "WS0014": "valk_nxk_pd",
+                "WS0015": "valk_nxk_pd",
+                "WS0025": "valk_irpdcannon",
+                "WS0044": "valk_irpdcannon",
+                "WS0045": "valk_irpdcannon",
+                "WS0046": "valk_irpdcannon"
+            }
+        }
+    ]
+}

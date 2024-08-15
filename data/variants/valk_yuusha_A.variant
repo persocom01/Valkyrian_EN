@@ -1,0 +1,26 @@
+{
+    "displayName": "Advanced",
+    "fluxCapacitors": 10,
+    "fluxVents": 8,
+    "goalVariant": true,
+    "hullId": "valk_yuusha",
+    "hullMods": [],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_yuusha_A",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "valk_twin_hiir_laser"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0002": "valk_irpdcannon",
+                "WS0003": "valk_irpdcannon"
+            }
+        }
+    ]
+}

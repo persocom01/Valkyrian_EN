@@ -1,0 +1,30 @@
+{
+  "displayName": "Heavy Fighter",
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "hullId": "valk_azgard",
+  "hullMods": [],
+  "variantId": "valk_azgard_hft",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "valk_irdriver",
+        "WS0002": "valk_irdriver"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "ALTERNATING",
+      "weapons": {}
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "valk_irpdburst"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "portraits": {
+    "standard_male": [
+      "graphics/portraits/Valk_M_1.png",
+      "graphics/portraits/Valk_M_2.png"
+    ],
+    "standard_female": [
+      "graphics/portraits/Valk_F_1.png",
+      "graphics/portraits/Valk_F_2.png",
+    ]
+  },
+}

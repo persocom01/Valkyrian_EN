@@ -1,0 +1,53 @@
+name,id,tier,rarity,tech/manufacturer,tags,uiTags,base value,unlocked,hidden,hiddenEverywhere,cost_frigate,cost_dest,cost_cruiser,cost_capital,script,desc,short,sModDesc,sprite
+Recon Optimization,valk_reconoptimization,1,,Valkyrian Archon Industries,engines,,5000,,,,8,0,0,0,data.hullmods.valk_ReconOptimization,"Switches a ship to scout mode, enhancing the ship's combat sight range and maneuverability by %s, but at the cost of %s in weapon damage.
+
+Only usable by frigates.","Enhances maneuverability and sensor range, reduces weapon damage.",,graphics/hullmods/valk_recon_optimization.png
+Skogul Modernization Program,valk_skogulmodernization,2,,Valkyrian Archon Industries,special,,12000,,,,5,10,15,25,data.hullmods.valk_SkogulModernization,"Through a set of advanced and effective ship overhaul program and refitting strategy from Valkyrie, the performance of the ship is comprehensively improved, which includes amplitude status, warship durability, speed maneuvering, weapon damage and a large number of other factors.",Improve ship performance at the cost of higher supply cost.,"Performance improvement increased to %s and %s.",graphics/hullmods/valk_skogul_modernization.png
+Flux Plating,valk_fluxplating,,,Valkyrian Archon Industries,,,,,TRUE,,0,0,0,0,data.hullmods.valk_FluxPlating,"The Valkyrian super battleship has a stong hull covered with with high quality flux conductive plating, making it largely immune to EMP damage.
+
+Reduce EMP damage taken by %s.",EMP immunity.,,graphics/hullmods/valk_em_ward_plating.png
+Brunhild Revolver Core,valk_bryncore,,,Valkyrian Archon Industries,,,,,TRUE,,0,0,0,0,data.hullmods.valk_BrynCore,"A special structure found on advanced Valkyrian warships, generally mounted around the flux conduits at the base of the turrets, that enhances Valkyrian weapons beyond normal performance levels.
+
+- Flux cost of all weapons - %s 
+- Valkyrian weapon range + %s",Reduce weapon ordnance cost.,,graphics/hullmods/valk_bryncore.png
+Mini Brunhild Core,valk_microbryncore,,,Valkyrian Archon Industries,,,,,TRUE,,0,0,0,0,data.hullmods.valk_MicroBrynCore,"A miniature Brunhild core.
+- Depending on weapon size, the ordnance cost of ballistic and energy weapons are reduced by %s/%s/%s.
+- Valkyrian weapon range + %s
+
+Usually found on warships up to cruiser class.",Reduce weapon ordnance cost.,,graphics/hullmods/valk_microbryncore.png
+Valhalla Core,valk_valhallacore,,,Valkyrian Archon Industries,,,,,TRUE,,8,0,0,"0
+",data.hullmods.valk_ValhallaCore,"Valkyries do not fear death, and this core symbolizes their attitude towards it. 
+At above %s flux, weapon damage increases by %s, but increases High Explosive and Kinetic damage taken by %s.
+
+At the same time, the ship's top speed increases by up to %s when traveling in a straight line.",Become stronger.,,graphics/hullmods/valk_valhallacore.png
+Cruiser Hunter,valk_cruiserhunter,,,Valkyrian Archon Industries,,,,,TRUE,,0,0,0,0,data.hullmods.valk_CruiserHunter,"The battleship carries an expensive, cruiser-hunting focused hardware system that can quickly scan cruiser class ships for weaknesses while optimizing the ship's fire control systems.
+
+Increase damage against cruisers by %s.
+Increase damage against destroyers by %s.
+Increase ballistic and energy weapon range by %s.",Anti-crusier。,,graphics/hullmods/valk_cruiserhunter.png
+Archon Tuning - Peakfire,valk_peakfire,2,,Valkyrian Archon Industries,offensive,Weapons,10000,,,,3,6,10,15,data.hullmods.valk_PeakFire,"One of the unique Valkyrian warship hull modifications from the Archon Industries. Perfect for multi turret loving female captains.
+
+As long as non-point defense weapons maintain fire, weapon performance can be enhanced by an adaptive beam energy matrix.
+Increase fire rate and decreases flux cost by up to %s for energy and ballistic weapons. These bonuses max out when the weapons fire for %s of the ship's peak performance time. After a weapon ceases fire, these bonuses decay at %s times the rate of rise.",Weapon flux adjustment.,Required peak performance time is reduced to %s of the original.,graphics/hullmods/valk_peakfire.png
+Archon Tuning - Fluxfog,valk_fluxfog,2,,Valkyrian Archon Industries,special,Special,7500,,,,3,6,10,15,data.hullmods.valk_FluxFog,"One of the unique Valkyrian warship hull modifications from the Archon Industries.
+
+Condenses flux energy around the ship without dispersing it, reinforcing hull durability after a certain amount of time.
+
+When flux is maintained above %s for more than %s of peak performance time, gain %s armor and hull resistance.",Damage resistance adjustment.,Required peak performance time is reduced to %s of the original.,graphics/hullmods/valk_fluxfog.png
+Archon Tuning - Crimson Steel,valk_redarmor,2,,Valkyrian Archon Industries,defensive,Special,8000,,,,3,6,10,15,data.hullmods.valk_RedArmor,"One of the unique Valkyrian warship hull modifications from the Archon Industries. Offered especially to female captains who love to thread a thin line. 
+
+Under the original protocol, armor damage would be directly linked to the grid:
+- Damage will stimulate flux dissipation for a maximum of %s seconds
+- Increase in flux dissipation varies linearly between %s ~ %s
+- Maximum flux dissipation is gained when a single hit exceeds %s of max armor value
+- If shield was not active when the armor was damaged, also gain  up to %s hard flux dissipation capacity when shields are active.",Improve high flux combat capability.,Max flux dissipation gain is adjusted to %s.,graphics/hullmods/valk_redarmor.png
+Holy Covenant War Program,valk_holycovenant,,,Valkyrian Archon Industries,,,,,TRUE,,0,0,0,0,data.hullmods.valk_HolyCovenant,"According to Valkyrian main fleet doctrine, a giant galloping beast is invincible, and their dominance is not limited to technological advancement, but also to psychological intimidation.
+
+The Valkyrian main fleet provides benefits to all ships/fighters in a %s radius (including itself), and the higher the deployment points/requirements of the beneficiaries, the stronger the benefits. These benefits can be stacked, up to a cap.",,,graphics/hullmods/valk_holycovenant.png
+Farewell Love Letter,valk_yoshuraSkinLove,,,Valkyrian Archon Industries,,,,,TRUE,,0,0,0,0,data.hullmods.valk_YoshuraSkin,"This is love's swan song.
+Ballistic weapon flux cost -%s.",The Soul of Yoshura.,,graphics/hullmods/valk_yoshuralove.png
+Irrefutable Proof of Separation,valk_yoshuraSkinHate,,,Valkyrian Archon Industries,,,,,TRUE,,0,0,0,0,data.hullmods.valk_YoshuraSkin,"This is the obituary of hate.
+Ballistic weapon fire rate +%s.",The Soul of Yoshura.,,graphics/hullmods/valk_yoshurahate.png
+Burial Psalm,valk_yoshuraSkinNormal,,,Valkyrian Archon Industries,,,,,TRUE,,0,0,0,0,data.hullmods.valk_YoshuraSkin,"""If not for you...""
+Ballistic weapon flux cost -%s, Ballistic weapon fire rate +%s.",The Soul of Yoshura.,,graphics/hullmods/valk_yoshuranormal.png
+,,,,,,,,,,,,,,,,,,,

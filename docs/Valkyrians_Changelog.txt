@@ -1,0 +1,527 @@
+#Version 1.4
+
+- The Valkyrians have finally received their own star system. no longer will they operate from their weird asgard inspired planet in corvus with TO many stations to keep track off.
+
+- Valkyrian Royal Armada has received a makeover, they auto win against all AI fleets, making them immune to death-kiting, they also have unlimited command points, allowing them to have the battlefield advantage regardless of the current situation.
+- Their attack level can be modified in their boss file script, in case you think they are annoying or attack too early, their current attack level is 30.
+
+- Made Changes to the Chasing Memories mission.
+- Added a few new missions.
+
+- longer cooldown for valk_scorpion MRM and its pod version as well as reduced flight time.
+- Slightly nerfed all ballistic point defence.
+- Slightly Reduced damage on certain cruise missiles.
+- Slightly increased ammo on certain cruise missiles.
+- Buffed the Lancer family of weapons.
+- Fixed double damage bug on Ether Drive and Ice-Lance cannons.
+
+
+- All Military variants removed.
+- Valkyrian Fleets no longer use Vanilla weapons. balancing them even further.
+- Most small Valkyrian point defence for cruisers and capital ships is now built-in, to prevent their exceptional amount of weapon slots from being abused by players, thus much improved faction balance.
+- Reduced Ordinance Points for all ships Destroyer class or larger.
+- Corrected Supply/day usage of ships.
+- Corrected Repair/day usage for ships.
+
+- Decorative blinking lights on Vatican Mk.III, Heron, Almire Mk.II, Almire Mk.III.
+
+- Added NX-K.Max series prototype PD weapon, #made by Maximillianyuen.#
+- All high tier fighters have new weapons, greatly balancing them.
+- Corrected Supply/day usage of fighters.
+- Reduced the size of the ASF fighter.
+
+- All Nirvana class ships now have the Infernium Drive system.
+- Burst Drive Replaced with Infernium drive, #made by Cycerin.#
+- Incendiary ammunition replaced with Overcharge. increases damage and flux dissipation, but generates hard flux at a very fast rate.
+- Added negative effects to the Vessel Modernization hull mod, it was simply an extremely good mod with no drawbacks. increases ship supply and repair per day by 10%.
+
+- Legion Plasma LRM added. #Dark.Revenant modification#
+- Removed Herald Destroyer (very old ship that never saw the light of day, a few people may have noticed it in the sprite folder under the name of "Limbo".)
+- Almire Mk.III added. (last "combat" ship in the mod, no more will be added, i have too many ships as it is.)
+- 2 rear small PD on Yoshura II removed, slightly new engine and hull design, all small PD is built in.
+- Almire Mk.II changes: -2 large mounts, +2 medium mounts.
+- Sequence added.
+- Heron remodeled.
+
+#Version 1.3C
+
+- Removed a whole bunch of sound files that has been either replaced or simply not been used, should shrink the size of the mod considerably.
+
+- Added shader support for Valkyrians, the mod now requires Shaderlib. (will be listen in the OP)
+- Valkyrians now have their own engine sounds. (although they dont work properly because SS dosn't fully support this yet.)
+
+- Added relations to all the wonderful new mods and factions out there, Valkyrians, once again, hate everybody.
+- Updated Convoy shopping list.
+- Updated Boss fleet reward list.
+
+- New Mission: King's bane, very similar to sinking the bis'mar, but considerably harder.
+- New mission: Battle for Heaven's Gate, fairly difficult mission that requires you to keep a close watch on the tactical screen and avoid losing ships to win.
+
+- Added lore for Yoshura Mk.II ships that have served with the faction. found at the bottom of the ships codex.
+
+- Prototype variant of Nirvana MK.II part of royal armada.
+- Remade some variants to include the ether driver.
+
+- Altered micro burn drive a little bit, there is a slight drift after the burn is over that graduably goes back to the ships own top speed from 50% of the burn speed, alowing you to move around the battlefield much faster.
+
+- changed gun facing on radiance's 2 large side turrets, all 3 could shot straight forward.
+- Remodeled Lightning Assault Fighter.
+- Added Firefly Laser Fighter.
+- Remodeled Ancord into a heavy bomber, old ship removed.
+- Further improved Infinity ASF Fighter. (its big...very big)
+
+- Several new sounds on standby.
+- New sounds for Laser Blasters.
+- New sound for Cruise missile's launch stage.
+- New Sprite for Antiproton Laser Battery.
+
+- Slightly reduced projectile speed and rate of fire on all weapons.
+- Increased OP on Wraith missile from 5 to 6 to balance it, it was simply a much stronger harpoon for the same cost.
+- New weapon PTR-GT Laser, for Certain Frigates and fighters.
+- New Missile: Sunfury Torpedo.
+- New Missile: Shadow LRCM.
+- New weapon: Ice-Lance (dosn't work the way its supposed to.)
+- Reduced damage on AP Mega beam cannon by 200.
+
+- Changed large mount on Nirvana Mk.III to a medium mount.
+
+#Version 1.3B
+
+- Prefixes are done. compatebility for everybody! (and holy shit did it take a long time, remind me never to do that again.)
+
+- Decorative blinking lights on Nirvana Mk.II. (Yay Cycerin)
+
+- frigates costs the same as before to deploy.
+- Super-capitals costs the same as before to deploy, "such decisive weapons should not be squandered."
+- repairs are doubbled in accordance to the 6.2 update, and CR to deploy has been lowered on "most" ships,
+
+- Vatican Mk.III has recieved a facelift (cheers MShadowy) 2 hangars added. it now shares the equal highest flight deck count with the Astral and the Hildolfr(Neutrino).
+
+- added a description to what the Command-Relay system does, as it was rather shady before.
+
+- Added another built in hull mod, Electronic Superiority, makes Super-Capital ships immune to EMP damage. (for now, supposed to stop scripted E-War, like my ECM Jammer)
+
+- Increased the cost of Yoshura Mk.II to half a million credits.
+- Increased max Hull by 1000. "27500 -> 28500"
+- Increased Top Speed for Yoshura Mk.II from 20 to 25SU/s
+- Yoshura Mk.II AI will activate its shipsystem at 60% remaining hull instead of 50%, to give it a bigger chance of surviving.
+- Yoshura Mk.II has recieved a facelift (cheers MShadowy) Badassness on a whole new level.
+
+- Radiance has recieved a facelift (cheers MShadowy) +2 medium mounts and moved large mounts forward. 2 medium and 2 small missiles removed, replaced with 2 large foward facing cannons.
+
+- Implemented beam particle effects. (Yay Cycerin) 
+  
+- +2 small ballistics to Elysium, both foward facing.
+
+- the light A.P beam cannon is now a medium weapon (was intended to be so from the start)
+
+- new suppression weapon, Twin HI-IR Laser, long range and a steady fire rate.
+- New drone model for Valkyrian combat drones.
+- Renamed "Desperate Defence" to "Valiant Defence"
+
+ (both of these are very much WIP, and are on hold, dont expect them to show up any time soon)
+- New model for Infinity in the making. (currently only in the simulator and in one of the missions, VERY overpowered)
+- New heavy bomber in the making.
+
+- Further increased supply cost of all ships.
+
+- Increased the cost of Azmodaeus to 7.5 million credits. (supposed to be unattainable)
+
+- I think i wrote some stuff in the previous versions list by mistake, so if something is new there, it should have been here. =)
+
+#Version 1.3
+
+- Wrote some more lore on the faction, it was rather short and confusing before, might extend it further.
+
+- Blinking lights are blue for now, considering others.
+- Decorative blinking lights on Yoshura Mk.II. (Yay Cycerin)
+- Decorative blinking lights on Nirvana Mk.IV. (Yay Cycerin)
+- Decorative blinking lights on most frigates and all Corvettes. (Yay Cycerin)
+
+- Increased supply cost for most ships.
+- Increased repair cost for most ships.
+
+- Removed 1 medium mount on Eclair and Nirvana-III.
+- Removed 2 small missile mounts on Nirvana 1 and II.
+- Removed 2 small mounts on Almire II
+
+- Increased OP on Storm Lancer to 30 from 25, it was just a better weapon in every way compared to the Storm Needler, now they are equal.
+
+- Light and heavy laser blasters complete, added. slightly weaker and stronger version of the heavy blaster, with all its negatives and positives included.
+- Light Antiproton Cannon is now a beam weapon and in the game alongside its bigger brother, could not be aquired in the previous versions.
+- Several new/reworked variants featuring these weapons.
+
+- Balance check on older weapons being done, starting with the heavy siege cannon, it shots slower, has increased range and costs much more flux, also gave it another sound, to make it sound more like a proper battleship main gun. (Yay Cycerin)
+- If you think that some of the weapons from the old days feel to strong or to weak for todays standards, please speak up.
+
+- Changed projectile for Ether Driver, you can actualy see where it shots now.
+- More than halved the ammo on Ether Driver, because of its very impressive range of 1350SU, perfect accuracy and its ability to ignore shields.
+  Increased its damage to 1000 from 900 to make up for the "lack of ammo" aswell as the rather high OP cost of this weapon compared to other weapons of similar fashion.
+
+- New Sounds for Lancers. (Yay Cycerin)
+
+- Prefix for sprites and ship IDs, for better compatebility, is being worked on.
+- Graphics fix on Nirvana Mk.III. (it had 2 bridges stacked ontop of eachother)
+- Completed Nirvana Mk.IV.
+- bridge changed to Super Capital bridge on Vatican Mk.III.
+
+- Semi-Added Infinity SSF Wing (far from complete.)
+
+- Longer cooldown for cruise missiles and future large caliber missiles/torpedoes.
+
+#Version 1.2B
+
+- Valkyrian Super-capitals are the devils of the battlefield both in logistics and warfare... you need a fleets worth of supplies to back these beast's up.
+- Valkyrian Capital ships begin to see the effect of being massive, their repair cost is immense, deployment cost is slightly above average.
+- Valkyrian Cruisers and many other ships of this size have very high repair costs, but moderate CR cost. 
+- Valkyrian Destroyers barely cost any CR to deploy, so fill your fleet with em!
+- Valkyrian high tier fighters and corvettes are better than most other currently out there, they are extremely expensive and costs massive amounts of reasources to deploy.
+- Valkyrian low tier ships and fighters are moderate on the CR side, and have average repair costs.
+
+- minor changes in certain stats for cruisers, to give them more defined roles instead of just being the exact same ship with a different number of weapons.
+
+- Extended Descriptions for some ships, more to come.
+
+- Hyperspace, no home planet.
+
+- Azmodaeus mostly complete, mission "star destroyer" updated.
+
+- Several fixes.
+
+#Version 1.2A
+
+- Copied old sounds over from Vanilla,
+
+- New sound for Quad machine gun.
+
+- Increased speed for all Fighters.
+- Significant buffs to both Helia and Excalibur Corvettes.
+- Significant Increased cost for both Helia and Excalibur Corvettes.
+- Increased cost for Azgard Heavy Fighters.
+
+- Acceleration/deacceleration changed for all frigates. (they all accelerated/deaccelerated to fast/slow) (im not done yet) 
+
+- Vatican Mk.IV turns and accelerates/deaccelerates twice as fast. (dosn't mean its faster tho, its still a snail.) 
+- EMSW generator system for Vatican Mk.IV now has a more visible force ring when it explodes.
+
+- Desperate Defence Shipsystem now increases flux vent by 15%, up from 12.5%.
+- Increased flux vent rate and stronger shields for Yoshura Mk.II.
+- Increased top speed for Vatican Mk.III and Yoshura Mk.II.
+- Increased mass for Yoshura Mk.II.
+
+- Royal armada has 425 FP instead of 375, to account for my huge ego and new modded factions making their apperance. 
+(real reason, the fleet barely had any fighters/frigates whatsoever, now they do, should make minimal difference however.)
+
+- Heron only has 1 flight deck now, instead of 2...because it only has 1 flight deck...
+
+- Morgiana Interceptors and Azgard Heavy Fighters have laser weapons instead of machine guns, to stick with the laser theme of the Valkyrians.
+
+- Updated Sprite and layout for Elfheim Destroyer.
+- Updated Sprite and layout for Radiance Battleship.
+- Added a bridge to Eclair.
+
+- Added 2 blaster type energy weapons.
+- Finished Beam weapons.
+
+- weapons not intended to be system taged are now not system taged.
+- All weapons used by the faction are now on the convoy resupply list. (hopefully)
+
+#Version 1.1
+
+- Increased Acceleration/deacceleration for all Super-Capital ships.
+- Reduced projectile speed for all prolonged burst weapons, single fire and single burst weapons are unaffected.
+- Added initial inventory to all stations.
+
+- Laser projectiles are thicker.
+- All laser projectiles travel slower.
+- Increased range for "Light Lancer"
+- Decreased range for "Storm Lancer"
+
+- Organised Weapon_data.csv with different types of weapon classes, much like the ship_hull.csv
+- Added a short lore document
+- New Description in Mod_info.json
+
+- Reduced Damage, reduced Range, reduced Flux/P/S and reduced projectile speed for Ether Driver.
+- Reduced Damage for the following weapons: All Lancers, IR-PD Cannon.
+- Reduced Accuracy for all Lancers.
+- Slightly reduced maximum Ordenance points for all Cruisers and Capital ships, Super-Capitals not altered.
+
+- Slightly increased speed for helia Corvettes.
+- Slightly better turn rate on some Fighter/Corvette class ships.
+- Slightly increased armor for some Frigates
+
+- Flux Vent on Vatican Mk.IV increased to 1550 from 1250.
+- Vatican Mk.III Fleet Points cost reduced to 35 for 40.
+
+- Added xangle13's weapon smoke script.
+- Added Cycerin's projectile explosion script "Exclusive to RW-BS Plasma cannons".
+
+- 2 new "Cruise" missiles.
+- 1 new medium ballistic.
+
+- New sprites for "Light Antiproton Beam cannon" "Quad Heavy MG" "Heavy Antiproton Beam Cannon"
+- Royal versions of the weapons above, Royal = (Red/gold paint) Default = (Silver/Red)
+
+- New Sprite for Vatican Mk.I.
+- New weapon mounts on Nirvana Mk.III, -2 large mounts but replaced with +2 medium mounts.
+
+- Nirvana M.IV in the making.
+- Yoshura Mk.II Added. "In The Game" "Sprite recieving constant changes"
+- Eclair-Class Destroyer in testing. "In the game"
+- Topaz-Class Tanker added.
+
+- New Shipsystem "Desperate Defence" currently exclusive to Yoshura Mk.II.
+- Micro Burn Drive system on Inquisitor Heavy Frigate fixed. 
+
+- new sound for Antiproton Laser Battery.
+- lowered volume for some weapons.
+
+- New variant for elfheim destroyer.
+- New variant for Nirvana Mk.II and Mk.III.
+- Remade variant and updated sprite for Vatican Mk.IV
+
+- New decorative for Jenova, activates when its ECM shipsystem is used.
+
+- 2 New Hull mods.
+
+- Boss fleet Fleet Points increased to 375, to account for ship hull/size variations, the amount of ships in the fleet remains the same.
+
+- 3 Completely new missions, all 3 previous missions removed. (will recieve further changes)
+
+- New Dialogues, the old ones were crap and had lots of bad grammar.
+- Descriptions has recieved a grammar makeover. 
+
+- Added Custom Ship names, "no more >VKS Hopeless Vagabond< or things like >ISS Rainbow-Unicorn"
+
+#Version 1.0
+
+Ships
+
+- 2 new frigates, 1 with experimental decorative weapons . "Inquisitor, Jenova"
+- 1 new capital ship. "radiance"
+- 1 new cruiser. "Almire Mk.II"
+
+Weapons
+
+- 1 new missile.
+- 1 new small ballistic.
+- 1 new large ballistic.
+
+Systems
+
+- ECM Jammer "reduces the vision radius of any enemy ship in range by 80% " AI supported
+
+Misc
+
+- 100%+ max turn/turn rate on all capital ships.
+- 50%+ max turn/turn rate on all cruisers.
+- 25%+ max turn/turn rate on all destroyers.
+
+- Boss fleet will chase you down more effectively. 
+
+- Boss fleet will reward the player with a Vatican Mk IV and 2 Excalibur wings when defeated.
+- Boss fleet XP reward increased to 125.000 up from 50.000.
+
+- Incendiary ammo now has 50% damage taken instead of 75%, and AI will hopefully use it better.
+- Vat III Command relay system is fixed. AI will hopefully use the system.
+
+- New descriptions for some ships.
+- New engines for the entire faction.
+- New hull mod specific for the Excalibur corvette, you cannot use it. 
+- Reworked variants for quite a few ships.
+- New variant for the Nirvana II, featuring prototype weapons.
+- Will attempt to sort out a new convoy system, did plan for 1 huge convoy to supply all stations with specific items for each one instead of 3 convoys supplying all 3 with whatever.
+- boss fleet will reward you with a Vatican IV and a pair of Excalibur's when defeated. 
+
+- Reduced hull and armor for all cruisers and some capital ships to get them more in line with vanilla ships (eagle and conquest as guidelines) Max flux/vent not altered, your gonna have to give me your opinion on this once released.
+
+- A whole lot of minor stuff i've lost track off.
+
+#Version 0.98
+
+All fighters and corvettes have been completely remade.
+
+Valkyrie B is reinstated, will appear in small fleets and convoys, while heron appears in larger ones.
+
+- Vatican III no longer has drones, it now has a command aura that buffs other ships, truly giving it a support role.
+- Changing all ships .ship files since as observed, they have changed a little.
+- Sahara is now a bomber wing.
+- Corvettes now provide their own hangar space.
+
+- Going to add more portraits, as soon as i find suitable ones. 
+- Changing a few weapons about.
+- Fixed my "guardinan" typo, its now Guardian like it should be. 
+- Some new descriptions.
+
+- New sprites for the following weapons, Ether Driver, Anti proton laser, IR-PD Cannon, IR Burst laser, check OP for new apperance.
+- New weapons include, 
+
+Light lancer
+Heavy Lancer
+Ultra heavy Lancer (no file yet)
+
+- Valkyrians are now hostile towards Shadow Order. ( to save poor Justin in his LP should he wish to update. )
+- Valkyrians are now Dark Red instead of Pink on the system map.
+- Greatly reduced cost for Ether driver.
+
+- Maximum number of fleets reduced to 8 from 12.
+- working on a custom AI for the incendiary ammo system, so it won't just kamikaze in your face, if it doesn't work, I'l remake the entire system
+- Proper Military/Advanced variants for the new Yuusha frigates.
+- Vatican I and Vatican II taken out of service, can be bought from the station instead, Replaced by the Yoshura-Class Battleship.
+
+- Changed some fleet compositions and sizes.
+- Cleaned up the simulator, it had way to many ships.
+
+#Version 0.97
+
+- A 300 FP boss fleet Featuring the Vatican Mk.IV
+
+- Fuel convoy composition changed, it will contain a Prometheus instead of a phaeton.
+- The faction will no longer supply weapons from other mods.
+- Convoys will now spawn from the bottom right corner of the map, this is also where the Boss fleet is located.
+- Changed the Vatican II and III Health back to their original values.
+- Morgiana, Sahara, Azgard and Lightning Fighters cost less FP
+- Yuusha Mk.II, "will only appear in the royal armada and the system guardian fleet."
+
+- Ether Driver, large weapon that replaces the Gauss cannon on the advanced Vatican I variant.
+
+- Reduced the FP for the "Fighter Command Fleet" to 90 and limited the amount of destroyers to 4.
+- Changed a few angles on the guns for Almire and Nirvana III.
+- Changed the Support variant for Vatican III
+
+- Fixed a typo on the .faction file that could cause a crash to people using Linux OS.
+- Fixed typo in the Vatican II description.
+
+- Capital ship health returned to normal values.
+
+#Version 0.96
+
+-Vatican Mk.I = 12.000 HP " N/A " 
+-Vatican Mk.II = 17.500 HP "+ 2.000"
+-Vatican Mk.III = 25.000 HP "+ 2.500"
+-Vatican Mk.IV = 30.000 HP " N/A "
+
+-Buffed Vatican Mk.IV's HP to 30.000 from 27.500 (If you feel that it is unnecessary/to much, please speak up)
+-Gave it a unique custom ship system (Thank you Lazywizard)
+
+Ships
+
+-Vatican Mk.IV Dreadnought
+-Nirvana Mk.III Heavy Cruiser
+-Yuusha Frigate/Scout
+
+Systems
+
+-Incendiary Ammunition : Increases ballistic damage by 50%, but due to high flammable risks, you take 75% more damage.
+
+Misc
+
+-Changed fighter command fleet setup, they now actually have more fighters than frigates.
+-All fleets has a chance to contain Yuusha-class frigates.
+-Nirvana Mk.I can only be found in convoys and the station because its so outdated.
+-Vatican Mk.IV added to simulator.
+-Yuusha Frigate added to simulator.
+
+Weapons
+
+-IR PD Cannon
+
+#Version 0.95
+
+-New large missile, the IBCM, a Kinetic version of the MIRV.
+-New Large Ballistic, the heavy siege cannon, Its built in on the VAT III.
+
+-Added 2 more stations for future purposes, all fleets will now spawn from the planet, defense fleets will defend the planet to give coverage to all 3 stations
+-Convoys supply all 3 stations, so check all of them for new stuff once the convoys come in.
+
+-Added comments in the spawn files so i can more easily change the spawn rates in case i have to, as of now, large fleets have 5% spawn rate, medium sized ones have 10% and small fleets have 20%.
+-Sorted out the top fleets (thank you for finding that Lazywizard), they didn't spawn correctly and had a chance to crash the game.
+
+-Added shield drone ship system.
+
+-Tesladora Mk.II will now use shield drones instead of standard ones
+-Slightly altered Tesladora Mk.II.
+
+-Added a new heavy destroyer using the shield drone system.
+-Herald-Class Heavy Destroyer
+
+-Added a new large "ballistic mounted" energy weapon, and a Vatican I variant featuring this weapon. the design is not complete yet.
+-Antiproton laser Battery
+
+-Nerfed IR burst PD, it was to good. 
+-Gave the LR flak less ammo.
+-All universal mounts are now ballistics.
+
+-increased the amount of active drones on the Guardian drone swarm to 30 from 25 and its max drones to 60 from 50, if you feel that this was to much of an increase, i will revert it back.
+
+-Made a sprite for a new energy PD weapon, but i'm not showing it yet because i'm evil. 
+-Greater balance throughout the faction. (Thank you Reshy)
+
+-A 180 FP fleet that only defends the station, with 1 Vatican Mk.III as its flagship.
+-Changed the load out on the Mk.III a coupe of times because believe it or not, it couldn't even kill a destroyer, the problem is probably that the ship is so large and has so many weapons that the AI doesn't know what to do with it.
+
+-Added a ballistic mounted burst pd laser (yes...ballistic mounted O.o) to create some diversity between light flak, light/heavy mgs and now a third pd type. 
+-Nerfed the flak weapons a bit, because they one shot every single missile type, including reapers and MIRV's.
+
+-Nerfed the shields on all ships and flux dissipation on cruisers and capitals.
+-Added another mission.
+
+#Version 0.9
+
+-Added more engines and a drone launch bay to the Elfheim.
+
+-Mark II variant of the Nirvana (can still change).
+
+-Some minor changes in coding.
+
+-Overhauled the Almire completely, its now a heavy cruiser. (can/will change, and wont be added yet.)
+
+-the "Elysium" will now appear in campaign fleets!  
+-Overhauled the Elysium, Since it looked way to much like the Sunder
+
+-Fighter wings had cargo holds, which made no sense, fixed.
+
+-Changed weapon stats.
+
+-Adding more missions! "since i have 3 more icons for them laying about"
+
+-All ships with the drone_pd now have Mid line drones instead of high tech.
+
+-The Valkyrie Mk.II light carrier will no longer be deployed in fleets, hence its description, however, you can still buy it from the station.
+
+-Added a new defense platform, the Tesladora Mk.II
+
+-Removed the Ancord's side weapon mounts, it will now have 1 medium while the Helia has 2 small
+
+-Decreased the Guardian fleet's FP from 180 to 160.
+
+#To old to have any significant relevance#
+
+#Version 0.8
+#Version 0.7.5B
+#Version 0.7.5A
+#Version 0.6
+#Version 0.5
+#Version 0.4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

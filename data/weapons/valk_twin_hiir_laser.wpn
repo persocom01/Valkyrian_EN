@@ -1,0 +1,31 @@
+{
+	"id":"valk_twin_hiir_laser",  # this id must match what's in the spreadsheet
+	"specClass":"projectile",
+	"type":"BALLISTIC",
+	"size":"MEDIUM",
+	"displayArcRadius":900,
+	"turretSprite":"graphics/weapons/valk_twin_hiir_laser_base.png",
+	"turretGunSprite":"graphics/weapons/valk_twin_hiir_laser_recoil.png",
+	"turretGlowSprite":"graphics/weapons/valk_twin_hiir_laser_glow.png",
+	"hardpointSprite":"graphics/weapons/valk_twin_hiir_laser_base.png",
+	"hardpointGunSprite":"graphics/weapons/valk_twin_hiir_laser_recoil.png",
+    "hardpointGlowSprite":"graphics/weapons/valk_twin_hiir_laser_glow.png",	
+	"visualRecoil":8.0,  # the gun sprites are only used if this is non-0
+	"renderHints":[RENDER_BARREL_BELOW],
+	"glowColor":[255,100,100,255],
+	"turretOffsets":[17, -3.5, 17, 3.5],
+	"turretAngleOffsets":[0, 0],
+	"hardpointOffsets":[17, -3.5, 17, 3.5],
+	"hardpointAngleOffsets":[0, 0],	
+	"barrelMode":"LINKED", # or LINKED.  whether barrels fire at the same time or alternate.
+	"animationType":"GLOW_AND_FLASH",  # NONE, GLOW, MUZZLE_FLASH, SMOKE
+	"muzzleFlashSpec":{"length":20.0,   # only used if animationType = MUZZLE_FLASH
+					   "spread":8.0,
+					   "particleSizeMin":10.0,
+					   "particleSizeRange":12.0,
+					   "particleDuration":0.8,
+					   "particleCount":10,
+					   "particleColor":[255,100,100,255]},	
+	"projectileSpecId":"valk_twin_hiir_shot",  # projectile that will be fired
+	"fireSoundTwo":"valk_twin_hiir_fire",
+}

@@ -1,0 +1,8 @@
+{
+	"baseHullId":"valk_yoshura_prime",
+	"skinHullId":"valk_yoshura_prime_love",
+	"descriptionId":"valk_yoshura_prime",  # optional
+	"spriteName":"graphics/ships/Valk_Yoshura_prime_love.png",
+	"addHints":[HIDE_IN_CODEX],
+	"builtInMods":["valk_yoshuraSkinLove"],
+}
