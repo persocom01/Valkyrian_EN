@@ -4,7 +4,7 @@ Weapons
 2.Heron class carrier built-in weapon Legion Tactical Plasma Launcher, damage 400->250, reload time 6->5 seconds, range 8000->4000, normalized missile existence time, missile structure 100->150
 
 Ships
-1.Reset cherberos textures, fine-tuned others.
+1.Reset Cherberos textures, fine-tuned others.
 2.Nirvana Mk.II deployment points 35->40, ordnance points 160->180, hull integrity 12000->15000, armor rating 1350->1400, flux capacity 11000->13000, maneuverability (acceleration/deceleration) improved, shield flux/damage 1.0->0.8, added Automated Repair Unit as built-in hullmod. Built-in hullmod Cruise Hunter increase damage to cruisers 15%->20%, increase damage to destroyers 10% and 10% increased energy and ballistic weapons range.
 3.New mechanism for capital ships: Holy Covenant War Program, providing attribute gains for other ships.
 
