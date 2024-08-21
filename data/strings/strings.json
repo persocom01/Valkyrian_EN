@@ -78,7 +78,7 @@
     "event_s1_l0": "Days remaining: %s",
     "event_s1_l1": "Collect %s Yoshura class battleships",
     "event_s1_l2": "Go to %s of %s to deliver the battleships",
-    "event_s1_r1": "你失去了 %s 艘约书亚级战列舰",
+    "event_s1_r1": "You have lost %s Yoshura class battleships",
     "event_s2": "Find that man.",
     "event_s2_l0": "According to the female Admiral, he is at %s in %s",
     "event_fleet_name": "%s Land Defense Fleet"

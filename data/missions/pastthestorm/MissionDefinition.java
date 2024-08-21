@@ -20,13 +20,13 @@ public class MissionDefinition implements MissionDefinitionPlugin {
 
 		// Set a small blurb for each fleet that shows up on the mission detail and
 		// mission results screens to identify each side.
-		api.setFleetTagline(FleetSide.PLAYER, "Archon 制造集团星系巡逻队 #34");
-		api.setFleetTagline(FleetSide.ENEMY, "旧式的霸主小分队");
+		api.setFleetTagline(FleetSide.PLAYER, "Archon Industries Galactic Patrol #34");
+		api.setFleetTagline(FleetSide.ENEMY, "Old-style Hegemony Squad");
 		
 		// These show up as items in the bulleted list under 
 		// "Tactical Objectives" on the mission detail screen
-		api.addBriefingItem("将敌方欠缺的空中力量作为你的优势");
-		api.addBriefingItem("明智地使用你的轰炸机");
+		api.addBriefingItem("Use the enemy's lack of air power to your advantage");
+		api.addBriefingItem("Use your bombers wisely");
 		
 		// Set up the player's fleet.  Variant names come from the
 		// files in data/variants and data/variants/fighters

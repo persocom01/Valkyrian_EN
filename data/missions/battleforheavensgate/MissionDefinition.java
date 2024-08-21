@@ -20,14 +20,14 @@ public class MissionDefinition implements MissionDefinitionPlugin {
 
 		// Set a small blurb for each fleet that shows up on the mission detail and
 		// mission results screens to identify each side.
-		api.setFleetTagline(FleetSide.PLAYER, "第一、 第四、第七及第21 Valkyrian 增援舰队");
-		api.setFleetTagline(FleetSide.ENEMY, "自由联盟战争舰队与霸主入侵力量");
+		api.setFleetTagline(FleetSide.PLAYER, "1st, 4th, 7th and 21st Valkyrian Reinforcement Fleets");
+		api.setFleetTagline(FleetSide.ENEMY, "Free Alliance War Fleet and Hegemony Invasion Force");
 		
 		// These show up as items in the bulleted list under 
 		// "Tactical Objectives" on the mission detail screen
-		api.addBriefingItem("你处于严重的寡势，势单力薄。请小心应对");
-		api.addBriefingItem("全舰出击！背水一战，保住星门！");
-		api.addBriefingItem("战区十分巨大，确保你的战线，避免被包围歼灭！");
+		api.addBriefingItem("You are at a serious disadvantage and outnumbered. Proceed with caution.");
+		api.addBriefingItem("All ships attack! This is our last stand, save the stargate!");
+		api.addBriefingItem("The battlefield is huge, make sure to secure your lines to avoid being surrounded and annihilated!");
 		
 		// Set up the player's fleet.  Variant names come from the
 		// files in data/variants and data/variants/fighters

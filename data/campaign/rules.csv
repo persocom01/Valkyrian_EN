@@ -2,9 +2,9 @@ id,trigger,conditions,script,text,options,notes,Column 08
 vft_findadmiralGreeting,PickGreeting,"$valkft_isAdmiral
 $valkft_stage == 0","ShowPersonVisual
 $talkedTo = true
-Highlight ""Yoshura class""","When you open the communications channel, you hear the voices of soldiers reporting to their superiors, and when the image comes into focus, you see a woman wearing the epaulettes of a general.
+Highlight ""Yoshura class""","When you open the communications channel, you hear the voices of soldiers reporting to their superiors, and when the image comes into focus, you see a woman wearing the epaulettes of an Admiral.
 
-""Truth is,"" explains the slightly graying female Admiral $personName to you:""The previous mission target has been eliminated for unknown reasons, while our current problem is an armaments financing project, an order of considerable magnitude - deliver to me, by any means necessary, three sealed Yoshura-class starships. What do you think?""
+""Truth is,"" explains the slightly graying female Admiral $personName to you:""The previous mission target has been eliminated for unknown reasons, while our current problem is an armaments financing project, an order of considerable magnitude - deliver to me, by any means necessary, three mothballed Yoshura-class starships. What do you think?""
 
 You give careful consideration to this unusual mission...","0:valkft_accept:Accept mission
 1:cutCommLink:""Not now.""Cutting comms",,

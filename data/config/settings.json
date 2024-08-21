@@ -2,7 +2,7 @@
   "designTypeColors": {
     "Valkyrian Archon Industries": [130, 0, 0, 255],
     "Valkyrian Horizon Shipyards": [200, 20, 40, 255],
-    "Valkyrian Enigma Company": [150, 0, 70, 255],
+    "Valkyrian Enigma Corporation": [150, 0, 70, 255],
   },
   "plugins": {
     "valk_CombatPlugin": "data.scripts.plugins.valk_CombatPlugin"

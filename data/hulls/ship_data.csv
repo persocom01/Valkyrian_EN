@@ -15,7 +15,7 @@ Almire Mk.I,valk_almire_I,Light Cruiser,valk_overcharge,Valkyrian Horizon Shipya
 Nirvana Mk.II,valk_nirvana_II,Armored Cruiser,valk_inferniumdrive,Valkyrian Archon Industries,valk_archon_bp,25,15000,1400,13000,,600,180,,45,45,30,12,12,1800,FRONT,,180,0.4,0.8,,,275,375,120,150,5,30,8,250000,4,12,540,0.25,40,40,,0.6,3,5,
 Nirvana Mk.I,valk_nirvana_I,Cruiser,valk_inferniumdrive,Valkyrian Archon Industries,valk_archon_bp,16,9000,1200,10000,,500,140,,45,30,20,14,12,1550,FRONT,,180,0.4,0.8,,,225,325,120,100,3,30,8,100000,5,20,540,0.25,25,25,,0.6,3,5,
 Emerald,valk_emerald,Freighter,valk_inferniumdrive,Valkyrian Archon Industries,valk_archon_bp,10,5000,600,3000,,200,55,,45,15,10,15,10,1000,FRONT,,180,0.4,0.8,,,75,100,750,500,2,25,8,50000,2,12,360,0.25,9,9,"CIVILIAN,FREIGHTER",0.6,3,5,
-Heron (V),valk_heron_b,Carrier,targetingfeed,Valkyrian Archon Industries,valk_archon_bp,15,8000,1000,4000,,300,110,2,50,25,20,25,25,1250,FRONT,,180,0.5,0.8,,,200,250,200,250,3,20,9,45000,5,20,420,0.25,16,16,CARRIER,0.6,3,5,
+Heron,valk_heron_b,Carrier,targetingfeed,Valkyrian Archon Industries,valk_archon_bp,15,8000,1000,4000,,300,110,2,50,25,20,25,25,1250,FRONT,,180,0.5,0.8,,,200,250,200,250,3,20,9,45000,5,20,420,0.25,16,16,CARRIER,0.6,3,5,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Eclair,valk_eclair,Destroyer,valk_chargingjets,Valkyrian Archon Industries,valk_archon_bp,10,6000,750,6000,,450,70,,70,60,40,30,30,950,FRONT,,180,0.4,0.8,,,80,120,60,50,3,20,8,35000,5,15,420,0.25,12,12,,0.5,2,5,
 Elysium,valk_elysium,Destroyer,valk_burstdrive,Valkyrian Archon Industries,valk_archon_bp,10,5500,800,5000,,350,80,,80,50,30,30,45,850,FRONT,,180,0.4,1,,,80,120,60,25,3,40,9,40000,4,12,420,0.25,10,10,,0.5,2,5,

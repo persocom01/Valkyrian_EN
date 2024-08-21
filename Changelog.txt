@@ -1,0 +1,356 @@
+2024/4/20 3.2.2
+Weapons
+1.Two cruise missiles speed 300->200, range 7500->6000. Spectre damage 1500->1200.
+2.Heron class carrier built-in weapon Legion Tactical Plasma Launcher, damage 400->250, reload time 6->5 seconds, range 8000->4000, normalized missile existance time, missile structure 100->150
+
+Ships
+1.Reset cherberos textures, fine-tuned others.
+2.Nirvana Mk.II deployment points 35->40, ordnance points 160->180, hull integrity 12000->15000, armor rating 1350->1400, flux capacity 11000->13000, maneuverability（acceleration/deceleration）improved, shield flux/damage 1.0->0.8, added Automated Repair Unit as built-in hullmod. Built-in hullmod Cruise Hunter increase damage to cruisers 15%->20%, increase damage to destroyers 10% and 10% increased energy and ballistic weapons range.
+3.New mechanism for capital ships: Holy Covenant War Program, providing attribute gains for other ships.
+
+Fighters
+1.Decrease the flux attributes of Azgard, Lightning, Firefly, and other fighters.
+
+Others
+1.Strengthened Yoshura's fleet.
+
+2023/8/1 3.2.1
+Weapons
+1.Battlefield Dust Cannon flux / shot 200->220 (flux/damage ratio 1.0->1.1), DPS/FPS 160/16->150/165. Slightly larger projectile size.
+2.Quad-mounted Heavy Machine Gun range 400->450，DPH/FPH 30/7.5->50/10 (flux/damage ratio 0.25->0.2), changed to 8 round burst, harmonized with the size of the magazine.
+
+Ships
+1.Yoshura's system now has a per second limit to the cooldown reduction.
+
+Others
+1.Hotfixed some possible bugs.
+
+2023/7/31 3.2.0
+0.96a adaptation.
+
+Weapons
+1.Miniature DSC ordnance points 7->6, DPS/FPS change to 150/120, dispersion slightly increased.
+2.IR-PD Cannon ordnance points 3->1, DPH 15->20, dispersion increased.
+3.IR Burst PD Laser is no longer refreshed and is now a pure fighter weapon.
+4.NX-K GR Anti-fighter Gun DPS-FPS125/63->100/50, range 500->450
+5.RW-BS Plasma Laser no longer has EMP, DPH 160->200, ordnance points 11->10, DPS no change, special effect damage 40~80->50~100.
+6.Battlefield Dust Cannon DPH 150->200, DPS/FPS 180/216->160/160
+7.Twin HI-IR Laser, DPS and burst DPS increased, flux/damage ratio reduced to 0.6, initial dispersion increased, magazine capacity 18->8。
+8.Quad-mounted Heavy Machine Gun projectile speed increased.
+9.GR series rebalancing:
+    Light GR Lance DPH 100->50, EMP 0->50, DPS/FPS adjusted to 150/120, burst size 4->10, add GR shock effect, an EMP arc chain will occur every 15 hits 
+    Heavy GR Lance EMP 0->100, DPS/FPS adjusted to 250/200, burst size 6->15, add GR shock effect
+    Storm GR Lance ordnance points 24->21
+10.Phantasm, Spectre, Shadow Shadow Long Range Cruise Missiles gained the effect: Cruise Mapping, which increases the maximum speed of friendly ship on the following the missile's path.
+    Shadow Long Range Cruise Missile renamed Shadow Twin Cruise Missile, damage 900->1000，range reduced to 4000，refire delay (seconds) 13->10
+    Phantasm, Spectre Cruise Missiles seconds / reload 40->30, refire delay (seconds) 3->10
+11.Wraith Heavy Missile OP 6->5, hull integrity 150->250.
+
+Hullmods
+1.Brunhild Revolver Core Valkyrian weapons ordnance point reduction: 3/5/7 -> 2/4/6
+2.Archon Tuning - Fluxfog removes the impact on flux capacity/flux dissipation. Building in this hullmod will reduce the required peak performance time by half.
+3.Archon Tuning - Peakfire building in this hullmod will reduce the required peak performance time by half.
+4.Archon Tuning - Crimson Steel building in this hullmod can increase the upper limit of dissipation gain.
+
+Ships
+1.Ship system Flamejet renamed Infernium Drive.
+2.Adjusted ship logistics attributes.
+3.Cherberos reset. Ship system changed to Burst Drive.
+4.Yoshura Prime added built-in hullmod Missile Autoloader, ordnance points 275->300. Now the ship system's cooldown will be additionally reduced when the ship is damaged.
+5.Yoshura class battleship slot position adjustment, +2 small ballistic slots, ordnance point 255->270.
+6.Yoshura Mk.VI warship added built-in hullmod Missile Autoloader.
+7.Almire Mk.III medium missile slot->small missile slot, added built-in hullmod Missile Autoloader, top speed 40->55, improved maneuverability to a certain extent.
+
+8.Almire Mk.I flux attributes 10000/500->9000/450 ordnance points 110->125
+9.Almire Mk.II armor 1100->1000 ordnance points 130->140
+10.Nirvana Mk.I flux attributes 10500/550->10000/500 hull/Armor 8000/1000->9000/1200 ordnance points 120->140
+11.Nirvana Mk.II flux attributes 13000/600->11000/600 hull/Armor 10000/1250->12000/1350 ordnance points 145->160
+12.Elysium Armor 600->800, ordnance points 75->80, Tactical system changed to Burst Drive.
+13.Eclair ship system changed to Charging Jets, which increases the maximum speed and maneuverability while generating EMP arcs to attack the target in front (does not penetrate shields)
+14.Ilena flux attributes 3500/275->5000/500, other attributes fine-tuned, ordnance points 35->40, deployment points 15->12
+15.Longinus deployment points 5->7.
+16.Inquisitor ship system changed to Burst Drive, attributes fine-tuned, deployment points 4->5, built-in Redemption Laser Cannon renamed Redemption Repeater Cannon, attributes enhanced.
+
+Fighters
+1.Helia fighters in wing 2->1, hull/armor 500/100->750/200, flux300/150->400/200, maneuverability. top speed increased.
+2.Sahara fighters in wing 3->2
+3.Morgiana base replacement time 2->5 seconds, hull integrity 400->300, fighters in wing 4->5
+4.Firefly hull integrity 550->400, top speed 195->180
+5.Azgard armor 200->150
+6.Excalibur base replacement time 18->20 seconds
+
+#Older entries not deemed important enough to be worth translating#
+
+
+2023/1/23 3.1.0 hotfix
+Hullmods
+1.布伦希尔德转轮核心现在会让女武神武器射程+100(包括小型转轮核心).
+
+Ships
+1.绝大多数舰船护盾维持幅能变更至0.4。
+2.赞美Mk.I部署21->18，幅能10500/450->10000/500,结构装甲7500/800->8000/750，最高航速65->70。
+3.赞美Mk.II部署30->27,幅能耗散650->700，其他属性微调。
+4.赞美Mk.III部署55->50。
+5.荣光部署60->55，最高航速20->25。
+6.三头犬最高航速45->50，提高引擎加速度。
+7.哀歌部署35->30，装甲1250->1350。
+8.精灵王国部署12->11，最高航速60->90，其他数据微调。
+9.极乐世界部署12->10，结构6000->5500，最高航速70->80，小型转轮核心升级为正常核心，装配点100->75，其他数据微调。
+10.电火花最高航速65->70，结构装甲5000/550->6000/750。
+11.约书亚Mk.VI航母AI修正。
+12.超负荷运转调整：现在会增加最高航速和机动性，结束后较短时间内增益会变成减益。
+
+Fighters
+1.阿兹卡 结构850->750，最高航速175->150
+2.海莉亚 装甲值150->100，幅能容量500->300，最高航速185->180
+
+Weapons
+1.微型DSC射程650->600，装配点8->7，DPH20->25，DPS维持基本不变
+2.轻型GR长枪射程700->600，DPH80->100，DPS/FPS 181/127->200/140
+3.四联重机枪射程500->400，装配点10->8。
+4.战场尘埃加农炮射程1000->900，DPS/FPS 150/180->180/216
+5.重型GR长枪射程800->700，DPH80->100，DPS/FPS 256/179->300/210，装配点13->12。
+6.RW-BS等离子炮射程900->800，DPH100->160，EMP50->80，DPS维持不变，随机额外动能伤害50~100->40~80，装配点12->11。
+7.双联HI-IR长枪射程800->700，(瞬时)DPS/FPS 500/400(125/100) -> 625/500(188/150)
+8.轻型反物质长矛射程800->700，DPS/FPS 200/200->225/225，穿甲150(每秒600)->225(每秒900)，装配点12->10。
+9.风暴GR长枪射程900->800，DPS/FPS 666/533 -> 750/600，装配点25->24，添加新发射特效：发射会逐渐增温，最高33%的概率射弹替换为400破片伤害。
+10.反质子激光蓄能炮射程900->800，瞬时DPS 1250->1500，单发幅能200->180，备弹调整，恢复量更大更快。
+11.MW-重型反质子长矛射程1000->900，DPS/FPS 250/312->300/300
+12.激幅光束炮爆发伤害1500->1800，DPS/FPS 变为240/240，穿甲力降低200.
+13.GE-提枪者巨炮射程900->800，DPS/FPS 225/225->300/300，装配点16->18
+14.炎阳之暴HE-AD鱼雷启动速度提高，并极大提高加速度。装配点14->12，重装时间10->20秒。
+15.暗影长程巡航导弹 导弹碰撞半径降低，单发伤害850->900，导弹结构175->400。
+16.鬼影巡航导弹/幻象巡航导弹 导弹碰撞半径降低，导弹结构300->500。
+
+2022/10/5 3.0.1
+Ships
+1.朗基努斯护卫舰部署/维护3->5，幅能耗散350->300。
+2.勇者护卫舰幅能耗散100->150。
+3.修复D插贴图问题。
+
+2022/10/3 3.0.0
+Ships：
+1.舰船贴图大部分重置优化，部分舰船槽位微调。
+2.赞美I转轮核心修复。
+3.极乐天堂Mk.II的巡洋猎手对巡洋舰伤害提高10%->15%。
+
+Weapons：
+1.四联重机枪转速提高。
+2.救赎冲击波(荣光内置武器)每发幅能2400->2200。
+3.部分武器贴图优化。
+4.RW-BS等离子炮弹体特效调整，DPS/FPS 145/181->160/160，特效：命中护盾时，有20%的概率额外造成50~100点动能伤害。
+5.反质子激光蓄能炮开火音效更换。
+6.战场尘埃加农炮贴图重置，音效重置，武器重装时间2.1->2秒。
+7.NX-K GR高炮爆炸范围8->20。
+8.IR-PD点防炮提高散步。
+
+Hullmods：
+1.奥肯改装-幅能浓雾幅能阈值10%->5%，所需峰值时间25%->10%。
+
+2022/9/4 2.3.0
+Ships:
+1.赞美Mk.II及极乐天堂Mk.II的地图航速7->8
+2.审判官 CR部署/回复 45/15->20/10
+
+Others：
+重新调整星系位置
+修复了一些bug。
+略微调整势力关系。
+
+2022/4/2 2.2.1
+Weapons：
+1.风暴长矛改名为：风暴GR长枪
+2.MW-重型反质子光束炮改名为：MW-重型反质子长矛,爆发伤害/dps/fps/幅能比 3500/350/400/1.14 -> 2500/250/312/1.25
+3.轻型反物质光束炮改名为：轻型反物质长矛，射程900->800，装配点11->12。
+
+Others：
+热修复了一些bug
+
+2022/4/1 2.2.0
+Weapons：
+1.略微提高战场尘埃炮DPS。
+2.X射线中继器dps减半(雷击战斗机)
+3.微型DSC贴图调整。
+4.由于布伦希尔德核心的调整，部分女武神武器装配点+1~2.
+
+Ships：
+1.哀歌级获得布伦希尔德核心，装配点180->140，护盾效率0.7->0.8。
+2.赞美Mk.III 幅能25000/1250->23000/1100，装甲1300->1400。
+3.赞美Mk.II 幅能13000/700->12000/650，装甲1000->1100。
+4.海伦 部署/维护15->16，峰值时间720->420
+5.极乐天堂Mk.II 贴图修正，幅能容量13500->13000，护盾角度220->180，护盾效率0.9->1.0
+6.约书亚之本 幅能30000/1500->28000/1400，结构24000->22000，装甲1750->1600，护盾角度220->270，护盾效率0.9->1，战术系统骁勇捍卫现在额外提供最大速度和机动性及护盾抗性，且耗散提高25%->50%。
+7.黄玉 燃料容量750->900，添加船插民用级舰体。
+8.梵蒂冈Mk.I 结构装甲16000/1250->20000/1500,幅能24000/800->18000/750,部署55->60
+9.伊莲娜的物质传送现在需要33%启动幅能及5秒的冷却时间。
+
+Fighters：
+1.雷击-战斗机最高航速255->240，幅能容量750->600，结构750->550。
+2.誓约之剑-战斗机重置，变为单机超级战机。
+
+Hullmods：
+1.现在布伦希尔德核心针对女武神能量/实弹武器装配点-3/5/7，其他武器-1/3/5，导弹依旧只减1/2/3，减少武器幅能15%->10%.
+2.现在瓦尔哈拉核心不再降低中实弹武器装配需求。
+3.诗嘉古尔现代化方案现在可以通过内置调整提升幅度为5%，并消除副作用。
+
+
+2021/1/26 2.1.0
+Weapons：
+1.微型DSC 略微提高DPS。
+2.幻象/鬼影巡航导弹装配点10->8, 射程2500->7500
+3.激幅光束炮射程600->800
+4.战场尘埃加农炮DPS/FPS 100/120 -> 120/144
+5.炎阳之爆鱼雷装配点15->14，备弹量2->3
+
+Ships：
+1.所有战舰名字取消英文。
+2.极乐天堂 MkII贴图重修。
+3.赞美 MkIII贴图重修
+
+2020/5/24 2.0.2
+1.修复一处可能导致坏档的问题。
+2.无畏巡礼最终的舰队不会逃跑了
+3.四联重机枪弹药100->120，每秒弹药回复5->7.5，一次回复数量25->30
+
+2020/5/10 2.0.1
+1.布伦希尔德转轮核心实弹幅能-20%->-15%。
+2.炮火巅峰最高射速加成、幅能降低25%->20%
+3.赤红钢铁装配点4/8/12/16->3/6/10/15
+4.MW-重型反质子光束炮爆发伤害3624 dps/fps 392/541 ->3500 350/385.降低照射时间，提升了幅能比和穿甲力
+5.轻型反物质光束炮 每秒幅能900->600
+6.救赎冲击波现在需要充能1.5秒。荣光的充能槽添加了充能特效
+
+2020/5/7 2.0.0
+--超巨量更新！请务必开新档！--
+
+Ship changes：
+1.光辉级战列舰重置->荣光级战列舰，属性及部署全方面增强。
+2.赞美Mk.III 结构20000->16000 幅能容量27500->25000 耗散1350->1250 护盾角度295->270.
+3.约书亚 结构24000->18000 幅能容量24000->20000 耗散1200->1000 护盾维持0.5->0.4
+4.三头犬 结构17000->15000
+5.极乐天堂Mk.II 级别：重巡->超甲巡 幅能容量14000->13500 耗散700->600 装配点130->145，新增内插：巡洋猎手
+6.赞美Mk.II 装甲1100->1000 速度65->60  幅能容量14000->13000 机动小幅度下降
+7.伊莲娜 结构1500->1000 部署/每月补给 12->15
+8.精灵王国 装甲550->500 耗散350->300
+9.极乐世界 结构5250->6000 燃料使用2->3每光年 幅能容量5250->5000，幅能375->350 护盾效率0.8->1.0
+10.精灵王国 结构5250->4500
+11.电火花 结构5250->5000 装甲600->550 幅能容量7500->6000
+12.女武神mk2 载人150->250 新增船插地面支援
+13.约书亚mk6 取消沃德镀层内插
+
+Fighter changes：
+1.誓约之剑舰载机结构800->600，装甲200->250，幅能1000->300，幅能耗散200->100，现在武器开火无需幅能。
+2.阿兹卡舰载机装甲150->200
+3.海莉亚舰载机结构900->500，装甲200->150，幅能900->500，幅能耗散225->200，现在武器开火无需幅能。
+
+Weapon changes
+1.蝮蛇之毒的导弹替换为怨灵三联导弹(战机)，降低50伤害，射程大大降低，蝮蛇之毒本身防御性能降低。
+2.炎阳之爆鱼雷现在备弹量两发，每180秒恢复一发。杀伤范围减弱，特效加强， 射程5000->1500。
+3.鬼影/幻象巡航导弹每50秒回复一弹药->每40秒回复一次。
+4.NX-K GR高炮射程600->500，单发伤害12->20，单发幅能5->10，每轮10发->5发，每0.5秒一轮->0.8秒。
+5.微型DSC每发幅能15->16
+6.IR-PD点防炮射程350->250，单发伤害15->10，单发幅能3->1，重装时间0.05s->0.1s，装配点4->2
+7.天蝎MRM更名为蝎毒MRM，更改为250*3能量伤害的MIRV弹头。
+8.新增大型实弹武器:GE-提枪者巨炮（对中低甲特化炼狱炮）。
+9.删除以太驱动器、冰冻长枪、飓风IBCM。PTR-GT超高速激光炮、X射线中继器现在不会出现在市场中。
+10.救赎冲击波射程1200->900，每发伤害2500->2000,每发幅能3000->2400。
+11.四联重机枪每发幅能10->7.5，降低精确度的下降频率。
+12.轻型GR长枪、重型GR长枪每发幅能60->56.
+
+Hullmod changes
+1.重做炮火巅峰。现在炮火巅峰初始没有任何加成。维持开火可以最大获得25%武器射速和25%武器幅能减免。降低装配点。
+2.重做赤红装甲。现在赤红装甲在装甲受到损伤时会给予爆发式幅能耗散增益。
+3.三个hullmods贴图重修
+
+Other changes
+1.暂时从生涯中剔除梵蒂冈Mk.II。
+2.原罪魔王大幅增强(提高战役难度)。
+3.大量调整战役及战役文本。
+4.增加故事线：无畏巡礼。现在约书亚之本只能靠打捞最终面对的舰队才能获得。请注意面对最后的舰队的时候先存档！
+5.新增三首对应敌对、中立、友好的bgm。
+6.调整势力特性，势力争霸适配。
+7.调整星球描述及大小。
+
+2019/11/5 1.8.2
+1.赞美Mk3贴图更新。
+2.幅能浓雾幅能容量倍数1.5/1.4/1.35/1.3->1.25/1.2/1.15/1.1，幅能耗散倍数0.8/0.8/0.85/0.85->0.9/0.9/0.95/0.95，并且增加了维持幅能一段时间可以提升装甲抗性的buff。降低装配。
+3.炮火巅峰幅能耗散变为0.8倍，降低开火幅能变为45/40/35/30%。
+
+2019/9/13 1.8.1 需要重开档并删除saves/missions
+1.大量调整装配单。
+2.Weapons大量调整：
+战场尘埃加农炮装配点12->10，dph200->150，幅能225->200，并降低开火音量
+轻型反物质光束炮装配点12->10
+RW-BS等离子炮装配点13->11，射程800->900，每发EMP 100->50
+四联重机枪装配点12->10，射程600->500，备弹量250->100，每秒回复弹药及一轮回复数量10/50->5/25
+PTR-GT超高速激光炮装配点6->3
+IR-PD点防炮去除弹药设定，装配点8->4，射程450->350，每发伤害10->15,每发幅能4->3，提升准确度及转向速度
+NX-K GR高炮去除弹药设定
+IR爆发PD激光装配点6->5
+双联HI-IR激光装配点10->9，弹药容量30->20，每秒恢复弹药及一轮回复数量1/3->1/4
+3.插件调整：
+奥肯改装-幅能浓雾的容量因数变为1.5/1.4/1.35/1.3，排散因素变为0.8/0.8/0.85/0.85.
+4.大量更新mod id，需要删除战役存档装配单及重新开档。
+5.更新现代化船体结构的图标并更名为诗嘉古尔现代化方案，消耗补给20%->25%并提升33%的最低人员需求
+6.加入内置插件小型转轮核心。
+7.舰船数据调整
+赞美mk3重巡最高速度75->65
+约书亚级战列幅能容量/排散25000/1250->24000/1200
+三头犬级战巡幅能容量23500->21000
+8.调整战机细节。
+
+2019/8/29 1.8.0
+1.适配0.9.1
+2.进行大量调整.jpg
+3.加入新航母约书亚Mk.VI
+
+10:09 2018/11/2 1.7.1
+1.修复势力争霸开局小型巡逻有约书亚主力舰的问题。
+2.海伦航母的战术系统由守护者无人机改为目标馈送系统。
+3.梵蒂冈Mk.I战术系统由加速填弹器改为导弹自动工厂。梵蒂冈Mk.II战术系统由高速导弹挂架改为加速填弹器。
+3.约书亚之本的结构28500->27500，装甲由2500->2250，护盾效率1.0->0.9.机动性略微提升。
+
+12:06 2018/10/28
+1.幻象级、鬼影级巡航导弹现在弹药每分钟恢复1.2。
+2.加入布伦希尔德转轮核心，内置于所有主力舰级部分巡洋、驱逐舰上，降低实弹、能量武器装配与开火幅能。（大量降低原装配点）
+3.翡翠级货舰载货载油各下降250.
+4.奥肯改装赤红钢铁的幅能阈值从70/72/75/80%->70/75/80/85%，修正说明（低幅能装甲会受到50%额外伤害而不是25%）
+5.添加势力争霸兼容。
+
+18:35 2018/1/2
+1.加入了3个新hullmods。
+
+10:35 2017/9/19
+1.约书亚 结构25000 -> 22000 装甲 2000 -> 1600
+2.RW-BS 等离子炮拥有了100的emp伤害。
+
+23:10 2017/9/18
+1.部分战机联队削弱。
+2.Ships加强
+	三头犬 装配点240 -> 265
+	光辉   装配点255 -> 280
+	约书亚 装配点300 -> 315
+	赞美Mk.III 装配点 290 -> 310
+3.部分导弹加强。
+4.NX-K GR高炮 装配点 9->7 每次发射的弹丸 10 -> 5
+
+0:14 2017/7/26
+1.适配0.8.1a。
+2.超负荷运转 变为 持续一定时间的buff，并加了点特效。
+3.内置武器增幅光束炮添加特效，并去除了弹药限制。Dps/爆发伤害 上调为 300/1500
+4. 重型GR长枪 OP15 -> 12 射程 850 -> 800
+    双联HI-IR激光 每秒装填弹药量 1.5 -> 1
+
+19:56 2017/6/7
+1.三头犬级战巡 幅能容量25000->23500,幅能排散925->900
+
+11:00 2017/5/21
+1.加入了哀歌级攻城舰。
+2.调整一部分武器平衡。
+
+11:55 2017/2/19
+1.对超级战舰做了一些平衡调整。
+2.对部分武器进行了一些平衡调整。
+
+3:31 2017/2/19
+1.更改了大量描述，修复了一些bug。

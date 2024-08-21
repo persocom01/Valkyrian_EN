@@ -20,12 +20,12 @@ public class MissionDefinition implements MissionDefinitionPlugin {
 
 		// Set a small blurb for each fleet that shows up on the mission detail and
 		// mission results screens to identify each side.
-		api.setFleetTagline(FleetSide.PLAYER, "雇佣军突袭舰队");
-		api.setFleetTagline(FleetSide.ENEMY, "VKS Exile 与重型护卫编队");
+		api.setFleetTagline(FleetSide.PLAYER, "Mercenary Raid Fleet");
+		api.setFleetTagline(FleetSide.ENEMY, "VKS Exile with Heavy Escort");
 		
 		// These show up as items in the bulleted list under 
 		// "Tactical Objectives" on the mission detail screen
-		api.addBriefingItem("击毁Exile");
+		api.addBriefingItem("Destroy the Exile");
 		
 		// Set up the player's fleet.  Variant names come from the
 		// files in data/variants and data/variants/fighters

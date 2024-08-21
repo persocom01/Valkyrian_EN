@@ -20,13 +20,13 @@ public class MissionDefinition implements MissionDefinitionPlugin {
 
 		// Set a small blurb for each fleet that shows up on the mission detail and
 		// mission results screens to identify each side.
-		api.setFleetTagline(FleetSide.PLAYER, "霸主治安编队 第13编队");
-		api.setFleetTagline(FleetSide.ENEMY, "Valkyrian 实验旗舰与装配区守备编队");
+		api.setFleetTagline(FleetSide.PLAYER, "Hegemony Security Team 13th Detachment");
+		api.setFleetTagline(FleetSide.ENEMY, "Valkyrian Experimental Flagship and Assembly Area Garrison Detachment");
 		
 		// These show up as items in the bulleted list under 
 		// "Tactical Objectives" on the mission detail screen
-		api.addBriefingItem("干掉实验旗舰!");
-		api.addBriefingItem("HSS Kaori 必须存活.");
+		api.addBriefingItem("Take out the experimental flagship!");
+		api.addBriefingItem("HSS Kaori must survive.");
 		
 		// Set up the player's fleet.  Variant names come from the
 		// files in data/variants and data/variants/fighters

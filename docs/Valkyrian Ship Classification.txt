@@ -1,0 +1,32 @@
+#Titans#
+Titans are immensely powerful ships, even larger than space stations. However, the production and maintenance cost of building and managing such a ship are far beyond the budget of any navy. The Valkyrians have only built one ship of this class so far, the reason being that there was wreckage that could be used used as its foundation. This saved 80% of the cost. The ship itself was very expensive and destroyed by the Hegemony. The Valkyrians concluded that the production cost and limited role of a ship of this size made it useless.
+
+#Dreadnoughts
+Dreadnoughts are huge warships with large caliber guns. They are mainly used to bombard planets or attack fortified space stations. Their use is otherwise very limited. Due to their massive size and poor maneuverability, they are a target for super anti-ship weapons. The Valkyrians still have Dreadnoughts in service, but they are considered impractical due to the high maintenance cost and limited use. Even if their use was not limited to bombing missions, their remaining use is to be dismantled and used as material to produce new and better ships.
+
+#Supercarriers#
+Supercarriers, as the name suggests, are giant carriers capable of carrying, building, repairing and launching hundreds of fighter wings, used to blockage huge airspaces and strike multiple targets simultaneously. These factors make their presence very important. They also have a tough structure capable of withstanding multiple strikes.
+Ships of this class are very common among the Valkyrians. Construction orders are always placed regularly, and once they are completed, these ships can more or less sustain themselves due to their own equipment and factories, so they can sail for months without resupply or repair. This makes them very valuable economically.该等级舰船在Valkyrians星域内非常常见。建造的订单总是定期产生，一旦生产完毕，这些舰船凭借自带的设备和工厂或多或少都可以维持自身，因此可以航行数月而不进行补给或修理。这使她们很有经济价值。
+
+#Battleships
+Battleships are large, heavily armed and well defended ships that usually lead fleets. They can single handedly make enemies surrender. Valkyrians are particularly fond of ships of this shape and size, and although not very economical, their impact on on the battlefield far outweighs their drawbacks.
+
+#Battlecruisers#
+Battlecruisers are among the more visible ships used by Valkyrians. Overall, they are a type of cruiser design that relies on lightweight armor, better hardware and weapon systems rather than simply being an armored behemoths that are only able to inch forward.
+
+#Heavy Cruisers#
+Heavy cruisers are the most widely available ship in Valkyrian service, capable of sustained combat and difficult to destroy. Certainly not expensive as hell.
+
+#Cruisers#
+Cruisers usually serve as fuel ships or transport ships for your fleet when sailing. Since they are designed by the Navy, they are better equipped. They have faster speeds and weaker armor and weapons compared with their heavier counterparts. Cruisers or light cruisers are rarely seen in the Valkyrian part of the sector, because the materials used to build them are better invested in destroyers or heavy cruisers for the same effect.
+
+#Destroyers#
+Destroyers are the workhorses of the navy. Their high speed, adaptability, good firepower and low cost make them unquestionably the backbone of the fleets of various forces.
+
+#Frigates#
+Frigates are typically used for reconnaissance or special missions, and if equipped correctly, can be competent at almost any task you assign to them.
+
+#Fighters#
+Fighters are the primary weapon of carriers, and come in all shapes and size for a variety of roles, from harassing enemy ships to intercepting targets. Valkyrians fighters are designed with a particular focus on adopting cutting edge concepts, making them much more powerful than their competitors.
+#Bombers#
+Bombers have only one mission, to destroy large ships, which is their specialty.

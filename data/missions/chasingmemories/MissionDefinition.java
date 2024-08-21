@@ -20,13 +20,13 @@ public class MissionDefinition implements MissionDefinitionPlugin {
 
 		// Set a small blurb for each fleet that shows up on the mission detail and
 		// mission results screens to identify each side.
-		api.setFleetTagline(FleetSide.PLAYER, "Kanako与她的极乐天堂");
-		api.setFleetTagline(FleetSide.ENEMY, "Valkyrian精英巡逻队员");
+		api.setFleetTagline(FleetSide.PLAYER, "Kanako and her Nirvana");
+		api.setFleetTagline(FleetSide.ENEMY, "Valkyrian Elite Patrol");
 		
 		// These show up as items in the bulleted list under 
 		// "Tactical Objectives" on the mission detail screen
-		api.addBriefingItem("逃离！");
-		api.addBriefingItem("被驱逐舰逮到你就完蛋了，信不信随你。");
+		api.addBriefingItem("Escape!");
+		api.addBriefingItem("If you are caught by a destroyer, you are doomed, believe it or not.");
 		
 		// Set up the player's fleet.  Variant names come from the
 		// files in data/variants and data/variants/fighters
