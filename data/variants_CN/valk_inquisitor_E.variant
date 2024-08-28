@@ -1,0 +1,42 @@
+{
+    "displayName": "护航",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "valk_inquisitor",
+    "hullMods": [
+        "pointdefenseai",
+        "targetingunit",
+        "stabilizedshieldemitter",
+        "turretgyros",
+        "armoredweapons"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_inquisitor_E",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0007": "valk_ilc"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "mininglaser",
+                "WS0002": "mininglaser",
+                "WS0005": "mininglaser",
+                "WS0006": "mininglaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "valk_nxk_pd",
+                "WS0004": "valk_nxk_pd"
+            }
+        }
+    ]
+}

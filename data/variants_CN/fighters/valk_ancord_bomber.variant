@@ -1,0 +1,25 @@
+{
+  "displayName": "重型轰炸机",
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "hullId": "valk_ancord",
+  "hullMods": [],
+  "variantId": "valk_ancord_bomber",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "valk_wraith_fighter"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "valk_irpdburst",
+        "WS0002": "valk_irpdburst"
+      }
+    }
+  ]
+}

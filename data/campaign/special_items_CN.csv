@@ -1,0 +1,4 @@
+name,id,tags,rarity,base price,stack size,cargo space,icon,sound id,sound id drop,plugin,plugin params,desc,order
+女武神奥肯蓝图,valk_archon_package,package_bp,,20000,1000,1,graphics/icons/cargo/blueprint_valkyrian.png,ui_chip_pickup,ui_bp_package_drop,com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin,valk_archon_bp,"使重工业设施能够制造女武神组织奥肯制造集团的次要及精英船体, 武器以及战机 LPC.",399
+女武神地平线蓝图,valk_horizon_package,package_bp,,20000,1000,1,graphics/icons/cargo/blueprint_valkyrian.png,ui_chip_pickup,ui_bp_package_drop,com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin,valk_horizon_bp,"使重工业设施能够制造女武神组织地平线船坞的常规船体, 武器以及战机 LPC.",399
+女武神谜团蓝图,valk_enigma_package,package_bp,,20000,1000,1,graphics/icons/cargo/blueprint_valkyrian.png,ui_chip_pickup,ui_bp_package_drop,com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin,valk_enigma_bp,使重工业设施能够制造女武神组织谜团公司的武器.,399

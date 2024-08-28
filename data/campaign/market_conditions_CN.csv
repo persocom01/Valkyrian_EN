@@ -1,0 +1,3 @@
+name,id,faction,script,desc,icon,order
+Enigma II Economy,enigma_ii,,data.scripts.campaign.econ.EnigmaIIEconomy,Valkrians将严格的军事纪律和先进技术相结合以稳定他们的经济,graphics/icons/markets/urbanized_polity.png,99
+Enigma III Economy,enigma_iii,,data.scripts.campaign.econ.EnigmaIIIEconomy,Valkrians将严格的军事纪律和先进技术相结合以稳定他们的经济,graphics/icons/markets/urbanized_polity.png,100

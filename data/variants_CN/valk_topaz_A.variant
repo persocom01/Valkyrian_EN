@@ -1,0 +1,26 @@
+{
+    "displayName": "先进",
+    "fluxCapacitors": 13,
+    "fluxVents": 9,
+    "goalVariant": true,
+    "hullId": "valk_topaz",
+    "hullMods": [
+        "efficiency_overhaul",
+        "auxiliary_fuel_tanks"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_topaz_A",
+    "weaponGroups": [{
+        "autofire": true,
+        "mode": "LINKED",
+        "weapons": {
+            "WS0001": "valk_irpdcannon",
+            "WS0002": "valk_irpdcannon",
+            "WS0005": "valk_irpdcannon",
+            "WS0006": "valk_irpdcannon",
+            "WS0007": "valk_irpdcannon",
+            "WS0008": "valk_irpdcannon"
+        }
+    }]
+}

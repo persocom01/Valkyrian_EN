@@ -9,7 +9,7 @@
 	# rather than an actual intercept.
 	
 	"valk_public":{
-		"name":"Valkyrian News Network",
+		"name":"Valkyrian 新闻网 ",
 		"logo":"graphics/icons/intel/valk_news.png",
 		"icon":"graphics/icons/intel/valk_news.png",
 		"image":"graphics/factions/valk_flag.png",
@@ -19,7 +19,7 @@
 		"shortType":"Info",
 	},
 	"valk_internal":{
-		"name":"Valkyrian Assesment Agency",
+		"name":"Valkyrian 评估服务",
 		"logo":"graphics/icons/intel/valk_intel.png",
 		"icon":"graphics/icons/intel/valk_intel.png",
 		"image":"graphics/factions/valk_flag.png",

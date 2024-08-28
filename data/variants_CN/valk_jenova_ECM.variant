@@ -1,0 +1,25 @@
+{
+    "displayName": "ECM",
+    "fluxCapacitors": 2,
+    "fluxVents": 9,
+    "goalVariant": true,
+    "hullId": "valk_jenova",
+    "hullMods": ["targetingunit"],
+    "permaMods": [],
+    "variantId": "valk_jenova_ECM",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "valk_lightlancer",
+                "WS0004": "valk_lightlancer"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0002": "valk_nxk_pd"}
+        }
+    ]
+}

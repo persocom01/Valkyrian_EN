@@ -1,0 +1,71 @@
+{
+    "displayName": "光束",
+    "fluxCapacitors": 12,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "valk_cherberos",
+    "hullMods": [
+        "advancedoptics",
+        "missleracks",
+        "targetingunit"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_cherberos_B",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0004": "valk_imbc"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0002": "squall",
+                "WS0003": "squall"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0012": "pilum",
+                "WS0013": "pilum"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "valk_hyperbeam"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0020": "valk_bcnn",
+                "WS0021": "valk_bcnn",
+                "WS0026": "valk_bcnn",
+                "WS0027": "valk_bcnn"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0006": "valk_nxk_pd",
+                "WS0007": "valk_nxk_pd",
+                "WS0008": "valk_nxk_pd",
+                "WS0009": "valk_nxk_pd",
+                "WS0010": "valk_irpdcannon",
+                "WS0011": "valk_irpdcannon",
+                "WS0014": "valk_irpdcannon",
+                "WS0015": "valk_irpdcannon",
+                "WS0016": "valk_quadheavymg",
+                "WS0017": "valk_quadheavymg",
+                "WS0018": "valk_quadheavymg",
+                "WS0019": "valk_quadheavymg"
+            }
+        }
+    ]
+}

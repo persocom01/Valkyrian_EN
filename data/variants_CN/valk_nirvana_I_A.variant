@@ -1,0 +1,52 @@
+{
+    "displayName": "先进",
+    "fluxCapacitors": 20,
+    "fluxVents": 20,
+    "goalVariant": true,
+    "hullId": "valk_nirvana_I",
+    "hullMods": [
+        "targetingunit",
+        "valk_redarmor",
+        "missleracks"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_nirvana_I_A",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0009": "valk_bcnn",
+                "WS0010": "valk_bcnn",
+                "WS0016": "valk_bcnn",
+                "WS0017": "valk_bcnn"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0003": "typhoon",
+                "WS0004": "typhoon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0011": "devastator"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "valk_irpdcannon",
+                "WS0002": "valk_irpdcannon",
+                "WS0012": "valk_irpdcannon",
+                "WS0013": "valk_irpdcannon",
+                "WS0018": "valk_irpdcannon",
+                "WS0019": "valk_irpdcannon"
+            }
+        }
+    ]
+}

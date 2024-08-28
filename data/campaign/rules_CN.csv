@@ -1,0 +1,106 @@
+id,trigger,conditions,script,text,options,notes,Column 08
+vft_findadmiralGreeting,PickGreeting,"$valkft_isAdmiral
+$valkft_stage == 0","ShowPersonVisual
+$talkedTo = true
+Highlight ""约书亚-级""","打开通讯频道，你影影约约听见一些军人向上级汇报的声音，你定睛一看，眼前的这位女性竟然佩戴着代表将军的肩章。
+
+""事实上，"" 两鬓略显斑白的女将军 $personName 向惊讶的你解释道：""此前的任务目标出于不明原因已经被消灭了，我们目前的困难是一项军备筹措项目，一个相当大的订单 —— 用你自己的任何手段，向我交付三艘 已封存完毕的 约书亚-级 主力舰，您的意向如何呢？""
+
+你仔细地考虑着这份非同寻常的委托...","0:valkft_accept:接受这项委托
+1:cutCommLink:""算了.""并切断了通讯",,
+vft_findadmiralGreetingTalkedTo,PickGreeting,"$valkft_isAdmiral
+$valkft_stage == 0
+$talkedTo",ShowPersonVisual,"""怎么，回心转意了? ""
+
+很明显，女将军接通通讯以后没有表示出任何的不耐烦，似乎对此事抱有极强的耐心。","0:valkft_accept:接受这项委托
+1:cutCommLink:""算了.""并切断了通讯",,
+vft_findadmiralAccept,DialogOptionSelected,$option == valkft_accept,"CallEvent $valkft_eventRef nextStage
+ShowDefaultVisual
+EndConversation","""很好，那期待你的好消息。""
+
+女将军露出了些许放松的神情，随即切断了通讯.",,,
+vft_findshipsGreeting,PickGreeting,"$valkft_isAdmiral
+$valkft_stage == 1
+CallEvent $valkft_eventRef checkCondition","ShowPersonVisual
+SetEnabled valkft_delieverships $meetCondition","""这么快就搞定了? "" 通讯频道中，女将军用有些诧异的眼神看着你。","0:valkft_delieverships:""是的.""
+1:cutCommLink:""还没有, 抱歉打扰你了."" 并切断了通讯",,
+vft_findshipsTalk0,DialogOptionSelected,$option == valkft_delieverships,$valk_talkStage = 1,"""干得漂亮。""年过半百的老将军拍了拍你的肩膀。
+
+""看见那艘 战列巡洋舰 了吗，还有半个月就要转运到 Enigma 三号产业站拆卸的老东西，有兴趣去看看吗？""","0:vft_continue:""荣幸之至.""",,
+vft_findshipsTalk1,DialogOptionSelected,"$option == vft_continue
+$valk_talkStage == 1",$valk_talkStage = 2,你登上开阔的侧舷甲板，密集的炮塔呈矩形排列在中轴线附近...这似乎是约书亚的一个改型，结合她比较独特的涂装，你发现，你并没有在码头上看到过相似战舰...你注意到一个巴掌大小的 全息影像仪 摆放在指挥室的长桌上，和失去能源而显得灰暗的环境格格不入的是，这台机器仍然在放映着一个男人的半身像。,"0:vft_continue:""这个人...""",,
+vft_findshipsTalk2,DialogOptionSelected,"$option == vft_continue
+$valk_talkStage == 2",$valk_talkStage = 3,"""与其说是荣耀的载体，不如说是回忆的结晶。""
+
+走在前面的将军莫名其妙地嘟囔一句，然后猛地回过头来，她右侧的义眼锁定在你的身上。
+
+""你完成的任务仅仅是个测试，但在进入正题前，让我们先聊点别的。""
+
+---- 穿越幽暗狭长的维修管道，你跟随将军从右舷的气密门 A 口钻出 ----
+
+正午的炫目日光让你不得不眯起眼睛，耳边穿来将军尖锐的声音：""整个 Enigma 都见证了我们的爱情...双方都对分别毫无准备，可是性别革命运动 已经走到转折点。""说到这里，将军突然有点哽咽，她拉长了音调，""---他一直是个很安静的男人，谁能料想就是这么一个人 动员了轨道船坞的工人 和 下层水兵，将 不稳定因素 带往星系外缘。""",0:vft_continue:继续,,
+vft_findshipsTalk3,DialogOptionSelected,"$option == vft_continue
+$valk_talkStage == 3",$valk_talkStage = 4,"""那是一次对外战役，是与 霸主的 大规模斗争。最初的战役规划里，除了内部的 全面动员，战争的秃鹫们 也摩拳擦掌...两支舰队 就像巨兽般 在陨石散布的 星系边缘 缓慢地蠕动，耗费数日 接近对方，同时小心地 将最具攻击性的头部 对准敌人。如此大规模的 舰队机动 在这星域中 也堪称奇观。分舰队和侦查机群 最远延伸到 3光年外。首日战况 相当顺利，战斗在 四个战场 打响，霸主的先头部队 遭受了重挫，一艘 航空战列舰 几乎变成了废铁、
+
+第二日的战斗 伴随着军事叛乱。他带领着变节者们 完成轴向跳跃，迅速脱离战场，在上层做出反应前，发射激波干扰通讯。形势迅速恶化，右翼防御一度瓦解。在付出沉重代价后，我们得以脱身，将女武神的荣耀 连同舰队优势 一同丢在那里。身为右翼的 三个指挥官之一，我遭到弹劾，虽然罪名没有成立，但我也从此被 软禁了起来，你看我 尽管仍能发表政见，但我的声音根本传不出去。""","0:vft_continue:你忍不住把上半身向前倾, 有些期待后续的发展",,
+vft_findshipsTalk4,DialogOptionSelected,"$option == vft_continue
+$valk_talkStage == 4",$valk_talkStage = 5,"""战役结束后，'叛徒'们并没有更多的行动，他们就这么 驶离了这个星系...但女武神不曾放弃 去找到他们。"" 女将军顿了顿，神情复杂地说道：
+
+""实际上，某个星系近地轨道 疑似舰队反应的汇报 直到我退居二线 都还留在 个人电脑 中...那就是他的藏身之所，一旦上级知晓，等待着他的结果 就是叛国罪和绞刑架。
+
+这事终究需要了结，而我不希望他 屈辱地死去...因此我找到了你！你是唯一一个 耐心 和 实力 兼具的舰长，相信你一定能 无声无息地 替我'处理'好他...事成之后，你可以拿走 所有战利品.""","0:vft_continue:咨询更多关于""他""的个人情报",,
+vft_findshipsTalk5,DialogOptionSelected,"$option == vft_continue
+$valk_talkStage == 5","AddText ""-该处选项会有不可逆转的影响, 请谨慎选择-"" good","经过一番交谈，你 了解到他曾经是将军旗舰的整备主管，对改造有着难以想象的执着。
+
+""你...是怎么想的? "" 女将军声音带着点颤抖，又些许悠远。","0:vft_type_love:""这艘光荣的旗舰, 不是到处都在书写着他对您的爱吗?""
+1:vft_type_hate:""仇恨犹如刻痕, 与爱一样深沉.""
+2:vft_type_normal:""致命的愚蠢, 不是吗?""",,
+vft_findshipsTalkChoseLove,DialogOptionSelected,$option == vft_type_love,"CallEvent $valkft_eventRef withdrawYoshura
+CallEvent $valkft_eventRef chooseType 0
+CallEvent $valkft_eventRef nextStage",女将军突然浑身一颤，眼中的银河浪涛汹涌。已被岁月刻下伤痕的面容上，竟泛起了令人难过的悲恸与哀伤，她深深地看了你一眼，头也不回地离开了。,0:cutCommLink:离开,,
+vft_findshipsTalkChoseHate,DialogOptionSelected,$option == vft_type_hate,"CallEvent $valkft_eventRef withdrawYoshura
+CallEvent $valkft_eventRef chooseType 1
+CallEvent $valkft_eventRef nextStage",女将军发出一声叹息，转身离去，背影落魄，你向来不相信小说中虚伪的描写，但那一刹那，你真的觉得她好像老了十岁。,0:cutCommLink:离开,,
+vft_findshipsTalkChoseNormal,DialogOptionSelected,$option == vft_type_normal,"CallEvent $valkft_eventRef withdrawYoshura
+CallEvent $valkft_eventRef chooseType 2
+CallEvent $valkft_eventRef nextStage","义眼快速摆动，将使用者的心态暴露无遗，女将军很快压制住了自己的情绪。""该出发了""，她头也不回，默默离去。",0:cutCommLink:离开,,
+,,,,,,,
+vft_findHeEncounter,BeginFleetEncounter,"!$talked
+$valkft_isHisFleet score:100","unset $entity.ignorePlayerCommRequests
+AddText ""你终于见到了 $personName. 这个令女将军感慨万千的男人."" $faction.baseColor
+MakeOtherFleetPreventDisengage tOff true
+MakeOtherFleetAggressive tOff true
+$talked = true
+CallEvent $valkft_eventRef succeed
+OpenComms",,,,
+vft_findHeGreeting0,OpenCommLink,$valkft_isHe score:100,"$entity.ignorePlayerCommRequests = true
+$vft_fhc = 1
+","你意外地接收到了 他的通讯请求，接通通讯，你正感到诧异，他便自言自语了起来，像是明白你为何而来。
+
+""你是她派来的人吧? 这一天来得也不算太晚。""
+
+游荡者领袖 耷拉着眼皮，此刻的他 看上去有点落魄，比起舰队司令 更像一个路边的乞丐。
+
+""多年的虚空旅程 让我们损失惨重，这艘船 过去可是满载着 革命者的希望和热情啊。我们曾经尝试 建立自己的乌托邦，却在 新世界 亏光了燃料钱，该死的联盟商人 操纵脆弱的殖民地经济，制造饥荒，从人们手中压榨 每一个星币。""
+
+""当我意识到 摧毁贸易舰队 让我们无法在 联盟世界 中立足时，为时已晚。舰队向外驶去，一直向外。穿越 漫长的 亚特兰蒂斯星云 外侧航道，抵达 不法者们的乐园，在瘆人的边缘世界，我们一次次经历火并，内讧，欺诈，离别，直到现在。
+
+她也对 这件事耿耿于怀？你好像对 女武神组织 的黑幕有所了解，我也不介意 在大打出手前，告诉你更多的事。""","0:vft_he_continue:""你们不是曾经相爱吗, 又怎么会走到这一步? """,,
+vft_findHeGreeting1,DialogOptionSelected,"$option == vft_he_continue
+$vft_fhc == 1",$vft_fhc = 2,"""不知从何时起，沟通停滞了，双方默默地 用行动 坚持着自己的正义...大战前夕，我和追随者 将旧式卡宾枪和电磁步枪 一同藏匿在补给箱中，搬到战舰上。我们不可能 坐失良机，可怕的 星际强权 压得运动无法喘息。到 女武神组织 力量投射的边缘去!  那是我们 唯一的出路...""","0:vft_he_continue:""无法否认这是一场伟大的抗争.""",,
+vft_findHeGreeting2,DialogOptionSelected,"$option == vft_he_continue
+$vft_fhc == 2",$vft_fhc = 3,"""我们以雷霆般的姿态 掌控了一个分舰队。革命者在尚未暴露的情况下 登上了 一艘约书亚改型 的原型舰，击毙了卫戍 的步行枪骑兵，她们的脉冲偏转场 在火力覆盖下彻底失效，这艘 战列舰 的陷落象征着运动的巨大成就。""
+
+""哨站是最后一个攻击目标，随着 全副武装的暴徒们 将其洗劫一空，我们从组织中 脱离，成为寂静虚空的 住民。基于俘获的 战列舰 骨架，和哨站的机密，我打造了这架战争机器，并决定以铁血 来捍卫我人生的意义至 最后一刻!  ""
+
+他的眼中 透露着坚毅，抬起右手准备切断通讯。","0:vft_he_continue:""那容许我再问最后一个问题, 你现在又是怎么看待她的呢?""",,
+vft_findHeLove,DialogOptionSelected,"$option == vft_he_continue
+$valkft_type == 0
+$vft_fhc == 3",,"""她对我而言什么时刻都是唯一的。"" 双方都沉默了。片刻，他看了你一眼，眼里的星辰仿佛从未熄灭，他毅然决然地断开了通讯连接，来自他的信息戛然而止，宣告着一段故事的结束 和 一场战斗的来临。",cutCommLink:切断链接,,
+vft_findHeHate,DialogOptionSelected,"$option == vft_he_continue
+$valkft_type == 1
+$vft_fhc == 3",,"""我厌恶."" 通讯器陷入沉默，旗舰剧烈震荡，你 往舰桥外望去，有人 正大喊着""受到炮击! 受到炮击! """,cutCommLink:切断链接,,
+vft_findHeNormal,DialogOptionSelected,"$option == vft_he_continue
+$valkft_type == 2
+$vft_fhc == 3",,"""从抛弃组织的那一刻起，我们便再无瓜葛。"" 传过一阵电流声，通讯中断了。",cutCommLink:切断链接,,
+,,,,,,,

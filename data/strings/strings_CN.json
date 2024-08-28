@@ -1,0 +1,95 @@
+{
+  "valk_shipSystem": {
+    "ff_title": "浓雾装甲",
+    "ff_progress": "进度:",
+    "ff_success": "抗性已提升",
+    "pf_title": "巅峰束能矩阵",
+    "pf_progress1": "武器射速 +",
+    "pf_progress2": "武器幅能 -",
+    "ra_title": "创伤反应管道",
+    "ra_content": "幅能耗散 +",
+    "ra_hardFlux": "获得硬幅能耗散:",
+    "mod_rejection0": "以下插件不能互相兼容:",
+    "mod_rejection1": "同时该插件不与以下插件兼容:",
+    "oc_0": "武器伤害",
+    "oc_1": "幅能耗散",
+    "br_0": "整备时间 x ",
+    "br_1": "加快战机返航速度",
+    "td_0": "增大引擎出力",
+    "dd_0": "每秒恢复 %s 结构",
+    "dd_3": "护盾受伤 - ",
+    "cm_title": "巡航测绘|当前区域进度",
+    "max_speed": "最大速度",
+    "maneuverability": "机动性",
+    "ecm_0": "敌舰降低 %s 雷达强度",
+    "hc_title": "圣约增益"
+  },
+  "valk_hullmods": {
+    "bryn_heading": "武器根据类型/大小减低所需装配点",
+    "bryn_weapon_type": "武器类型",
+    "bryn_valk_weapons": "女武神组织-实弹/能量武器",
+    "bryn_other_weapons": "其他-实弹/能量武器",
+    "bryn_missile_weapons": "所有-导弹武器",
+    "skogul_desc0": "性能提升幅度: %s",
+    "skogul_desc1": "最低船员需求 + %s",
+    "skogul_desc2": "部署及每月维护费用 + %s",
+    "skogul_remove_penalty": "消除副作用",
+    "hc_bonus_factor_heading": "增益因数",
+    "hc_bonus_factor_content": "女武神主力舰对自身的增益效果永远为 @[(positive)100%]。\n根据舰船级别，部署点大于等于 @[%s] 时获得最大增益。\n对于战机联队，装配点大于等于 @[%s] 时获得最大增益。\n非女武神舰船的部署点/装配点将在计算时 @[(negative)视作一半]。",
+    "hc_bonus_detail_heading": "增益内容",
+    "hc_bonus_detail_maximum": "(上限为 @[%s])",
+    "hc_bonus_detail_content_common": "对非主力舰级别的舰船伤害 + @[(positive)%s]",
+    "hc_bonus_detail_content_battle_desc": "@[约书亚] / @[约书亚之本] / @[荣光] 提供额外增益:",
+    "hc_bonus_detail_content_battle1": "开启护盾时硬幅能耗散 + @[(positive)%s]",
+    "hc_bonus_detail_content_battle2": "能量/实弹武器后坐力 - @[(positive)%s]",
+    "hc_bonus_detail_content_missile_desc": "@[约书亚Mk.IV] / @[梵蒂冈Mk.I] 提供额外增益:",
+    "hc_bonus_detail_content_missile1": "导弹飞行速度 + @[(positive)%s]",
+    "hc_bonus_detail_content_missile2": "导弹对于主力舰的伤害 + @[(positive)%s]",
+    "hc_bonus_detail_content_speed_desc": "@[赞美Mk.III] / @[三头犬] 提供额外增益:",
+    "hc_bonus_detail_content_speed1": "最高航速 + @[(positive)%s]",
+    "hc_bonus_detail_content_speed2": "机动性 + @[(positive)%s]"
+  },
+  "valk_fearlessTour": {
+    "bar_s0": "一个挂着女武神组织徽章的女人坐在窗边，蹙着眉头看向窗外，这让酒吧内的气氛有点不同寻常。",
+    "bar_o0": "思考片刻，你走近那位女武神军官",
+    "bar_s1": "你尝试上去搭话，气氛显然有点不同寻常，对方一边就目前的星域局势侃侃而谈，一边秘密地打量着你..\n\n\"如果我没猜错的话，您似乎拥有一笔不小的财产，也许还有一支私人舰队。\"\n\n话题开始涉及卢德骑士团的密辛，异常类地行星上的特殊扫描成像，女武神组织的又一艘绝密战舰...对方的话语成功勾起了你的好奇心。",
+    "bar_o1_1": "向她展示自己的各种工程师证书",
+    "bar_o1_2": "向她夸耀自己老练的战斗技能",
+    "bar_o1_3": "向她说明自己丰富的航行经验",
+    "bar_o1_leave": "表示不想再深入聊下去，转身离开",
+    "bar_s2_0": "\"事实上这是一项特殊的私人委托，希望能得到尽快回复。\"\n\n知道从哪儿冒出来的一踏资料已经摊在了桌上，上面用粗体大字写着联络处和一些粗略概要。\n",
+    "bar_s2_1": "经过一番交谈，她表示非常欣赏你丰富的技术知识。",
+    "bar_s2_2": "经过一番交谈，她表示对你的指挥水平有所怀疑。",
+    "bar_s2_3": "经过一番交谈，她表示对你的冒险经历有很大的兴趣。",
+    "bar_o2": "\"好的。我会尽快。\"",
+    "bar_o2_leave": "表达对此毫无兴趣并离开",
+    "bar_leave": "离开",
+    "event_title": "无畏巡礼",
+    "event_end": "结束",
+    "event_end_s0": "你见到了, 她的那个他。",
+    "event_failed": "失败",
+    "event_failed_s0": "你辜负了来自女武神的期待。",
+    "event_otherEnd": "意外",
+    "event_otherEnd_s0": "据知情人的情报，那个男人所在的舰队已经消失了。很遗憾，你不能和这位令你感兴趣的男人见面了。",
+    "event_s0": "一名女武神军官给了你一份悬赏资料，为了了解详情，你需要去找到那个悬赏者。",
+    "event_s0_l0": "前往 %s 的 %s",
+    "event_s1": "女将军要求你在指定时间内将三艘崭新的约书亚级战列舰送抵她所在星球的港口。",
+    "event_s1_tip": "请确保战舰处于封存状态且没有军官指挥。",
+    "event_s1_l0": "还剩 %s 天",
+    "event_s1_l1": "收集 %s 艘约书亚级战列舰",
+    "event_s1_l2": "前往 %s 的 %s 交付战舰",
+    "event_s1_r1": "你失去了 %s 艘约书亚级战列舰",
+    "event_s2": "找到那个男人。",
+    "event_s2_l0": "根据女将军的说法, 他在 %s 的 %s",
+    "event_fleet_name": "%s 近地防御舰队"
+  }
+}
+
+
+
+
+
+
+
+
+

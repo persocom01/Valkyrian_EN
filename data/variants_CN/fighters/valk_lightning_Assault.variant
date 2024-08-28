@@ -1,0 +1,25 @@
+{
+  "displayName": "突袭战斗机",
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "hullId": "valk_lightning",
+  "hullMods": [],
+  "variantId": "valk_lightning_Assault",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "valk_xr_repeater",
+        "WS0002": "valk_xr_repeater"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "swarmer"
+      }
+    }
+  ]
+}

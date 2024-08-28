@@ -1,0 +1,51 @@
+{
+    "displayName": "突击",
+    "fluxCapacitors": 11,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "valk_nirvana_I",
+    "hullMods": [
+        "targetingunit",
+        "valk_redarmor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_nirvana_I_AS",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0011": "valk_antiproton_laser"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0003": "phasecl",
+                "WS0004": "phasecl"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0009": "valk_twin_hiir_laser",
+                "WS0010": "valk_twin_hiir_laser",
+                "WS0016": "valk_twin_hiir_laser",
+                "WS0017": "valk_twin_hiir_laser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "valk_irpdcannon",
+                "WS0002": "valk_irpdcannon",
+                "WS0012": "valk_nxk_pd",
+                "WS0013": "valk_nxk_pd",
+                "WS0018": "valk_nxk_pd",
+                "WS0019": "valk_nxk_pd"
+            }
+        }
+    ]
+}

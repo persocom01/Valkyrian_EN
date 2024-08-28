@@ -1,0 +1,53 @@
+name,id,tier,rarity,tech/manufacturer,tags,uiTags,base value,unlocked,hidden,hiddenEverywhere,cost_frigate,cost_dest,cost_cruiser,cost_capital,script,desc,short,sModDesc,sprite
+侦查系统增强,valk_reconoptimization,1,,女武神-奥肯制造集团,engines,,5000,,,,8,0,0,0,data.hullmods.valk_ReconOptimization,"将舰船切换为侦查形态， 强化舰船 %s 的侦查范围和机动性， 但代价是武器的伤害都将降低 %s 。
+
+只有护卫舰能安装该插件。",强化机动和侦查，降低武器伤害。,,graphics/hullmods/valk_recon_optimization.png
+诗嘉古尔现代化方案,valk_skogulmodernization,2,,女武神-奥肯制造集团,special,,12000,,,,5,10,15,25,data.hullmods.valk_SkogulModernization,通过来自女武神的一套先进而有效的舰船检修方案及改装策略，全面提高舰船性能，其中包含幅能状态、战舰耐久、速度机动、武器伤害等大量因素。,以消耗补给为代价提升舰船性能。,性能提升幅度提高至 %s，并且 %s 。,graphics/hullmods/valk_skogul_modernization.png
+沃德镀层,valk_fluxplating,,,女武神-奥肯制造集团,,,,,TRUE,,0,0,0,0,data.hullmods.valk_FluxPlating,"瓦尔基里的超级战舰拥有着强大的舰体性能，其附着于舰身的高水准电镀层使得舰身基本能免疫EMP伤害。
+
+所受的EMP伤害减少 %s .",免疫EMP。,,graphics/hullmods/valk_em_ward_plating.png
+布伦希尔德转轮核心,valk_bryncore,,,女武神-奥肯制造集团,,,,,TRUE,,0,0,0,0,data.hullmods.valk_BrynCore,"女武神先进舰船的特殊结构，一般安装在炮台底部的幅能管道周围，能够以超乎寻常的适配性完美搭载女武神组织的武器。
+
+- 所有类型武器开火所需幅能 - %s 
+- 女武神组织的武器射程 + %s",降低武器装配。,,graphics/hullmods/valk_bryncore.png
+小型转轮核心,valk_microbryncore,,,女武神-奥肯制造集团,,,,,TRUE,,0,0,0,0,data.hullmods.valk_MicroBrynCore,"布伦希尔德核心的小型化。
+- 根据武器大小，实弹、能量武器安装所需装配点下降 %s/%s/%s 。
+- 女武神组织的武器射程 + %s
+
+通常被安装在巡洋舰级别以下的战舰上。",降低武器装配。,,graphics/hullmods/valk_microbryncore.png
+瓦尔哈拉核心,valk_valhallacore,,,女武神-奥肯制造集团,,,,,TRUE,,8,0,0,"0
+",data.hullmods.valk_ValhallaCore,"女武神永不畏惧死亡， 这个核心就是她们视死如归的象征。 
+当幅能超过 %s 时，该舰武器造成的伤害最高上升 %s，受到的高爆、动能伤害最高上升 %s 。
+
+与此同时， 当该舰直线航行时， 最高战斗速度 最多提升 %s 。",更为强大。,,graphics/hullmods/valk_valhallacore.png
+巡洋猎手,valk_cruiserhunter,,,女武神-奥肯制造集团,,,,,TRUE,,0,0,0,0,data.hullmods.valk_CruiserHunter,"该战舰搭载了一套昂贵的，以猎杀巡洋舰为重心的硬件系统，能更快速的扫描巡洋体积的战舰的弱点，并动态优化火控系统。
+
+提高 %s 对巡洋舰的伤害。
+提高 %s 对驱逐舰的伤害。
+提高实弹和能量武器 %s 的射程。",针对巡洋舰。,,graphics/hullmods/valk_cruiserhunter.png
+奥肯改装-炮火巅峰,valk_peakfire,2,,女武神-奥肯制造集团,offensive,武器,10000,,,,3,6,10,15,data.hullmods.valk_PeakFire,"奥肯制造集团对女武神战舰的独特改造编号之一。完美符合那些多炮塔主义的女舰长的口味。
+
+只要让非点防武器维持火力，就能通过一种适应性束能矩阵来提高武器性能。
+最高能提供能量及实弹武器 %s 的射速增益与幅能减免，这些加成在武器开火时间达到舰船峰值时间的 %s 时上升到最大值。武器停火后，这些加成将以上升速度的 %s 倍衰减。",武器幅能调整。,所需峰值时间降低至原来的 %s 。,graphics/hullmods/valk_peakfire.png
+奥肯改装-幅能浓雾,valk_fluxfog,2,,女武神-奥肯制造集团,special,特殊,7500,,,,3,6,10,15,data.hullmods.valk_FluxFog,"奥肯制造集团对女武神战舰的独特改造编号之一。
+
+将幅能控制在舰船周围而不溢出，通过适应当前空间常数来在一定时间之后强化船体耐久。
+
+在维持幅能高于 %s 的时间超过峰值时间的 %s 后，获得额外 %s 的装甲及结构抗性。",抗伤调整。,所需峰值时间降低至原来的 %s 。,graphics/hullmods/valk_fluxfog.png
+奥肯改装-赤红钢铁,valk_redarmor,2,,女武神-奥肯制造集团,defensive,特殊,8000,,,,3,6,10,15,data.hullmods.valk_RedArmor,"奥肯制造集团对女武神战舰的独特改造编号之一。 特别提供给热爱走钢丝的女舰长们。 
+
+根据原始协议，装甲损伤将与电网直接挂钩：
+-损害将刺激幅能耗散效率，此增益最多维持 %s 秒
+-幅能耗散增益在 %s ~ %s 间线性变化
+-单次累计损伤超过装甲值的 %s 时，增益达到最大值
+-若装甲受到损伤前未开盾，则同时获得护盾开启时最高 %s 的硬幅能耗散能力",提高高幅能作战能力。,幅能耗散增益上限调整至 %s 。,graphics/hullmods/valk_redarmor.png
+圣约决战方案,valk_holycovenant,,,女武神-奥肯制造集团,,,,,TRUE,,0,0,0,0,data.hullmods.valk_HolyCovenant,"女武神主力舰群的舰队学说，在战场上驰骋的巨兽所向披靡，其统治力不仅仅局限于技术上的先进，更在于心灵上的威慑。
+
+女武神组织的主力舰能为周遭 %s 范围内我方的舰船/战机联队(包括自身)提供增益，受益者使用部署点/所需装配越高，增益越强。这些增益可以叠加，但存在上限。",,,graphics/hullmods/valk_holycovenant.png
+诀别情书,valk_yoshuraSkinLove,,,女武神-奥肯制造集团,,,,,TRUE,,0,0,0,0,data.hullmods.valk_YoshuraSkin,"这是爱的绝唱.
+这艘舰船的实弹武器幅能消耗- %s .",约书亚之魂。,,graphics/hullmods/valk_yoshuralove.png
+决裂铁证,valk_yoshuraSkinHate,,,女武神-奥肯制造集团,,,,,TRUE,,0,0,0,0,data.hullmods.valk_YoshuraSkin,"这是恨的讣告.
+这首舰船的实弹武器射速+ %s .",约书亚之魂。,,graphics/hullmods/valk_yoshurahate.png
+埋葬诗篇,valk_yoshuraSkinNormal,,,女武神-奥肯制造集团,,,,,TRUE,,0,0,0,0,data.hullmods.valk_YoshuraSkin,"""如果没有你...""
+这艘舰船的实弹武器幅能消耗- %s ，实弹武器射速+ %s .",约书亚之魂。,,graphics/hullmods/valk_yoshuranormal.png
+,,,,,,,,,,,,,,,,,,,

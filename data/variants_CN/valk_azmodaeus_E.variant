@@ -1,0 +1,84 @@
+{
+    "displayName": "实验性",
+    "fluxCapacitors": 31,
+    "fluxVents": 50,
+    "goalVariant": true,
+    "hullId": "valk_azmodaeus",
+    "hullMods": [
+        "valk_skogulmodernization",
+        "fluxbreakers",
+        "armoredweapons",
+        "heavyarmor",
+        "valk_redarmor",
+        "missleracks",
+        "stabilizedshieldemitter",
+        "reinforcedhull",
+        "hardenedshieldemitter",
+        "solar_shielding",
+        "pointdefenseai",
+        "extendedshieldemitter",
+        "advancedshieldemitter",
+        "turretgyros"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_azmodaeus_E",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "valk_ultraheavylancer",
+                "WS0006": "valk_ultraheavylancer",
+                "WS0007": "valk_ultraheavylancer",
+                "WS0008": "valk_ultraheavylancer"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0021": "valk_ballista",
+                "WS0022": "valk_ballista",
+                "WS0023": "valk_ballista",
+                "WS0024": "valk_ballista",
+                "WS0025": "valk_ballista",
+                "WS0026": "valk_ballista"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0009": "valk_heavylancer",
+                "WS0010": "valk_heavylancer",
+                "WS0011": "valk_lightlancer",
+                "WS0012": "valk_lightlancer",
+                "WS0013": "valk_lightlancer",
+                "WS0014": "valk_lightlancer",
+                "WS0019": "valk_lightlancer",
+                "WS0020": "valk_lightlancer"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "valk_plasma_laser",
+                "WS0002": "valk_plasma_laser",
+                "WS0003": "valk_plasma_laser",
+                "WS0004": "valk_plasma_laser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0015": "valk_irpdcannon",
+                "WS0016": "valk_irpdcannon",
+                "WS0017": "valk_irpdcannon",
+                "WS0018": "valk_irpdcannon"
+            }
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "displayName": "哨兵",
+    "fluxCapacitors": 6,
+    "fluxVents": 2,
+    "goalVariant": true,
+    "hullId": "valk_jenova",
+    "hullMods": [
+        "targetingunit",
+        "unstable_injector",
+        "hardenedshieldemitter",
+        "hardened_subsystems"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_jenova_P",
+    "weaponGroups": [{
+        "autofire": true,
+        "mode": "LINKED",
+        "weapons": {
+            "WS0002": "valk_irpdcannon",
+            "WS0003": "valk_irpdcannon",
+            "WS0004": "valk_irpdcannon"
+        }
+    }]
+}

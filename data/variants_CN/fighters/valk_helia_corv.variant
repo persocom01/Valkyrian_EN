@@ -1,0 +1,26 @@
+{
+  "displayName": "风暴攻击机",
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "hullId": "valk_helia",
+  "hullMods": [],
+  "variantId": "valk_helia_corv",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "valk_lightlancer",
+        "WS0002": "valk_lightlancer"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "valk_irpdburst",
+        "WS0004": "valk_irpdburst"
+      }
+    }
+  ]
+}

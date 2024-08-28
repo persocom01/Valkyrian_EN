@@ -1,0 +1,33 @@
+{
+    "displayName": "先进",
+    "fluxCapacitors": 5,
+    "fluxVents": 9,
+    "goalVariant": true,
+    "hullId": "valk_emerald",
+    "hullMods": [
+        "expanded_cargo_holds",
+        "efficiency_overhaul",
+        "autorepair"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "valk_emerald_A",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "valk_irpdcannon",
+                "WS0004": "valk_irpdcannon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "valk_irpdcannon",
+                "WS0002": "valk_irpdcannon"
+            }
+        }
+    ]
+}
