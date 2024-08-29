@@ -20,14 +20,14 @@ public class MissionDefinition implements MissionDefinitionPlugin {
 
 		// Set a small blurb for each fleet that shows up on the mission detail and
 		// mission results screens to identify each side.
-		api.setFleetTagline(FleetSide.PLAYER, "Valkyrian 4th Frontline Fleet");
-		api.setFleetTagline(FleetSide.ENEMY, "Pirate Base Fleet");
+		api.setFleetTagline(FleetSide.PLAYER, "Valkyrian第四正面战场舰队");
+		api.setFleetTagline(FleetSide.ENEMY, "海盗基地舰队");
 		
 		// These show up as items in the bulleted list under 
 		// "Tactical Objectives" on the mission detail screen
-		api.addBriefingItem("Defeat the pirate base and fleet!");
-		api.addBriefingItem("VKS Liliana and her sister ship must survive!");
-		api.addBriefingItem("VKS Skyshard is a prototype, she must survive!");
+		api.addBriefingItem("击败海盗基地和他的舰队！");
+		api.addBriefingItem("VKS Liliana 和她的姊妹舰必须存活!");
+		api.addBriefingItem("VKS Skyshard 是一艘原型机，她也必须存活！");
 		
 		// Set up the player's fleet.  Variant names come from the
 		// files in data/variants and data/variants/fighters
