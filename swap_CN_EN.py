@@ -303,4 +303,4 @@ if __name__ == "__main__":
     swap_name("data/missions/unexpectedtrouble/MissionDefinition.java", "MissionDefinition.java")
     swap_name("data/missions/valkdev/descriptor.json", "descriptor.json")
     swap_name("data/missions/valkdev/mission_text.txt", "mission_text.txt")
-    
+    swap_name("valkyrians.version", "valkyrians.version")
