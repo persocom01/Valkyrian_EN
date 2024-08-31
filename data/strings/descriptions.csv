@@ -132,7 +132,7 @@ valk_irpdburst,WEAPON,A not-so-powerful but very effective instant point defense
 valk_ibcm,WEAPON,Hurricane launch system equipped with IBCM kinetic warheads capable of powerful strikes against shields.,,,,
 valk_heavy_assault_cannon,WEAPON,"Created at the same time as the Vatican Mk.III, its immense destructive power far exceeded any ship's defenses.
 It was a simple triple barrel design with a caliber of 350 to 420mm, with great punch and incredible range, destroying or wounding enemy ships in a few shots.",,,,
-valk_antiproton_laser,WEAPON,"Designed to give large ships burst firepower at medium to long range. The burst output can destroy all small and medium-sized ships, or put a great deal of flux pressure the opposing capital ships.",,,,
+valk_antiproton_laser,WEAPON,"Designed to give large ships burst firepower at medium to long range. This burst output is capable of destroying all small and medium-sized ships, or putting a great deal of flux pressure on opposing capital ships.",,,,
 valk_plasma_laser,WEAPON,"A medium-sized cannon that was improved by combining advanced technology with careful study of the fragmentation cannons of Blackrock Drive Yards.
 While the cannon itself does not do much damage, the ammunition it fires, those fickle unstable plasmas, can easily cause additional special effects and cause major damage to the target.",,,,
 valk_bcnn,WEAPON,"A versatile kinetic weapon, often used to suppress enemies from a distance. Due to its design being based on the revolver core, it is not recommended for non-Valkyrian ships.",,,,
