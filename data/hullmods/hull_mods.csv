@@ -25,16 +25,16 @@ Cruiser Hunter,valk_cruiserhunter,,,Valkyrian Archon Industries,,,,,TRUE,,0,0,0,
 Increased damage to cruisers %s.
 Increased damage to destroyers %s.
 Increased ballistic and energy weapon range by %s.",Anti-crusier。,,graphics/hullmods/valk_cruiserhunter.png
-Archon Tuning - Peakfire,valk_peakfire,2,,Valkyrian Archon Industries,offensive,Weapons,10000,,,,3,6,10,15,data.hullmods.valk_PeakFire,"One of the unique Valkyrian warship hull modifications from the Archon Industries. Perfect for multi turret loving female captains.
+Archon Tuning - Peakfire,valk_peakfire,2,,Valkyrian Archon Industries,offensive,Weapons,10000,,,,3,6,10,15,data.hullmods.valk_PeakFire,"One of the unique Valkyrian warship hull modifications from Archon Industries. Perfect for multi turret loving female captains.
 
 As long as non-point defense weapons maintain fire, weapon performance can be enhanced by an adaptive beam energy matrix.
 Increase fire rate and decreases flux cost by up to %s for energy and ballistic weapons. These bonuses max out when the weapons fire for %s of the ship's peak performance time. After a weapon ceases fire, these bonuses decay at %s times the rate of rise.",Weapon flux adjustment.,Required peak performance time is reduced to %s of the original.,graphics/hullmods/valk_peakfire.png
-Archon Tuning - Fluxfog,valk_fluxfog,2,,Valkyrian Archon Industries,special,Special,7500,,,,3,6,10,15,data.hullmods.valk_FluxFog,"One of the unique Valkyrian warship hull modifications from the Archon Industries.
+Archon Tuning - Fluxfog,valk_fluxfog,2,,Valkyrian Archon Industries,special,Special,7500,,,,3,6,10,15,data.hullmods.valk_FluxFog,"One of the unique Valkyrian warship hull modifications from Archon Industries.
 
 Condenses flux energy around the ship without dispersing it, reinforcing hull durability after a certain amount of time.
 
 When flux is maintained above %s for more than %s of peak performance time, gain %s armor and hull resistance.",Damage resistance adjustment.,Required peak performance time is reduced to %s of the original.,graphics/hullmods/valk_fluxfog.png
-Archon Tuning - Crimson Steel,valk_redarmor,2,,Valkyrian Archon Industries,defensive,Special,8000,,,,3,6,10,15,data.hullmods.valk_RedArmor,"One of the unique Valkyrian warship hull modifications from the Archon Industries. Offered especially to female captains who love to thread a thin line. 
+Archon Tuning - Crimson Steel,valk_redarmor,2,,Valkyrian Archon Industries,defensive,Special,8000,,,,3,6,10,15,data.hullmods.valk_RedArmor,"One of the unique Valkyrian warship hull modifications from Archon Industries. Offered especially to female captains who love to thread a thin line. 
 
 Under the original protocol, armor damage would be directly linked to the grid:
 - Damage will stimulate flux dissipation for a maximum of %s seconds
