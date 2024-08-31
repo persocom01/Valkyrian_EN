@@ -33,7 +33,7 @@
     "skogul_desc0": "Performance improvement: %s",
     "skogul_desc1": "Minimum crew requirement + %s",
     "skogul_desc2": "Deployment and monthly maintenance cost + %s",
-    "skogul_remove_penalty": "Removal side effects",
+    "skogul_remove_penalty": "negates penalties",
     "hc_bonus_factor_heading": "Gain factor",
     "hc_bonus_factor_content": "Valkyrian capital ships always get @[(positive)100%] gain.\nDepending on the ship class, those with deployment point cost greater or equal to @[%s] get maximum gain.\nFor fighters, those with ordnance point cost greater or equal to @[%s] gain the most.\nDeployment/ordnance point costs for non-Valkyrian ships are @[(negative)halved] for the purposes of calculation.",
     "hc_bonus_detail_heading": "Gain benefits",

@@ -6,7 +6,7 @@ Skogul Modernization Program,valk_skogulmodernization,2,,Valkyrian Archon Indust
 Flux Plating,valk_fluxplating,,,Valkyrian Archon Industries,,,,,TRUE,,0,0,0,0,data.hullmods.valk_FluxPlating,"The Valkyrian super battleship has a stong hull covered with with high quality flux conductive plating, making it largely immune to EMP damage.
 
 Reduce EMP damage taken by %s.",EMP immunity.,,graphics/hullmods/valk_em_ward_plating.png
-Brunhild Revolver Core,valk_bryncore,,,Valkyrian Archon Industries,,,,,TRUE,,0,0,0,0,data.hullmods.valk_BrynCore,"A special structure found on advanced Valkyrian warships, generally mounted around the flux conduits at the base of the turrets, that enhances Valkyrian weapons beyond normal performance levels.
+Brunhild Revolver Core,valk_bryncore,,,Valkyrian Archon Industries,,,,,TRUE,,0,0,0,0,data.hullmods.valk_BrynCore,"A special structure found on advanced Valkyrian warships, generally mounted around the flux conduits at the base of turrets, that enhances Valkyrian weapons beyond normal performance levels.
 
 - Flux cost of all weapons - %s 
 - Valkyrian weapon range + %s",Reduce weapon ordnance cost.,,graphics/hullmods/valk_bryncore.png
