@@ -26,7 +26,7 @@ public class MissionDefinition implements MissionDefinitionPlugin {
 		// These show up as items in the bulleted list under 
 		// "Tactical Objectives" on the mission detail screen
 		api.addBriefingItem("Escape!");
-		api.addBriefingItem("If you are caught by a destroyer, you are doomed, believe it or not.");
+		api.addBriefingItem("Being caught by a destroyer spells doom, believe it or not.");
 		
 		// Set up the player's fleet.  Variant names come from the
 		// files in data/variants and data/variants/fighters
