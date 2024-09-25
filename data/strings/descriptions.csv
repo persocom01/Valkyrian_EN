@@ -127,7 +127,7 @@ valk_ilc_II,WEAPON,"A highly burst, enhanced version of the Redemption Laser Can
 valk_quadheavymg,WEAPON,"A wicked quad-mounted heavy machine gun with a monstrous rate of fire. A ship equipped with it is basically immune to the threat of fighters or missiles.
 This weapon combines four heavy machine guns on a gun mount upgraded by pneumatic loading and liquid-cooled mechanisms, and fires fragmentation ammunition at high speeds to intercept fighters.",,,,
 ,,,,,,
-valk_dsc,WEAPON,"A small machine gun that fires large-caliber discarding sabot rounds at sublight speeds, which has an additional penetrating effect on high-strength shields.",,,,
+valk_dsc,WEAPON,"A small machine gun that fires large-caliber discarding sabot rounds at sublight speeds. Has an additional penetrating effect on high-strength shields.",,,,
 valk_irpdburst,WEAPON,A not-so-powerful but very effective instant point defense system that is often seen on most military ships.,,,,
 valk_ibcm,WEAPON,Hurricane launch system equipped with IBCM kinetic warheads capable of powerful strikes against shields.,,,,
 valk_heavy_assault_cannon,WEAPON,"Created at the same time as the Vatican Mk.III, its immense destructive power far exceeded any ship's defenses.
@@ -175,11 +175,11 @@ The Ice Lance fires encased substances in the form of cylindrical disruption bol
 ,,,,,,
 valk_twin_hiir_laser,WEAPON,"A large caliber laser cannon equipped with a delicate emitter and lens capable of inflicting sustained damage at long range. However, sustained fire causes a sharp drop in accuracy.",,,,
 ,,,,,,
-valk_lightlancer,WEAPON,An energy version of the Needler weapons that pour out projectiles that cause strong EMP effects on the target. Designed for use against a wide variety of targets. The small caliber makes it highly accurate.,,,,
+valk_lightlancer,WEAPON,An energy version of the Needler weapons that pours out projectiles that cause strong EMP effects on the target. Designed for use against a wide variety of targets. The small caliber makes it highly accurate.,,,,
 ,,,,,,
-valk_heavylancer,WEAPON,An energy version of the Needler weapons that pour out projectiles that cause strong EMP effects on the target. Designed for use against a wide variety of targets. The medium caliber provides a larger burst window compared to small caliber.,,,,
+valk_heavylancer,WEAPON,An energy version of the Needler weapons that pours out projectiles that cause strong EMP effects on the target. Designed for use against a wide variety of targets. The medium caliber provides a larger burst window compared to small caliber.,,,,
 ,,,,,,
-valk_ultraheavylancer,WEAPON,"An energy weapon version of the Needler weapon of same-sized, it fires high-temperature projectiles that focus on structural damage. Designed for use against a wide variety of targets.",,,,
+valk_ultraheavylancer,WEAPON,"An energy weapon version of the Needler weapon of same-size, it fires high-temperature projectiles that focus on structural damage. Designed for use against a wide variety of targets.",,,,
 ,,,,,,
 ,,,,,,
 valk_ecm_jammer,SHIP_SYSTEM,An advanced electronic warfare system that reduces the effective detection range on an enemy ship's radar by 2000SU.,Close Range Support,,,
