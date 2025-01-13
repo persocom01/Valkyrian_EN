@@ -1,6 +1,8 @@
 {
     "masterVersionFile":"https://raw.githubusercontent.com/persocom01/Valkyrian_EN/master/valkyrians.version",
     "modName":"Valkyrians",
+    "modThreadId": "30560",
+    "directDownloadURL": "https://github.com/persocom01/Valkyrian_EN/releases/download/3.2.2-rc6/Valkyrian_EN.zip",
     "modVersion":
     {
         "major":3,
