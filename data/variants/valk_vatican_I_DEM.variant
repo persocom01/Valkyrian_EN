@@ -1,29 +1,26 @@
 {
-    "displayName": "Support",
-    "fluxCapacitors": 20,
-    "fluxVents": 6,
+    "displayName": "DEM",
+    "fluxCapacitors": 33,
+    "fluxVents": 9,
     "goalVariant": true,
     "hullId": "valk_vatican_I",
     "hullMods": [
         "expanded_deck_crew",
-        "missleracks"
+        "missleracks",
+        "stabilizedshieldemitter"
     ],
     "permaMods": [],
     "sMods": [],
-    "variantId": "valk_vatican_I_S",
+    "variantId": "valk_vatican_I_DEM",
     "weaponGroups": [
         {
             "autofire": false,
             "mode": "ALTERNATING",
             "weapons": {
-                "WS0009": "valk_shadow",
-                "WS0010": "valk_shadow",
-                "WS0011": "valk_shadow",
-                "WS0012": "valk_shadow",
-                "WS0013": "valk_shadow",
-                "WS0014": "valk_shadow",
-                "WS0015": "valk_shadow",
-                "WS0016": "valk_shadow"
+                "WS0009": "gorgonpod",
+                "WS0010": "gorgonpod",
+                "WS0011": "gorgonpod",
+                "WS0012": "gorgonpod"
             }
         },
         {
@@ -38,6 +35,16 @@
                 "WS0006": "gorgon",
                 "WS0007": "gorgon",
                 "WS0008": "gorgon"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0013": "dragon",
+                "WS0014": "dragon",
+                "WS0015": "dragon",
+                "WS0016": "dragon"
             }
         },
         {
@@ -74,11 +81,11 @@
         }
     ],
     "wings": [
-        "valk_ancord_H-bomber_wing",
-        "valk_ancord_H-bomber_wing",
         "longbow_wing",
-        "valk_lightning_wing",
-        "valk_ancord_H-bomber_wing",
+        "longbow_wing",
+        "longbow_wing",
+        "longbow_wing",
+        "longbow_wing",
         "longbow_wing"
     ]
 }

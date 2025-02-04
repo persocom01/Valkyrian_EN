@@ -70,8 +70,9 @@
     "valk_heron_AS": 10,
   },
   "carrierLarge": {
-    "valk_vatican_I_A": 5,
-    "valk_vatican_I_S": 5,
+    "valk_vatican_I_A": 4,
+    "valk_vatican_I_S": 4,
+    "valk_vatican_I_DEM": 2,
     "valk_yoshura_VI_A":5,
     "valk_yoshura_VI_S":5
   },

@@ -1,3 +1,15 @@
+2025/1/29 3.3.0
+Weapons
+1.The on hit effect of the RW-BS Plasma Laser was changed to 20% chance of dealing 100~200 fragmentation damage when hitting a target.
+
+Ships
+1.The duration of the Burst Drive is increased by 1s, and the recharge time is doubled.
+2.Adjusted the special effect of overload on Fighters.
+
+Others
+1.Adapted to 0.97a。
+2.Valkyries are hostile to the Luddic Church.
+
 2024/4/20 3.2.2
 Weapons
 1.Two cruise missiles speed 300->200, range 7500->6000. Spectre damage 1500->1200.

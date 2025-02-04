@@ -6,4 +6,4 @@ Overcharger,valk_overcharge,,,,,,,,,,0.5,4.5,3,8,,,,,,,,,,,,,graphics/icons/hull
 Phase Teleporter,valk_phaseteleporter,,,,,,0.33,,,,0.5,0,0.5,5,,TRUE,,TRUE,,,,,,,,,graphics/icons/hullsys/displacer.png
 Emergency Preparedness,valk_boostrefit,,,,,,0.33,,,,0.5,15,0.5,15,,,,,,,,,,,,,graphics/icons/hullsys/reserve_deployment.png
 Charging Jets,valk_chargingjets,,,,,,,,,,1,3,2,5,,,,,,,,,,,,,graphics/icons/hullsys/infernium_injector.png
-Burst Drive,valk_burstdrive,1,,,,,,,2,0.1,0.5,0.5,0.5,,,,,,,,TRUE,TRUE,,,,,graphics/icons/hullsys/burn_drive.png
+Burst Drive,valk_burstdrive,1,,,,,,,2,0.05,0.5,1.5,0.5,,,,,,,,TRUE,TRUE,,,,,graphics/icons/hullsys/burn_drive.png

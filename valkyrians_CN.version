@@ -4,8 +4,8 @@
     "modVersion":
     {
         "major":3,
-        "minor":2,
-        "patch":2
+        "minor":3,
+        "patch":0
     },
-    "starsectorVersion":"0.96a-RC10"
+    "starsectorVersion":"0.97a-RC11"
 }
