@@ -7,7 +7,7 @@ Ships
 2.Adjusted the special effect of overload on Fighters.
 
 Others
-1.Adapted to 0.97a。
+1.Adapted to 0.97a.
 2.Valkyries are hostile to the Luddic Church.
 
 2024/4/20 3.2.2
