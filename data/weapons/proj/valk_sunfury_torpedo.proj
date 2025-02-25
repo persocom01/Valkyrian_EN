@@ -2,7 +2,7 @@
 	"id":"valk_sunfury_torpedo",
 	"specClass":"missile",
 	"missileType":"ROCKET",
-	"sprite":"graphics/missiles/Torpedo_Sunfury.png",
+	"sprite":"graphics/missiles/torpedo_Sunfury.png",
     "onHitEffect":"data.scripts.weapons.valk_SunfuryOnHitEffect",
 	"size":[13,39],	
 	"center":[6.5,19.5],
