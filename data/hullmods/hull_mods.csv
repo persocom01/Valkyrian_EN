@@ -22,9 +22,9 @@ At above %s flux, weapons deal %s more damage, but increases High Explosive and 
 Increases the ship's top speed by up to %s when traveling in a straight line.",Become stronger.,,graphics/hullmods/valk_valhallacore.png
 Cruiser Hunter,valk_cruiserhunter,,,Valkyrian Archon Industries,,,,,TRUE,,0,0,0,0,data.hullmods.valk_CruiserHunter,"The battleship carries an expensive, cruiser-hunting focused hardware system that can quickly scan cruiser class ships for weaknesses while optimizing the ship's fire control systems.
 
-+%s damage to cruisers.
-+%s damage to destroyers.
-Extends the range of ballistic and energy weapon by %s.",Anti-crusier。,,graphics/hullmods/valk_cruiserhunter.png
++%s damage to cruisers
++%s damage to destroyers
+Extends the range of ballistic and energy weapon by %s",Anti-crusier。,,graphics/hullmods/valk_cruiserhunter.png
 Archon Tuning - Peakfire,valk_peakfire,2,,Valkyrian Archon Industries,offensive,Weapons,10000,,,,3,6,10,15,data.hullmods.valk_PeakFire,"One of the unique Valkyrian warship hull modifications from Archon Industries. Perfect for multi turret loving female captains.
 
 As long as non-point defense weapons maintain fire, weapon performance can be enhanced by an adaptive beam energy matrix.
