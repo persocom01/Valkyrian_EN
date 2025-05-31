@@ -8,7 +8,7 @@ valk_vatican_II,SHIP,"One of the largest super battleships the Valkyries have us
 
 Unlike previous designs, the Vatican Mk.II is equipped with Stargate-class jump engines, which was why the Valkyries were still capable of interstellar travel without the use of Stargates.
 
-The Vatican Mk.II has firepower comparable to that of an entire fleet, though it has its own design flaws, such as although her powerful fire system is capable of destroying any ship in seconds, but it is greatly limited by ammunition and strained flux dissipation channels. Her weapons layout is another flaw; she cannot effectively defend and counter attacks from specific angles. However, she can still be used as a flagship.",,,,
+The Vatican Mk.II boasts firepower on par with an entire fleet, but its design is not without flaws. While her powerful fire system is capable of destroying ships in seconds, it is greatly limited by ammo and strained flux dissipation channels. Her weapons layout is another flaw; she cannot effectively defend and counter attacks from specific angles. Despite these shortcomings, the Vatican Mk.II remains a viable choice for flagship.",,,,
 ,,,,,,
 valk_almire_III,SHIP,"The Almire Mk.III is last of the Almire assault ship line. Like her sisters, she focuses on speed and overwhelming firepower.
 
@@ -125,7 +125,7 @@ valk_morgiana,SHIP,"Slightly larger than the Talon but twice as deadly, it was d
 valk_ilc,WEAPON,A powerful energy cannon that can project three consecutive dense particle beams at once over long distances.,,,,
 valk_ilc_II,WEAPON,"A highly burst, enhanced version of the Redemption Laser Cannon that combines all the firepower in one shot.",,,,
 valk_quadheavymg,WEAPON,"A wicked quad-mounted heavy machine gun with a monstrous rate of fire. A ship equipped with it is basically immune to the threat of fighters or missiles.
-This weapon combines four heavy machine guns on a gun mount upgraded by pneumatic loading and liquid-cooled mechanisms, and fires fragmentation ammunition at high speeds to intercept fighters.",,,,
+This weapon combines four heavy machine guns on a gun mount upgraded by pneumatic loading and liquid-cooled mechanisms, and fires fragmentation rounds at high speeds to intercept fighters.",,,,
 ,,,,,,
 valk_dsc,WEAPON,"A small machine gun that fires large-caliber discarding sabot rounds at sublight speeds. Has an additional penetrating effect on high-strength shields.",,,,
 valk_irpdburst,WEAPON,A not-so-powerful but very effective instant point defense system that is often seen on most military ships.,,,,
@@ -134,7 +134,7 @@ valk_heavy_assault_cannon,WEAPON,"Created at the same time as the Vatican Mk.III
 It was a simple triple barrel design with a caliber of 350 to 420mm, with great punch and incredible range, destroying or wounding enemy ships in a few shots.",,,,
 valk_antiproton_laser,WEAPON,"Designed to give large ships burst firepower at medium to long range. This burst output is capable of destroying all small and medium-sized ships, or putting a great deal of flux pressure on opposing capital ships.",,,,
 valk_plasma_laser,WEAPON,"A medium-sized cannon that was improved by combining advanced technology with careful study of the fragmentation cannons of Blackrock Drive Yards.
-While the cannon itself does not do much damage, the ammunition it fires, those fickle unstable plasmas, can easily cause additional special effects and cause major damage to the target.",,,,
+While the cannon itself does not do much damage, the fickle and unstable plasmas projectiles it fires can easily cause additional special effects and cause major damage to the target.",,,,
 valk_bcnn,WEAPON,"A versatile kinetic weapon, often used to suppress enemies from a distance. Due to its design being based on the revolver core, it is not recommended for non-Valkyrian ships.",,,,
 ,,,,,,
 ,,,,,,
@@ -144,9 +144,9 @@ valk_spectre,WEAPON,Powerful missile developed for long range combat between cap
 valk_phantasm,WEAPON,Powerful missile developed for long range combat between capital ships. Usually equipped on smaller ships in a support role.,,,,
 valk_shadow,WEAPON,"A powerful cruise missile with great explosive power, the number of missiles has been reduced to accommodate the twin launch system.",,,,
 valk_sunfury,WEAPON,"This relatively advanced torpedo uses a powerful high-explosive warhead with a heavy armor-piercing tip, and possesses unparalleled destructive power. A direct hit with this torpedo will deal a devastating blow.
-Developed as a capital ship killer late in the modernization period, its 750mm plutonium warhead salvo has enough destructive power to blow up half a space station. The top is covered with hardened titanium, allowing it to penetrate several meters of the target's armor, followed by a layer of adamantium alloy to ensure the survivability of the torpedo, with even stronger protection on the sides.
+Developed as a capital ship killer late in the modernization era, its 750mm plutonium warhead salvo has enough destructive power to blow up half a space station. The top is covered with hardened titanium, allowing it to penetrate several meters of the target's armor, followed by a layer of adamantium alloy to ensure the survivability of the torpedo, with even stronger protection on the sides.
 The detonator design is taken from a relatively simple water based armor piercing torpedo that detonated once penetration was complete. This is monitored by a sensor, which checks if the detonation trigger was caused by a damaged or broken probe, and if switches from the firmware device to a momentum sensor, which detonates after it detects a preset change in kinetic energy.",,,,
-valk_scorpionpod,WEAPON,"A lightweight MIRV warhead with a Harpoon engine that improves maneuverability but reduces damage, with a small built-in capacitor that produces less EMP damage. It has a large ammunition capacity.",,,,
+valk_scorpionpod,WEAPON,"A lightweight MIRV warhead with a Harpoon engine that improves maneuverability but reduces damage, with a small built-in capacitor that produces less EMP damage. It has a large ammo capacity.",,,,
 valk_scorpion,WEAPON,"A lightweight MIRV warhead with a Harpoon engine that improves maneuverability but reduces damage, with a small built-in capacitor that produces less EMP damage.",,,,
 ,,,,,,
 ,,,,,,
@@ -155,13 +155,13 @@ valk_hyperbeam,WEAPON,"This heavy beam cannon uses hypermatter to unleash potent
 ,,,,,,
 valk_imbc,WEAPON,"An super-heavy laser system capable of firing ultra-high density antiproton streams over long distances, which can inflict tons of damage to unshielded ships.",,,,
 valk_light_antimatter_laser,WEAPON,"A lighter version of the heavier Antiproton Beam Cannon, with the same long range and high damage. It was the company's first beam weapon.",,,,
-valk_irdriver,WEAPON,A small laser created during the modernization period. It was meant to replace outdated machine guns and provide more powerful weapons for small fighters.,,,,
-valk_ptr_laser,WEAPON,"Strong and effective laser cannons made late in the modernization period which replaced the fighters' old weapons, giving them greater combat power under the same conditions.
+valk_irdriver,WEAPON,A small laser created during the modernization era. It was meant to replace outdated machine guns and provide more powerful weapons for small fighters.,,,,
+valk_ptr_laser,WEAPON,"Strong and effective laser cannons made late in the modernization era which replaced the fighters' old weapons, giving them greater combat power under the same conditions.
 The PTR consists of a basic repeater equipped with a quadruple radiator, plus four cyclotron particle jet pumps and accelerators, which can maintain terrifying firepower for extended periods of time. The low level of flux consumption means that this weapon can theoretically be fired indefinitely with a powerful energy source. However, the maintenance center strongly advises that captains not to do so, because melted particle jet pumps are difficult to repair.",,,,
-valk_xr_repeater,WEAPON,"The recalibrated PTR laser repeater fires plasma shells under the guidance of an X-ray tracer. Its intense thermal damage often has a terrible impact on the ship it hits.
-The X-ray ATC is essentially a miniature pulsed laser cannon, but with plasma ammunition.",,,,
+valk_xr_repeater,WEAPON,"The recalibrated PTR laser repeater fires plasma projectiles under the guidance of an X-ray tracer. Its intense thermal damage often has a terrible impact on the ship it hits.
+The X-ray ATC is essentially a miniature pulsed laser cannon, but with plasma projectiles.",,,,
 ,,,,,,
-valk_cockatrice,WEAPON,"The Cockatrice is a mythical monster that is said to have the power to kill anyone with a single glance. This rapid-fire machine gun is installed in the gun pods of heavy fighters, and its heavy ammunition is even capable of penetrating armor and reaching the structure of fighters.",,,,
+valk_cockatrice,WEAPON,"The Cockatrice is a mythical monster that is said to have the power to kill anyone with a single glance. This rapid-fire machine gun is installed in the gun pods of heavy fighters, and its heavy rounds are even capable of penetrating armor and reaching the structure of fighters.",,,,
 valk_irpdcannon,WEAPON,"The Vulcan cannon was disassembled and simplified, and a laser medium and energy capacitor were installed in the structure. It has a high degree of accuracy and is known for its cost-effectiveness.",,,,
 valk_nxk_pd,WEAPON,The NX-K is an ultra-high tech gamma ray blaster that provides unparalleled defense against swarms of missiles and fighters.,,,,
 valk_ether_driver,WEAPON,"An experimental cannon that fires a hypermatter shell made of a substance called ""ether"", it can penetrate shields to hit armor directly.
@@ -170,7 +170,7 @@ A deafening sound accompanies its firing, as the matter and shell are fired a mi
 valk_geironul,WEAPON,"A large, high-performance cannon modeled after the Hellbore. The interior of the munition is encased in a trace amount of unstable antimatter, such that after hitting an enemy ship, the breakage of the core can trigger another explosion, dealing a more severe blow to lightly armored targets.",,,,
 ,,,,,,
 valk_ice_lance,WEAPON,"A derivative of the Ether Driver. Focuses more on disabling electronics rather than damaging them.
-Its ammunition has the same ability to penetrate shields.
+Its projectiles have the same ability to penetrate shields.
 The Ice Lance fires encased substances in the form of cylindrical disruption bolts rather than hypermatter, with the Eether stored separately to prevent it from destroying the bolts from the inside.",,,,
 ,,,,,,
 valk_twin_hiir_laser,WEAPON,"A large caliber laser cannon equipped with a delicate emitter and lens capable of inflicting sustained damage at long range. However, sustained fire causes a sharp drop in accuracy.",,,,
@@ -190,22 +190,22 @@ valk_inferniumdrive,SHIP_SYSTEM,"A potent combustion agent is injected into the 
 valk_phaseteleporter,SHIP_SYSTEM,"The Valkyrian version of a space jump, not unlike that of the Hyperion class frigate",Maneuverability,,,
 valk_burstdrive,SHIP_SYSTEM,"Provides instantaneous engine acceleration, propelling the ship forward a distance at breakneck speed. Collisions will cause the engines to stall.",Maneuverability,"Provides instantaneous engine acceleration, propelling the ship forward a distance at breakneck speed. Collisions will cause the engines to stall.",,
 ,,,,,,
-valkyrian,FACTION,"The Valkyries are an independent military power in this sector, once part of the Domain of Man, in a mystery filled corner of the galaxy. After several years of private research on the core technologies of the Domain of Man, they went on to arm themselves with this deciphered knowledge and gradually became a large, powerful and respectable organization in the ship design industry, possessing ship design capabilities that far surpassed those of the private sector and of the Navy.
+valkyrian,FACTION,"The Valkyries are an independent military power in this sector, once part of the Domain, situated in an enigmatic corner of the galaxy. After years of private research on the core technologies of the Domain, they successfully reverse-engineered and weaponized that knowledge, gradually becoming a formidable and respectable organization within the ship design industry, possessing ship design capabilities that far exceeded those of the private sector and of the Navy.
 
-However, simply learning blueprints and improving on them became no longer sufficient, and as more and more advanced technologies were hidden from them, they begin to use more and more fanatical means to satisfy their sense of superiority. This culminated in a bitter conflict with the development department, ending of their relationship. When the powers that be in the Domain of Man noticed their growing threat and increasingly suppressed them, they decided to make their own path, destroying any enemies that stood in the way of their quest for power.
+However, simply studying blueprints and refining them eventually proved insufficient, and as more advanced technologies were withheld from them, they begin resorting to use increasingly fanatical means to satisfy their sense of superiority. This obsession ultimately led to bitter conflict with the development department, ending their relationship. When the ruling powers of the Domain recognized the growing threat they posed and moved to suppress them, they chose to decided forge their own path, eliminating any that stood in the way of their pursuit of power.
 
-Ultimately, in order to break free from the control of the Domain of Man, they poured all their productivity into the creation of ship-borne stargates. This enabled them to travel subspace without stargates, so long as a super fleet equipped with a stargate drive was stationed in the corresponding star system. They can now be found in most of space. Some of these places have become lost worlds when they collapsed or were forgotten. They eventually discovered the Persean Sector in their own way and are among the competing forces vying for control of civilization there.",,,,
+Ultimately, to free themselves from the control of the Domain, they dedicated all their industrial might to the creation of ship-borne stargates. This allowed them to traverse subspace without stargates, provided a super fleet equipped with a stargate drive was stationed in the corresponding star system. Over time, they spread across much of known space. Some of these places have since become lost worlds — collapsed, abandoned, or simply forgotten. In time, they discovered the Persean Sector by their own means and are now one of the competing powers vying for dominance over civilization there.",,,,
 valk_boostrefit,SHIP_SYSTEM,"The rate of decrease of the carrier's fighter replacement rate and fighter replacement time is reduced by 1/3, and the speed and maneuverability of returning fighters is doubled. Use generates large amounts of flux energy.",Attack,,,
 ,,,,,,
 valk_planet_enigma_i,CUSTOM,"The Valkyrian capital. It is here that sector wide royal decrees are made.
 
-The mineral corporations that were based there before the Great Collapse left the Valkyries with a massive industrial base. Archon Industries and the Enigma Corporation, which were hatched from this legacy, as well as other small and medium-sized enterprises, represent the real economy of the Valkyries, which was further stimulated by the recovery of foreign investment during the modernization period.
+Once home to mineral corporations, the Collapse left the Valkyries with a massive industrial base. Archon Industries and the Enigma Corporation, products of this legacy, as well as other small and medium-sized enterprises, now the backbone of the Valkyrian economy, were further stimulated by renewed of foreign investment during the modernization era.
 
-The importance of this place as a Valkyrie war factory cannot be overstated, with three royal cruisers permanently stationed at the orbital base, maintaining a state of combat readiness to respond to emergencies.",,"There's a strong whiff of female hormones here, and the executives are almost exclusively women as far as the eye can see. Men are doing odd jobs on the docks, and every now and then you see a whip coming down hard on them.",,
-valk_station_enigma_i,CUSTOM,"A high orbit orbital defense facility, unlike the Sky Fortress, which serves as a near-ground defense, this facility has extensive production facilities within it, allowing it to be self-sufficient. The massive harbor is moored with capital ships. During the glorious years of the Valkyries' conquests, this giant silently watched the passage of generations of expeditionary fleets.",,,,
-valk_planet_enigma_i_moon,CUSTOM,"Bleak winds howl across the cluttered moon, and it has been many years since a ship has sailed near the zone. No one on Enigma I can say why, and the blighted planet is usually ignored.
+The importance of the capital's role as a military-industrial powerhouse cannot be overstated, and its orbital base maintains constant state of readiness, along with three permanently stationed royal cruisers, prepared to respond to any threat or crisis.",,"There's a strong whiff of female hormones here, and the executives are almost exclusively women as far as the eye can see. Men are relegated to menial tasks at the docks, and every now and then you see a whip coming down hard on them.",,
+valk_station_enigma_i,CUSTOM,"An orbital defense facility stationed in high orbit, this facility differs from the Sky Fortress, which serves as a near-ground defense. Equipped with extensive internal production facilities, it operates with full self-sufficiency. Its massive harbor is filled with capital ships. During the Valkyries’ golden era of conquest, this colossal station bore witness to the passage of generations of expeditionary fleets.",,,,
+valk_planet_enigma_i_moon,CUSTOM,"Bleak winds howl across the cluttered moon, untouched by passing ships for many years. No one on Enigma I can say why, and the blighted planet is usually ignored.
 
-The most recent investigation recorded in the Valkyrian Royal Archives dates back 14 years, when a clue was found on this dead world —— somewhere in the ruins, the scattered remains of unidentified creatures were scattered and piled into puzzling shapes, seemingly related to the Valkyrie's most ancient and terrifying enemy.",,,,
-valk_planet_enigma_ii,CUSTOM,"A Valkyrian mining world, modernized and transformed. It has become increasingly important to the Valkyries as their ability to project power sector wide has greatly diminished.
+The last recorded investigation in the Valkyrian Royal Archives dates back 14 years, to when a clue was found on this dead world — somewhere amid the ruins, the fragmented remains of unidentified creatures were scattered and piled in puzzling shapes, seemingly related to the Valkyries' most ancient and terrifying enemy.",,,,
+valk_planet_enigma_ii,CUSTOM,"A Valkyrian mining world, modernized and transformed. It has become increasingly important to the Valkyries as their ability to project power sector wide has waned.
 
-Thanks to its rich mineral deposits and the perpetual geysers of volatiles at the equator, this world is able to feed the insatiable appetite of the Valkyrian Starfleet and war machine. Unlike the glamorous Enigma I, the majority of the population lives on hard labor and are very miserable.",,,,
+Thanks to its rich mineral deposits and constant equatorial geysers rich in volatile compounds, this world is able to feed the insatiable appetite of the Valkyrian Starfleet and war machine. In stark contrast to the glamorous Enigma I, the majority of the population lives on hard labor and are very miserable.",,,,
