@@ -84,102 +84,102 @@ valk_elfheim,SHIP,"The workhorse of the Valkyrian Navy. Her loadout is mission d
 
 Thanks to her operational efficiency and reliability, she is a staple in large fleets, frequently assigned roles of long-range missile support or harassment.",,,,
 ,,,,,,
-valk_eclair,SHIP,"A prototype destroyer currently still in the process of in the process of modernization. It is a complex and expensive design, still in the testing phase.",,,,
-valk_elysium,SHIP,"Built for blitzkrieg, the Elysium can easily make those who belittle her cry for their mothers. Her powerful maneuverability and sturdy armor are nightmare level for such a small ship.",,,,
-valk_valkyrie_b,SHIP,"In the early days of carrier design this troop carrier was adapted and designed as a light carrier. It has now been surpassed by newer designs, but is still a great candidate for those with limited budgets.",,,,
+valk_eclair,SHIP,"A prototype destroyer currently undergoing modernization, her complex and costly design is still in the testing phase.",,,,
+valk_elysium,SHIP,"Built for blitzkrieg, the Elysium quickly makes those who underestimate her cry for their mothers. Her exceptional maneuverability and sturdy armor make her a nightmare on the battlefield despite her compact frame.",,,,
+valk_valkyrie_b,SHIP,"In the early days of carrier design, this troop carrier was adapted into a light carrier. Though now outclassed by more modern designs, she remains a solid choice for those with tight budgets.",,,,
 valk_tesladora_ii,SHIP,"Usually deployed on missions to protect space stations or key targets, some also follow fleets into battle. Her exceptionally strong armor and powerful shields allow her to calmly intimidate her peers.",,,,
-valk_topaz,SHIP,A common fuel ship used to avoid using other forces' freighters or fuel ships. She has enough fuel to meet the entire fleet's fuel needs.,,,,
-valk_emerald,SHIP,"If you have ever heard of the Valkyries having an irreplaceable cargo ship, the answer is undoubtedly the Emerald.",,,,
+valk_topaz,SHIP,A common fuel tanker used to avoid depending on other forces for freighters or tankers. She carries enough fuel to meet the needs of an entire fleet.,,,,
+valk_emerald,SHIP,"If you've ever heard talk of Valkyries having an irreplaceable freighter, the answer is undoubtedly the Emerald.",,,,
 ,,,,,,
 ,,,,,,
-valk_inquisitor,SHIP,"Developed alongside the Jenova, this heavy frigate packs a can punch with its powerful weaponry. Her main weapon poses a threat even to unsuspecting cruisers and battleships.
+valk_inquisitor,SHIP,"Developed alongside the Jenova, this heavy frigate packs serious punch with its powerful weaponry. Her main weapon poses a threat even to unsuspecting cruisers and battleships.
 
-The design is a little bit of a pain, as the main guns are strong, but can only be fired a few times before needing to back off to vent the flux. A large number of the gun mounts are unusually fitted with point defense weapons, greatly extending the life of this heavy frigate.",,,,
-valk_longinus,SHIP,A reliable weapons platform with a design that balances offensive and defensive capabilities. She relies on long range fire to outperform older designs such as the Hound and the Lasher. This makes her a favored ship for new pilots.,,,,
+However, the design comes with its quirks, as while the main guns are exceptionally strong, they can only be fired a few times before the ship must retreat to vent flux. Many of her gun mounts are fitted with point defense weapons, an unusual choice that significantly enhances this heavy frigate's survivability.",,,,
+valk_longinus,SHIP,A reliable weapons platform that balances offensive and defensive capabilities. She relies on long range fire to outperform older designs such as the Hound and the Lasher. This makes her a favorite among new pilots.,,,,
 valk_yuusha_II,SHIP,"This design was so successful that they only needed some fine tuning. With the addition of a second gun mount and more powerful engines, it is a overall a very troublesome opponent.",,,,
 valk_yuusha,SHIP,"The smallest member of the Valkyrian frigate family. With speed enough to induce nausea and headaches, along with great scouting abilities and considerable endurance and firepower, it is an improved version of the Hound.",,,,
 valk_tesladora,SHIP,"Usually deployed on missions to protect space stations or key targets, some also follow fleets into battle. Her exceptionally strong armor and powerful shields allow her to calmly intimidate her peers.",,,,
-valk_jenova,SHIP,"Due to the Valkyrie's lack of electronic warfare support platforms, engineers joined forces to create this superb ship, the ""Jenova"".
+valk_jenova,SHIP,"Due to the Valkyrie's lack of dedicated electronic warfare platforms, Valkyrian engineers collaborated to create this superb ship, the ""Jenova"".
 
-She boasts the best defense system and a newly developed experimental electronic warfare system.
+She boasts the most advanced defenses and a cutting-edge experimental electronic warfare system.
 
-It could be said that the Jenova was something that the Valkyries had needed for a long time. Her huge cost was not a problem in the eyes of the fleet, which wished to have such an amazing tool in the hanger.",,,,
-valk_ilena,SHIP,"An extremely agile member of the Valkyrian frigate family, carrying high-end phase teleport technology that leaves enemies defenseless.",,,,
+One could argue that the Valkyries had long needed a weapon like Jenova. Despite her exorbitant cost, the fleet saw no issue, as having such an exceptional asset in their roster was worth every credit.",,,,
+valk_ilena,SHIP,"An extremely agile member of the Valkyrian frigate family, she is equipped with high-end phase teleport technology that leaves enemies defenseless.",,,,
 ,,,,,,
 ,,,,,,
-valk_infinity,SHIP,"Prototype fighter. Built to gain an advantage on any kind of of battlefield. Equipped with heavy weapons and the same prototype reactor as the Excalibur.
-Due to the huge cost of manufacture and maintenance caused by unreasonably rapid development, value from her existence is almost zero. The laser repeaters on both wings and a large-caliber blaster up front constitute a powerful weapon system, and her engine is also powerful, but due to her large size, her turning is very poor.",,,,
-valk_excalibur,SHIP,"The ultimate creation of Archon Industries, this advanced and expensive light escort fighter boasts advanced weaponry and defense systems that have been uncharacteristically over-modified, posing a threat to even Neutrino and Tri-Tachyon technology.
-Using technology beyond what was expected, the ship is an artistic fusion of shields, energy grids, and weapons systems. The ship is as sharp as her name, ""Excalibur"". Her most notable feature is an antimatter reactor capable of dissipating hard flux.",,,,
-valk_firefly,SHIP,"An advanced modern fighter that relies on fast movement and advanced weaponry to defeat its enemies.
-Armed with a brand new Gatling laser cannon and two phaser pods, the Firefly can easily leapfrog interceptions from fighters and small frigates, and even heavy weapon fire nets. The obvious weakness, however, is her slow maneuverability. Due to the lightweight construction concept to ensure speed, she is very vulnerable to sudden attacks.",,,,
-valk_ancord,SHIP,"During modernization, the original design of the Ancord was scrapped and replaced by a design of the same name. It is now a fearsome missile bomber.",,,,
-valk_helia,SHIP,"A light escort fighter designed to support larger battlefields and execute blitzkrieg operations against enemy formations. With improved power supplies and engines, they can whiz across the battlefield and sink a variety of targets.",,,,
-valk_azgard,SHIP,"The main Valkyrian fighter. Her twin laser cannons can deal heavy blows to enemy ships, and her quick lasers can defend against enemy interceptors and missiles.",,,,
-valk_lightning,SHIP,"A high-speed interceptor with two large-caliber cannons in the nose, her wings can be extended to provide intra-atmospheric flight capability.",,,,
-valk_sahara,SHIP,"A large, slow bomber wing with a two bomb payload. They can destroy any target, but are rarely successful due to their poor maneuverability.",,,,
-valk_morgiana,SHIP,"Slightly larger than the Talon but twice as deadly, it was designed to be launched from any carrier at any time, be it on a planet's surface or in space.",,,,
+valk_infinity,SHIP,"Prototype fighter. Built to gain the upper hand on any battlefield. Equipped with heavy weapons and the same prototype reactor as the Excalibur.
+Due to the exorbitant manufacturing and maintenance costs caused by unreasonably rushed development, her operational value is near zero. Her laser repeaters on both wings and a large-caliber blaster mounted upfront constitute a formidable weapons array, and her engine also delivers impressive power, but her large size severely hampers maneuverability, resulting in poor turning performance.",,,,
+valk_excalibur,SHIP,"The ultimate creation of Archon Industries, this advanced and costly light escort fighter boasts advanced weaponry and defense systems that have been uncharacteristically over-modified, posing a threat even to Neutrino and Tri-Tachyon technologies.
+Incorporating technology well beyond expectations, the ship is an artistic fusion of shields, energy grids, and weapons systems. The ship is as sharp as her name, ""Excalibur"". Her standout feature is an antimatter reactor capable of dissipating hard flux.",,,,
+valk_firefly,SHIP,"An advanced modern fighter that relies on high speed and advanced weaponry to defeat her enemies.
+Armed with a next-generation Gatling laser cannon and two laser weapon pods, the Firefly can effortlessly evade interception from fighters and small frigates, and even dense heavy weapon fire. However, her poor maneuverability remains a glaring weakness. Built with a lightweight design prioritizing speed, she is highly vulnerable to surprise attacks.",,,,
+valk_ancord,SHIP,"During modernization, the original Ancord design was scrapped and replaced with a new model bearing the same name. She is now a fearsome missile bomber.",,,,
+valk_helia,SHIP,"A light escort fighter designed to support larger battlefields and execute blitzkrieg strikes against enemy formations. Enhanced power systems and upgraded engines allow it to dart across the battlefield, sinking a wide range of targets.",,,,
+valk_azgard,SHIP,"The main Valkyrian fighter. Her twin laser cannons are capable of delivering powerful blows to enemy ships, and her rapid-fire lasers provide effective defense against enemy interceptors and missiles.",,,,
+valk_lightning,SHIP,"A high-speed interceptor equipped with twin large-caliber nose cannons, her wings can be extended to provide intra-atmospheric flight capability.",,,,
+valk_sahara,SHIP,"A large, slow bomber wing with a two bomb payload. While capable of destroying any target, they are rarely successful due to their poor maneuverability.",,,,
+valk_morgiana,SHIP,"Slightly larger than the Talon but twice as deadly, she was designed for rapid deployment from any carrier, be it on a planet's surface or in space.",,,,
 ,,,,,,
 ,,,,,,
 ,,,,,,
-valk_ilc,WEAPON,A powerful energy cannon that can project three consecutive dense particle beams at once over long distances.,,,,
-valk_ilc_II,WEAPON,"A highly burst, enhanced version of the Redemption Laser Cannon that combines all the firepower in one shot.",,,,
-valk_quadheavymg,WEAPON,"A wicked quad-mounted heavy machine gun with a monstrous rate of fire. A ship equipped with it is basically immune to the threat of fighters or missiles.
-This weapon combines four heavy machine guns on a gun mount upgraded by pneumatic loading and liquid-cooled mechanisms, and fires fragmentation rounds at high speeds to intercept fighters.",,,,
+valk_ilc,WEAPON,A powerful energy cannon capable of projecting three consecutive dense particle beams over long distances.,,,,
+valk_ilc_II,WEAPON,"An enhanced, high-burst variant of the Redemption Laser Cannon that concentrates all its firepower into one shot.",,,,
+valk_quadheavymg,WEAPON,"A wicked quad-mounted heavy machine gun with a monstrous rate of fire. A ship equipped with it is virtually immune to threats from fighters or missiles.
+This weapon combines four heavy machine guns on a gun mount enhanced with pneumatic loaders and liquid-cooling mechanisms, and fires high-velocity fragmentation rounds to intercept fighters.",,,,
 ,,,,,,
 valk_dsc,WEAPON,"A small machine gun that fires large-caliber discarding sabot rounds at sublight speeds. Has an additional penetrating effect on high-strength shields.",,,,
-valk_irpdburst,WEAPON,A not-so-powerful but very effective instant point defense system that is often seen on most military ships.,,,,
-valk_ibcm,WEAPON,Hurricane launch system equipped with IBCM kinetic warheads capable of powerful strikes against shields.,,,,
-valk_heavy_assault_cannon,WEAPON,"Created at the same time as the Vatican Mk.III, its immense destructive power far exceeded any ship's defenses.
-It was a simple triple barrel design with a caliber of 350 to 420mm, with great punch and incredible range, destroying or wounding enemy ships in a few shots.",,,,
-valk_antiproton_laser,WEAPON,"Designed to give large ships burst firepower at medium to long range. This burst output is capable of destroying all small and medium-sized ships, or putting a great deal of flux pressure on opposing capital ships.",,,,
-valk_plasma_laser,WEAPON,"A medium-sized cannon that was improved by combining advanced technology with careful study of the fragmentation cannons of Blackrock Drive Yards.
-While the cannon itself does not do much damage, the fickle and unstable plasmas projectiles it fires can easily cause additional special effects and cause major damage to the target.",,,,
-valk_bcnn,WEAPON,"A versatile kinetic weapon, often used to suppress enemies from a distance. Due to its design being based on the revolver core, it is not recommended for non-Valkyrian ships.",,,,
+valk_irpdburst,WEAPON,A not-so-powerful but highly effective instantaneous point defense system that is commonly found on military ships.,,,,
+valk_ibcm,WEAPON,The Hurricane launch system is equipped with IBCM kinetic warheads capable of devastating strikes against shields.,,,,
+valk_heavy_assault_cannon,WEAPON,"Developed at the same time as the Vatican Mk.III, this weapon's immense destructive power far surpasses the defensive capabilities of any ship.
+Featuring a straightforward triple barrel design with a caliber ranging from 350 to 420mm, it delivers tremendous firepower at incredible range, destroying or crippling enemy ships in just a few shots.",,,,
+valk_antiproton_laser,WEAPON,"Designed to provide large ships with burst firepower at medium to long range. The burst output of this weapon is capable of destroying small and medium-sized ships with ease, as well as placing a large amount of flux pressure on enemy capital ships.",,,,
+valk_plasma_laser,WEAPON,"A medium-sized cannon that was improved through a combination of advanced technology and careful study of Blackrock Drive Yards' fragmentation cannons.
+While its base damage is modest, the volatile, unstable plasmas projectiles it fires often trigger unpredictable secondary effects that cause major damage to the target.",,,,
+valk_bcnn,WEAPON,"A versatile kinetic weapon commonly used for long-range enemy suppression. As its design assumes the use of the revolver core, it is not recommended for non-Valkyrian ships.",,,,
 ,,,,,,
 ,,,,,,
-valk_ballista,WEAPON,An improved Annihilator rocket pod using plasma charges and fuel. Its improved AI makes it harder for point defense weapons to shoot down.,,,,
+valk_ballista,WEAPON,An upgrade of the Annihilator rocket pod that uses plasma for both charging and propulsion. Its improved AI makes it harder for point-defense systems to shoot down.,,,,
 valk_wraith,WEAPON,This heavy missile is designed to quickly take out large targets at extreme ranges. Its large fins allow it to steer like a normal missile.,,,,
-valk_spectre,WEAPON,Powerful missile developed for long range combat between capital ships. Usually equipped on smaller ships in a support role.,,,,
-valk_phantasm,WEAPON,Powerful missile developed for long range combat between capital ships. Usually equipped on smaller ships in a support role.,,,,
-valk_shadow,WEAPON,"A powerful cruise missile with great explosive power, the number of missiles has been reduced to accommodate the twin launch system.",,,,
-valk_sunfury,WEAPON,"This relatively advanced torpedo uses a powerful high-explosive warhead with a heavy armor-piercing tip, and possesses unparalleled destructive power. A direct hit with this torpedo will deal a devastating blow.
-Developed as a capital ship killer late in the modernization era, its 750mm plutonium warhead salvo has enough destructive power to blow up half a space station. The top is covered with hardened titanium, allowing it to penetrate several meters of the target's armor, followed by a layer of adamantium alloy to ensure the survivability of the torpedo, with even stronger protection on the sides.
-The detonator design is taken from a relatively simple water based armor piercing torpedo that detonated once penetration was complete. This is monitored by a sensor, which checks if the detonation trigger was caused by a damaged or broken probe, and if switches from the firmware device to a momentum sensor, which detonates after it detects a preset change in kinetic energy.",,,,
-valk_scorpionpod,WEAPON,"A lightweight MIRV warhead with a Harpoon engine that improves maneuverability but reduces damage, with a small built-in capacitor that produces less EMP damage. It has a large ammo capacity.",,,,
-valk_scorpion,WEAPON,"A lightweight MIRV warhead with a Harpoon engine that improves maneuverability but reduces damage, with a small built-in capacitor that produces less EMP damage.",,,,
+valk_spectre,WEAPON,A powerful missile developed for long-range combat between capital ships. Often mounted on smaller ships in a support role.,,,,
+valk_phantasm,WEAPON,A powerful missile developed for long-range combat between capital ships. Often mounted on smaller ships in a support role.,,,,
+valk_shadow,WEAPON,"A powerful cruise missile with immense explosive yield, the number of missiles has been reduced to accommodate the twin launch system.",,,,
+valk_sunfury,WEAPON,"This relatively advanced torpedo features a powerful high-explosive warhead with a heavy armor-piercing tip, delivering unparalleled destructive power. A direct hit with this torpedo inflicts catastrophic damage.
+Developed as a capital ship killer in the late modernization era, its 750mm plutonium warhead carries enough destructive power to obliterate half a space station. The tip is reinforced with hardened titanium, allowing it to penetrate several meters into the target's armor, followed by a layer of adamantium alloy to ensure the torpedo's survival. The sides have even stronger protection.
+The detonator mechanism is derived from a relatively simple water based armor piercing torpedo, triggering upon full penetration. A sensor monitors the process, and checks if the probe is damaged or severed, and switches the firing mechanism from the firmware device to a momentum sensor, detonating once a preset kinetic energy threshold is reached.",,,,
+valk_scorpionpod,WEAPON,"A lightweight MIRV warhead equipped with a Harpoon engine, it trades destructive power for enhanced maneuverability. A small built-in capacitor allows it to generate minor EMP effects on impact. It has a large ammo capacity.",,,,
+valk_scorpion,WEAPON,"A lightweight MIRV warhead equipped with a Harpoon engine, it trades destructive power for enhanced maneuverability. A small built-in capacitor allows it to generate minor EMP effects on impact.",,,,
 ,,,,,,
 ,,,,,,
 ,,,,,,
-valk_hyperbeam,WEAPON,"This heavy beam cannon uses hypermatter to unleash potent attack power through a stream of hot particles that melt armor in the target zone.",,,,
+valk_hyperbeam,WEAPON,"This massive beam cannon utilizes hypermatter to unleash generate devastating firepower through a stream of hot particles that can completely melt through armor in the impact zone.",,,,
 ,,,,,,
-valk_imbc,WEAPON,"An super-heavy laser system capable of firing ultra-high density antiproton streams over long distances, which can inflict tons of damage to unshielded ships.",,,,
+valk_imbc,WEAPON,"A super-heavy laser system capable of firing ultra-high density antiproton beams over long distances, which can inflict massive damage to unshielded ships.",,,,
 valk_light_antimatter_laser,WEAPON,"A lighter version of the heavier Antiproton Beam Cannon, with the same long range and high damage. It was the company's first beam weapon.",,,,
-valk_irdriver,WEAPON,A small laser created during the modernization era. It was meant to replace outdated machine guns and provide more powerful weapons for small fighters.,,,,
-valk_ptr_laser,WEAPON,"Strong and effective laser cannons made late in the modernization era which replaced the fighters' old weapons, giving them greater combat power under the same conditions.
-The PTR consists of a basic repeater equipped with a quadruple radiator, plus four cyclotron particle jet pumps and accelerators, which can maintain terrifying firepower for extended periods of time. The low level of flux consumption means that this weapon can theoretically be fired indefinitely with a powerful energy source. However, the maintenance center strongly advises that captains not to do so, because melted particle jet pumps are difficult to repair.",,,,
-valk_xr_repeater,WEAPON,"The recalibrated PTR laser repeater fires plasma projectiles under the guidance of an X-ray tracer. Its intense thermal damage often has a terrible impact on the ship it hits.
-The X-ray ATC is essentially a miniature pulsed laser cannon, but with plasma projectiles.",,,,
+valk_irdriver,WEAPON,A compact laser weapon developed during the modernization era. It was designed to replace outdated machine guns and provide fighters with enhanced firepower.,,,,
+valk_ptr_laser,WEAPON,"A powerful and effective laser cannon made in the mid-to-late modernization era which replaced the fighters' old weapons and gave them superior combat capability under equivalent conditions.
+The PTR consists of a base repeater equipped with a quadruple heatsink, plus four cyclotron particle injection pumps and accelerators, which enable it to sustain terrifying firepower for extended periods. The weapon's low flux consumption means that it can theoretically be fired indefinitely with a sufficiently powerful energy source. However, maintenance crews strongly advise captains against doing so, as melted particle injection pumps are difficult to repair.",,,,
+valk_xr_repeater,WEAPON,"A recalibrated PTR laser repeater that fires plasma projectiles under the guidance of an X-ray tracer. Its intense thermal damage often has devastating effects on impacted ships.
+The X-ray ATC is essentially a miniature pulse laser cannon, but with plasma projectiles.",,,,
 ,,,,,,
-valk_cockatrice,WEAPON,"The Cockatrice is a mythical monster that is said to have the power to kill anyone with a single glance. This rapid-fire machine gun is installed in the gun pods of heavy fighters, and its heavy rounds are even capable of penetrating armor and reaching the structure of fighters.",,,,
-valk_irpdcannon,WEAPON,"The Vulcan cannon was disassembled and simplified, and a laser medium and energy capacitor were installed in the structure. It has a high degree of accuracy and is known for its cost-effectiveness.",,,,
+valk_cockatrice,WEAPON,"The Cockatrice is a mythical beast whose gaze is said to mean death. This rapid-fire machine gun is mounted in the gun pods of heavy fighters, and fires heavy rounds are capable of punching through armor and reaching a fighter's internal structure.",,,,
+valk_irpdcannon,WEAPON,"The Vulcan cannon was disassembled and streamlined, and a laser medium and energy capacitor integrated into its frame. This weapon is highly accurate and known for its cost-effectiveness.",,,,
 valk_nxk_pd,WEAPON,The NX-K is an ultra-high tech gamma ray blaster that provides unparalleled defense against swarms of missiles and fighters.,,,,
-valk_ether_driver,WEAPON,"An experimental cannon that fires a hypermatter shell made of a substance called ""ether"", it can penetrate shields to hit armor directly.
-The Ether Driver and its variants are a series of hypermatter cannons made by reverse engineering captured alien technology, and combining it with the properties of the substance called ""ether"" that can swallow ion fields and destroy any form of materialized energy.
-A deafening sound accompanies its firing, as the matter and shell are fired a millisecond apart. The hypermatter shell will hit the ether shell in front of it and merge into one, creating a hole in the shield and then hitting the target's hull with a massive explosion.",,,,
-valk_geironul,WEAPON,"A large, high-performance cannon modeled after the Hellbore. The interior of the munition is encased in a trace amount of unstable antimatter, such that after hitting an enemy ship, the breakage of the core can trigger another explosion, dealing a more severe blow to lightly armored targets.",,,,
+valk_ether_driver,WEAPON,"An experimental cannon that fires shells encased in a hypermatter substance called ""ether"" that can penetrate shields to strike armor directly.
+The Ether Driver and its variants are a series of hypermatter cannons developed through reverse-engineering captured alien technology, utilizing the unique property of the substance called ""ether"" to neutralize ion fields and disintegrate all forms of materialized energy.
+A deafening sound accompanies its firing, as the matter and shell are fired a millisecond apart. The hypermatter casing collides with and fuses with the ether projectile in front, creating a hole in the shield before then detonating violently against the target's hull.",,,,
+valk_geironul,WEAPON,"A large, high-performance cannon modeled after the Hellbore. The interior of its shells are encased in a trace amount of unstable antimatter, which upon impact with enemy ships, may trigger secondary explosions due to core breakage, causing severe damage to lightly armored targets.",,,,
 ,,,,,,
 valk_ice_lance,WEAPON,"A derivative of the Ether Driver. Focuses more on disabling electronics rather than damaging them.
 Its projectiles have the same ability to penetrate shields.
 The Ice Lance fires encased substances in the form of cylindrical disruption bolts rather than hypermatter, with the Eether stored separately to prevent it from destroying the bolts from the inside.",,,,
 ,,,,,,
-valk_twin_hiir_laser,WEAPON,"A large caliber laser cannon equipped with a delicate emitter and lens capable of inflicting sustained damage at long range. However, sustained fire causes a sharp drop in accuracy.",,,,
+valk_twin_hiir_laser,WEAPON,"A large caliber laser cannon equipped with a delicate emitter and lens capable of inflicting sustained damage at long range. However, prolonged firing causes a sharp drop in accuracy.",,,,
 ,,,,,,
-valk_lightlancer,WEAPON,An energy version of the Needler weapons that pours out projectiles that cause strong EMP effects on the target. Designed for use against a wide variety of targets. The small caliber makes it highly accurate.,,,,
+valk_lightlancer,WEAPON,An energy version of the Needler that fires volleys of projectiles that cause strong EMP effects on the target. Designed for use against a wide variety of targets. The small caliber makes it highly accurate.,,,,
 ,,,,,,
-valk_heavylancer,WEAPON,An energy version of the Needler weapons that pours out projectiles that cause strong EMP effects on the target. Designed for use against a wide variety of targets. The medium caliber provides a larger burst window compared to small caliber.,,,,
+valk_heavylancer,WEAPON,An energy version of the Needler that fires volleys of projectiles that cause strong EMP effects on the target. Designed for use against a wide variety of targets. The medium caliber provides a larger burst window compared to small caliber.,,,,
 ,,,,,,
-valk_ultraheavylancer,WEAPON,"An energy weapon version of the Needler weapon of same-size, it fires high-temperature projectiles that focus on structural damage. Designed for use against a wide variety of targets.",,,,
+valk_ultraheavylancer,WEAPON,"An energy weapon version of the Needler of the same size, this weapon fires high-temperature projectiles that focus on structural damage. Designed for use against a wide variety of targets.",,,,
 ,,,,,,
 ,,,,,,
 valk_ecm_jammer,SHIP_SYSTEM,An advanced electronic warfare system that reduces the effective detection range on an enemy ship's radar by 2000su.,Close Range Support,,,

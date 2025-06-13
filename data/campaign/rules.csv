@@ -2,72 +2,72 @@ id,trigger,conditions,script,text,options,notes,Column 08
 vft_findadmiralGreeting,PickGreeting,"$valkft_isAdmiral
 $valkft_stage == 0","ShowPersonVisual
 $talkedTo = true
-Highlight ""Yoshura class""","When you open the communications channel, you hear the voices of soldiers reporting to their superiors, and when the image comes into focus, you see a woman wearing the epaulettes of an Admiral.
+Highlight ""Yoshura class""","When you open the communications channel, you hear faint voices of soldiers reporting to their superior, and when the image comes into focus, you see a woman wearing the epaulettes of an Admiral.
 
-""Truth is,"" explains the slightly graying female Admiral $personName:""The previous mission target has been eliminated for unknown reasons, and our current task at hand is an armaments financing project of considerable magnitude - deliver to me, by any means necessary, three mothballed Yoshura-class starships. What do you think?""
+""The fact of the matter is,"" explains the slightly graying female Admiral $personName:""The previous mission target has been eliminated for unknown reasons, and the task we currently have on hand is a military procurement project of substantial size — deliver to me, by any means necessary, three mothballed Yoshura-class starships. What do you say?""
 
-You give careful consideration to this unusual mission...","0:valkft_accept:Accept mission
+You carefully consider this unusual mission...","0:valkft_accept:Accept mission
 1:cutCommLink:""Not now."" Cutting comms",,
 vft_findadmiralGreetingTalkedTo,PickGreeting,"$valkft_isAdmiral
 $valkft_stage == 0
-$talkedTo",ShowPersonVisual,"""What is it? Did you change your mind?""
+$talkedTo",ShowPersonVisual,"""Changed your mind?""
 
-The female Admiral expressed no urgency, and seemed extremely patient about the matter.","0:valkft_accept:Accept mission
+The female Admiral showed no trace of urgency, and seemed extraordinarily patient about the matter.","0:valkft_accept:Accept mission
 1:cutCommLink:""Not now."" Cutting comms",,
 vft_findadmiralAccept,DialogOptionSelected,$option == valkft_accept,"CallEvent $valkft_eventRef nextStage
 ShowDefaultVisual
-EndConversation","""Very good, I look forward to the good news.""
+EndConversation","""Excellent, I await your good news.""
 
-The female Admiral seems relieved as she cut the comms.",,,
+A hint of relief flashed across the female Admiral's face as she cut the comms.",,,
 vft_findshipsGreeting,PickGreeting,"$valkft_isAdmiral
 $valkft_stage == 1
 CallEvent $valkft_eventRef checkCondition","ShowPersonVisual
-SetEnabled valkft_delieverships $meetCondition","""Done so soon?"" Over the comms, the female Admiral looks at you with surprise in her eyes.","0:valkft_delieverships:""Yes.""
+SetEnabled valkft_delieverships $meetCondition","""Done already?"" Over the comms, the female Admiral looks at you with surprise in her eyes.","0:valkft_delieverships:""Yes.""
 1:cutCommLink:""Not yet, sorry to bother you."" Cutting comms",,
-vft_findshipsTalk0,DialogOptionSelected,$option == valkft_delieverships,$valk_talkStage = 1,"""Let us meet dockside."" The female Admiral takes what has to be the smallest of nods as your consent and cuts the comm link.
+vft_findshipsTalk0,DialogOptionSelected,$option == valkft_delieverships,$valk_talkStage = 1,"""Let us meet dockside."" You nod as the female Admiral cuts the comm link.
 
 You alight at the docks, and after a quick security check, meet the female Admiral face to face.
 
-""Well done."" Says the middle aged Admiral, as she taps you on the shoulder.
+""Well done."" Says the middle aged Admiral, as she gave your shoulder an approving pat.
 
-""See that battlecruiser? In half a month, that old thing will be transferred to Enigma 3 for dismantling. Are you interested in taking a look?""","0:vft_continue:""I would be honored.""",,
+""See that battlecruiser over there? In half a month, that old thing will be transferred to Enigma 3 for dismantling. Care to take a closer look?""","0:vft_continue:""I would be honored.""",,
 vft_findshipsTalk1,DialogOptionSelected,"$option == vft_continue
-$valk_talkStage == 1",$valk_talkStage = 2,"You ascend to the open side decks, where dense turrets are arranged in a rectangular shape near the center axis... This appears to be a modification of the Yoshura, and combined with her rather unique paint job, you realize that you haven't seen similar warships at the docks... You notice a palm-sized holographic projector sitting on a long table in the command room, out of place among surroundings grayish from the lack of power, the machine is still projecting a bust of a man.","0:vft_continue:""This person...""",,
+$valk_talkStage == 1",$valk_talkStage = 2,"You ascend to the open side decks, where rows of gun turrets are arranged in a rectangular formations along the central axis... This appears to be a modified Yoshura, and judging by her rather distinctive livery, you realize that you've never seen a warship like this in the docks before... You notice a palm-sized holoprojector sitting on a long table in the command room, out of place among surroundings dim from the lack of power, the device still projecting a bust of a man.","0:vft_continue:""This person...""",,
 vft_findshipsTalk2,DialogOptionSelected,"$option == vft_continue
-$valk_talkStage == 2",$valk_talkStage = 3,"""Rather than a vessel for glory, it is more of a crystallization of memories.""
+$valk_talkStage == 2",$valk_talkStage = 3,"""Less a vessel of glory, more a crystallized memory.""
 
-The Admiral walking in front of you mumbles inexplicably before snapping her head back, her right prosthetic eye locking onto yours.
+The Admiral walking in front of you mumbles inexplicably before turning around abruptly, her right prosthetic eye locking onto yours.
 
-""The mission you completed was merely a test, but before we get to the point, let's talk about something else.""
+""The mission you completed was merely a test, but before we proceed to the main affair, let's talk about something else.""
 
----- Through the dark, narrow maintenance ducts, you follow the Admiral out through the starboard airlock, Port A. ----
+---- After navigating through dark, narrow maintenance ducts, you emerge with the Admiral from the starboard airlock, Port A. ----
 
-The glare of the midday sun makes you squint, as a shrill voice rings in your ears: ""All of Enigma were witnesses to our love... and neither of us was prepared for separation, but the gender revolution had reached a turning point.""At this point, the Admiral suddenly chokes up a little, and lengthens her tones,""---He was always a quiet man. Who would have known that he would be the one to mobilize the workers of the Orbital Dockyard and the lower ranked Sailors, bringing instability to the outer edges of the galaxy.""",0:vft_continue:Continue,,
+The glare of the midday sun makes you squint, as a shrill voice rings in your ears: ""All of Enigma bore witness to our love... and neither of us was prepared for separation, but the Gender Revolution had reached a tipping point."" The Admiral suddenly chokes up a little, and draws out her next words, ""---He was always such a quiet man. Who could've predicted that he would be the one to mobilize the Orbital Dockyard workers and lower ranked Sailors, bringing instability to the fringes of the system?""",0:vft_continue:Continue,,
 vft_findshipsTalk3,DialogOptionSelected,"$option == vft_continue
-$valk_talkStage == 3",$valk_talkStage = 4,"""At that time, there was an ongoing war, a massive struggle against the Hegemony. At the beginning, aside from general mobilization, the hawks of war were also at work... The two fleets crept slowly along the edges of a meteorite-strewn galaxy like giant beasts, taking days to close in on each other while carefully pointing their most aggressive fronts at each other. Fleet maneuvers on such scales are a spectacle in the sector. Sub-fleets and scouting groups extended as far as three light-years away. On the first day, fighting went well, with battles fought on four battlefields, and the Hegemony's advance force suffering a severe defeat, reducing one of their battleships to near scrap.
+$valk_talkStage == 3",$valk_talkStage = 4,"""At that time, there was an ongoing war, a full-scale conflict against the Hegemony. From the beginning, beyond general mobilization, the hawks of war were already sharpening their claws... The two fleets crept slowly like colossal beasts along the fringes of a meteorite-strewn star system, inching toward each other over days while cautiously pointing their most offensive fronts at each other. Fleet maneuvers on such scales are a spectacle in this sector. Sub-fleets and scouting groups extended as far as three light-years out. On the first day, engagement went smoothly, with battles fought on four fronts, and the Hegemony's vanguard suffering heavy losses, and reducing one of their battleships to little more than scrap.
 
-On the second day, fighting was accompanied by a military revolt. He led mutineers in an axial jump, quickly disengaging from the battlefield and firing a surge to jam communications before the upper echelons could react. The situation deteriorated rapidly, and the right flank collapsed. At great cost, we were able to escape, leaving the glory of the Valkyries behind, along with fleet superiority. As one of the three commanders of the right flank, I was impeached, and although I was not convicted of the charges, I have been under house arrest ever since, and as you can see, although I can still express my political views, my voice is not heard.""","0:vft_continue:You can't help but lean forward, anticipating further development",,
+On the second day, mutiny struck. He led mutineers in an axial jump, quickly disengaging from the battlefield and firing off a surge to jam communications before high command could react. The situation deteriorated rapidly, and the right flank collapsed. We escaped only at grievous cost, leaving the glory of the Valkyries behind, along with fleet superiority. As one of the three commanders of the right flank, I was impeached, and although I was not convicted of the charges, I have been under house arrest ever since, and as you can see, although I can still express my political views, my voice is not heard.""","0:vft_continue:You can't help but lean forward, anticipating further development",,
 vft_findshipsTalk4,DialogOptionSelected,"$option == vft_continue
-$valk_talkStage == 4",$valk_talkStage = 5,"""After the battle, the 'traitors' didn't do much more than sail away into the galaxy... But the Valkyries never gave up looking for them."" The female Admiral paused and said with a complicated expression:
+$valk_talkStage == 4",$valk_talkStage = 5,"""After the battle, the 'traitors' did little more than leave the system... But the Valkyrie never gave up hunting them down."" The female Admiral paused, her expression unreadable, before continuing:
 
-""In fact, a report of a suspected fleet response in near-Earth orbit of a certain star system remained on my personal computer until I retired... That's where he's hiding, and when his superiors find out, treason and the gallows will be the result.
+""In truth, a report of suspected fleet signatures in a certain system's near-orbit remained on my personal computer even after I retired... That's where he's hiding, and if high command knows, treason and the gallows will be his fate.
 
-This needed to end, and I didn't want him to die in shame... That's why I looked for you! You're the only captain with the patience and strength to take care of him for me without a word... And when it's done, you can have all the spoils.""","0:vft_continue:Ask for more information about ""him""",,
+This must end, but I didn't want him to die in shame... That's why I looked for you! You — the only captain with the patience and skill to handle this quietly... and when it's done, the spoils are all yours.""","0:vft_continue:Ask for more information about ""him""",,
 vft_findshipsTalk5,DialogOptionSelected,"$option == vft_continue
-$valk_talkStage == 5","AddText ""-This option has irreversible effects, choose carefully-"" good","After some conversation, you learn that he used to be the Chief of Refurbishment of the Admiral's Flagship, and was unimaginably obsessed with remodeling.
+$valk_talkStage == 5","AddText ""-This option has irreversible effects, choose carefully-"" good","After some conversation, you learn that he was once the chief maintenance officer of the Admiral's flagship, and had an almost fanatical dedication to ship modifications.
 
-""What... Do you think? "" The female Admiral's voice was shaky, and a little distant.","0:vft_type_love:""Isn't his love for you written all over this glorious flagship?""
+""What... do you think? "" The female Admiral's voice was shaky, and a little distant.","0:vft_type_love:""Isn't his love for you written all over this glorious flagship?""
 1:vft_type_hate:""Hatred is like a scar, as deep as love.""
 2:vft_type_normal:""Deadly stupid, isn't it?""",,
 vft_findshipsTalkChoseLove,DialogOptionSelected,$option == vft_type_love,"CallEvent $valkft_eventRef withdrawYoshura
 CallEvent $valkft_eventRef chooseType 0
-CallEvent $valkft_eventRef nextStage","The female Admiral suddenly trembled, and as if the waves of the Milky Way burst from her eyes, her face, scarred by years, was simultaneously flooded with sadness, mourning and grief. She takes a last deep glance at you before leaving.",0:cutCommLink:Leave,,
+CallEvent $valkft_eventRef nextStage","The female Admiral suddenly shudders, and it was as though the crashing waves of the Milky Way burst from her eyes. Her face, etched with life's scars, was simultaneously flooded with sadness, mourning and grief. She casts you one last profound, lingering glance before turning and walking away without looking back.",0:cutCommLink:Leave,,
 vft_findshipsTalkChoseHate,DialogOptionSelected,$option == vft_type_hate,"CallEvent $valkft_eventRef withdrawYoshura
 CallEvent $valkft_eventRef chooseType 1
-CallEvent $valkft_eventRef nextStage","The female Admiral let out a sigh and turned to leave, crestfallen. You never believed in the hypocritical portrayal in novels, but at that moment, you truly felt as if she had aged ten years.",0:cutCommLink:Leave,,
+CallEvent $valkft_eventRef nextStage","The female Admiral let out a sigh and turns to leave, crestfallen. You never believed those clichéd descriptions in novels, but at that moment, you truly felt as if she had aged ten years.",0:cutCommLink:Leave,,
 vft_findshipsTalkChoseNormal,DialogOptionSelected,$option == vft_type_normal,"CallEvent $valkft_eventRef withdrawYoshura
 CallEvent $valkft_eventRef chooseType 2
-CallEvent $valkft_eventRef nextStage","The prosthetic eye oscillated rapidly, exposing the user's mind to the world, and the female Admiral quickly suppressed her emotions. ""You should get going"", she says, and quietly leaves without a glance back.",0:cutCommLink:Leave,,
+CallEvent $valkft_eventRef nextStage","Her prosthetic eye oscillates rapidly, exposing her mind's inner turmoil, but the female Admiral quickly suppresses her emotions. ""You should get going"", she says, and quietly leaves without a glance back.",0:cutCommLink:Leave,,
 ,,,,,,,
 vft_findHeEncounter,BeginFleetEncounter,"!$talked
 $valkft_isHisFleet score:100","unset $entity.ignorePlayerCommRequests
@@ -79,31 +79,31 @@ CallEvent $valkft_eventRef succeed
 OpenComms",,,,
 vft_findHeGreeting0,OpenCommLink,$valkft_isHe score:100,"$entity.ignorePlayerCommRequests = true
 $vft_fhc = 1
-","Unexpectedly, you receive a comms request form him, and when you answer, you are surprised to find him talking to himself, as if he understood why you had come.
+","Unexpectedly, you receive a comms request, and when you answer, you are surprised to find the man talking to himself, as if he understood why you had come.
 
 ""You're the one she sent, aren't you? This day has come not a moment too soon.""
 
 The leader of the wanderers looks at you through drooping eyelids, looking a bit downtrodden, and more like a roadside beggar than a Fleet Admiral.
 
-""Years of journeying through the void have taken their toll on a ship that used to carry the hopes and passions of the revolutionaries. We tried to build our own utopia, but we lost all our fuel money in the New World. The damned Alliance traders manipulated the fragile colonial economy, creating famine and squeezing the people for every last credit.""
+""Years of journeying through the void have taken their toll on a ship that used to carry the hopes and passions of the revolutionaries. We tried building our own utopia, only to lose all our fuel money in the New World. The damned Alliance merchants manipulated the fragile colonial economy, creating famine and squeezing every last credit from the hands of the people.""
 
-""By the time I realized that destroying the trade fleet made it impossible for us to gain a foothold in Alliance worlds, it was too late. The fleet sailed outward, always outward. Across the long outer channel of the Atlantean Nebula to the haunts of outlaws, and through the creepy fringes of the world, we've been through fighting, infighting, fraud and separation again and again, right up to this very moment.
+""By the time I realized that destroying the merchantile fleet would make it impossible for us to gain a foothold in Alliance worlds, it was too late. The fleet sailed outward, always outward. From the long outer channel of the Atlantean Nebula to lawless sanctuaries and through creepy fringe systems, we've been through fighting, infighting, betrayals and farewells again and again, right up to this very moment.
 
-Yet she still holds a grudge against us? You seem to know something about the dark side of the Valkyries, and I wouldn't mind telling you more about it before we fight.""","0:vft_he_continue:""Didn't both of you once loved each other? How did it come to this?""",,
+Yet she still carries that grudge? You seem to know something about the dark side of the Valkyries, and I wouldn't mind telling you more before we fight.""","0:vft_he_continue:""Didn't both of you once loved each other? How did it come to this?""",,
 vft_findHeGreeting1,DialogOptionSelected,"$option == vft_he_continue
-$vft_fhc == 1",$vft_fhc = 2,"""Somehow, communications stalled, and both sides quietly asserted their own justice through their actions... On the eve of the big battle, my followers and I stowed our old carbines and electromagnetic rifles in supply crates and carried them to the battleship. We couldn't miss the chance, when the fearsome interstellar powers were under too much pressure to act, to escape the Valkyrie's sphere of influence! It was the only way...""","0:vft_he_continue:""There is no denying that it was a great struggle.""",,
+$vft_fhc == 1",$vft_fhc = 2,"""At some point, communication stalled, and both sides quietly asserted their own justice through actions... And on the eve of the great battle, my followers and I stowed old-style carbines and electromagnetic rifles in supply crates, and smuggling them aboard the battleship. We couldn't afford to let this opportunity slip, while the terrifying weight of interstellar tyranny was suffocating our movement, to escape the Valkyrie's sphere of influence! It was our only way out...""","0:vft_he_continue:""There is no denying that it was a great struggle.""",,
 vft_findHeGreeting2,DialogOptionSelected,"$option == vft_he_continue
-$vft_fhc == 2",$vft_fhc = 3,"""We took control of the sub-fleet in a blitz. The revolutionaries boarded the Yoshura prototype without being detected, killed the guards, whose impulse deflector fields were overwhelmed by our firepower. The capture of this battleship was the movement's crowning achievement.""
+$vft_fhc == 2",$vft_fhc = 3,"""We steeled our resolve as we seized control of a sub-fleet. The revolutionaries boarded the Yoshura prototype undetected and killed the guards, whose impulse deflector fields collapsed under concentrated fire. The fall of this battleship was our movement's greatest triumph.""
 
-""The outpost was the last target, and as our heavily armed mob ransacked it, we broke away from the organization and became denizens of the silent void. With the bones of the captured battleship, and the secrets we found in the outpost, I built this war machine, and decided to defend the meaning of my life to the end with iron and blood!""
+""The outpost was our final target, and after our armed forces ransacked it, we broke away from the organization and became denizens of the silent void. With the bones of the captured battleship, and the secrets we found in the outpost, I built this war machine, and decided to defend my life's purpose to the end with iron and with blood!""
 
-With determination in his eyes, he raised his right hand to cut off the comm link.","0:vft_he_continue:""If I may ask one last question, what do you think of her now?""",,
+His eyes burned with unyielding conviction as he raised his right hand to cut off the comm link.","0:vft_he_continue:""If I may ask one last question, what do you think of her now?""",,
 vft_findHeLove,DialogOptionSelected,"$option == vft_he_continue
 $valkft_type == 0
-$vft_fhc == 3",,"""No matter how time passes, she is the only one for me."" There is silence on both sides. For a moment, he looks at you, the stars in his eyes seemingly eternal, before resolutely disconnecting the comm link and ending his message abruptly, signaling the end of a story and the coming of a battle.",cutCommLink:Cut the comm link,,
+$vft_fhc == 3",,"""To me, she was, and always will be, the only one for me."" Silence engulfed both sides. For a moment, he looks at you, the stars in his eyes seemingly eternal, before resolutely disconnecting the comm link and ending his message abruptly, signaling the end of a story and the coming of a battle.",cutCommLink:Cut the comm link,,
 vft_findHeHate,DialogOptionSelected,"$option == vft_he_continue
 $valkft_type == 1
-$vft_fhc == 3",,"""I loath her."" The comms fall silent, and the flagship shakes violently. You look over the bridge, where someone is shouting ""We are under attack! We are under attack!""",cutCommLink:Cut the comm link,,
+$vft_fhc == 3",,"""I loath her."" The comms fall silent as the flagship shakes violently. You look over the bridge, where someone is shouting ""We are under attack! We are under attack!""",cutCommLink:Cut the comm link,,
 vft_findHeNormal,DialogOptionSelected,"$option == vft_he_continue
 $valkft_type == 2
 $vft_fhc == 3",,"""From the moment we abandoned the organization, we had nothing more to do with each other."" There comes a buzz, and the comms falls dead.",cutCommLink:Cut the comm link,,
