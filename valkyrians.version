@@ -2,12 +2,13 @@
     "masterVersionFile":"https://raw.githubusercontent.com/persocom01/Valkyrian_EN/master/valkyrians.version",
     "modName":"Valkyrians",
     "modThreadId": "30560",
-    "directDownloadURL": "https://github.com/persocom01/Valkyrian_EN/releases/latest/download/Valkyrian_EN.zip",
     "modVersion":
     {
         "major":3,
         "minor":3,
         "patch":0e2
     },
-    "starsectorVersion":"0.97a-RC11"
+    "starsectorVersion":"0.97a-RC11",
+    "directDownloadURL": "https://github.com/persocom01/Valkyrian_EN/releases/latest/download/Valkyrian_EN.zip",
+    "changelogURL": "https://raw.githubusercontent.com/persocom01/Valkyrian_EN/refs/heads/master/Changelog"
 }
