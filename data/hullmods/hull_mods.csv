@@ -31,19 +31,19 @@ As long as non-point defense weapons maintain fire, weapon performance can be en
 Increases rate of fire and reduces flux cost of energy and ballistic weapons by up to %s. These bonuses max out when the weapons fire for %s of the ship's peak performance time. After a weapon ceases fire, these bonuses decay at %s times the rate of rise.",Weapon flux adjustment.,Required peak performance time is reduced to %s of the original.,graphics/hullmods/valk_peakfire.png
 Archon Tuning - Fluxfog,valk_fluxfog,2,,Valkyrian Archon Industries,special,Special,7500,,,,3,6,10,15,data.hullmods.valk_FluxFog,"One of the unique Valkyrian warship hull modifications from Archon Industries.
 
-Condenses flux energy around the ship without dispersing it, reinforcing hull durability after a certain amount of time.
+Condenses flux energy around the ship without dispersing it, reinforcing hull durability after a certain period of time.
 
 When flux is maintained above %s for more than %s of peak performance time, gain %s armor and hull resistance.",Damage resistance adjustment.,Required peak performance time is reduced to %s of the original.,graphics/hullmods/valk_fluxfog.png
 Archon Tuning - Crimson Steel,valk_redarmor,2,,Valkyrian Archon Industries,defensive,Special,8000,,,,3,6,10,15,data.hullmods.valk_RedArmor,"One of the unique Valkyrian warship hull modifications from Archon Industries. Tailored especially to female captains who love walking the razor's edge. 
 
 Under the original protocol, armor damage would be directly linked to the grid:
-- Damage will stimulate flux dissipation for a maximum of %s seconds
-- Increases in flux dissipation varies linearly between %s ~ %s
+- Taking damage increases flux dissipation for a maximum of %s seconds
+- Increase in flux dissipation varies linearly between %s ~ %s
 - Maximum flux dissipation is gained when a single hit exceeds %s of max armor value
-- If shield was not active when the armor was damaged, also increase hard flux dissipation by up to %s when shields are active.",Improve high flux combat capability.,Max flux dissipation gain is adjusted to %s.,graphics/hullmods/valk_redarmor.png
-Holy Covenant War Program,valk_holycovenant,,,Valkyrian Archon Industries,,,,,TRUE,,0,0,0,0,data.hullmods.valk_HolyCovenant,"According to Valkyrian main fleet doctrine, a giant galloping beast is invincible, and their dominance is not limited to technological advancement, but also to psychological intimidation.
+- If shield was not active when armor was damaged, increase hard flux dissipation while shields are active by up to %s.",Improve high flux combat capability.,Maximum flux dissipation gain is adjusted to %s.,graphics/hullmods/valk_redarmor.png
+Holy Covenant War Program,valk_holycovenant,,,Valkyrian Archon Industries,,,,,TRUE,,0,0,0,0,data.hullmods.valk_HolyCovenant,"Valkyrian capital fleet doctrine is akin to giant charging warbeasts, utterly unstoppable, and their dominance stems not just from technological superiority, but also to psychological intimidation.
 
-The Valkyrian main fleet provides benefits to all ships/fighters in a %s radius (including itself), and the higher the deployment points/requirements of the beneficiaries, the stronger the benefits. These benefits can be stacked, up to a cap.",,,graphics/hullmods/valk_holycovenant.png
+This Valkyrian capital ship provides buffs to all friendly vessels/fighters in a %s radius (including herself), and the higher the deployment points/requirements of the beneficiary, the stronger the buff. These buffs can be stacked, but have an upper limit.",,,graphics/hullmods/valk_holycovenant.png
 Farewell Love Letter,valk_yoshuraSkinLove,,,Valkyrian Archon Industries,,,,,TRUE,,0,0,0,0,data.hullmods.valk_YoshuraSkin,"This is love's swan song.
 Reduces ballistic weapon flux cost by %s.",The Soul of Yoshura.,,graphics/hullmods/valk_yoshuralove.png
 Irrefutable Proof of Separation,valk_yoshuraSkinHate,,,Valkyrian Archon Industries,,,,,TRUE,,0,0,0,0,data.hullmods.valk_YoshuraSkin,"This is the obituary of hate.

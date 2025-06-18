@@ -122,7 +122,7 @@ valk_morgiana,SHIP,"Slightly larger than the Talon but twice as deadly, she was 
 ,,,,,,
 ,,,,,,
 ,,,,,,
-valk_ilc,WEAPON,A powerful energy cannon capable of projecting three consecutive dense particle beams over long distances.,,,,
+valk_ilc,WEAPON,A powerful energy cannon capable of firing three dense particle streams in rapid succession over long distances.,,,,
 valk_ilc_II,WEAPON,"An enhanced, high-burst variant of the Redemption Laser Cannon that concentrates all its firepower into one shot.",,,,
 valk_quadheavymg,WEAPON,"A wicked quad-mounted heavy machine gun with a monstrous rate of fire. A ship equipped with it is virtually immune to threats from fighters or missiles.
 This weapon combines four heavy machine guns on a gun mount enhanced with pneumatic loaders and liquid-cooling mechanisms, and fires high-velocity fragmentation rounds to intercept fighters.",,,,
@@ -167,7 +167,7 @@ valk_nxk_pd,WEAPON,The NX-K is an ultra-high tech gamma ray blaster that provide
 valk_ether_driver,WEAPON,"An experimental cannon that fires shells encased in a hypermatter substance called ""ether"" that can penetrate shields to strike armor directly.
 The Ether Driver and its variants are a series of hypermatter cannons developed through reverse-engineering captured alien technology, utilizing the unique property of the substance called ""ether"" to neutralize ion fields and disintegrate all forms of materialized energy.
 A deafening sound accompanies its firing, as the matter and shell are fired a millisecond apart. The hypermatter casing collides with and fuses with the ether projectile in front, creating a hole in the shield before then detonating violently against the target's hull.",,,,
-valk_geironul,WEAPON,"A large, high-performance cannon modeled after the Hellbore. The interior of its shells are encased in a trace amount of unstable antimatter, which upon impact with enemy ships, may trigger secondary explosions due to core breakage, causing severe damage to lightly armored targets.",,,,
+valk_geironul,WEAPON,"A large, high-performance cannon modeled after the Hellbore. The interior of its shells are encased in trace amounts of unstable antimatter, which upon impact with enemy ships, may trigger secondary explosions due to core breakage, causing severe damage to lightly armored targets.",,,,
 ,,,,,,
 valk_ice_lance,WEAPON,"A derivative of the Ether Driver. Focuses more on disabling electronics rather than damaging them.
 Its projectiles have the same ability to penetrate shields.
