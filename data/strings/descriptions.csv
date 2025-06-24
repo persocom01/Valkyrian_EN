@@ -124,7 +124,7 @@ valk_morgiana,SHIP,"Slightly larger than the Talon but twice as deadly, she was 
 ,,,,,,
 valk_ilc,WEAPON,A powerful energy cannon capable of firing three dense particle streams in rapid succession over long distances.,,,,
 valk_ilc_II,WEAPON,"An enhanced, high-burst variant of the Redemption Laser Cannon that concentrates all its firepower into one shot.",,,,
-valk_quadheavymg,WEAPON,"A wicked quad-mounted heavy machine gun with a monstrous rate of fire. A ship equipped with it is virtually immune to threats from fighters or missiles.
+valk_quadheavymg,WEAPON,"A wicked quad-mounted heavy MG with a monstrous rate of fire. A ship equipped with it is virtually immune to threats from fighters or missiles.
 This weapon combines four heavy machine guns on a gun mount enhanced with pneumatic loaders and liquid-cooling mechanisms, and fires high-velocity fragmentation rounds to intercept fighters.",,,,
 ,,,,,,
 valk_dsc,WEAPON,"A small machine gun that fires large-caliber discarding sabot rounds at sublight speeds. Has an additional penetrating effect on high-strength shields.",,,,
@@ -195,7 +195,7 @@ valkyrian,FACTION,"The Valkyries are an independent military power in this secto
 However, simply studying blueprints and refining them eventually proved insufficient, and as more advanced technologies were withheld from them, they begin resorting to use increasingly fanatical means to satisfy their sense of superiority. This obsession ultimately led to bitter conflict with the development department, ending their relationship. When the ruling powers of the Domain recognized the growing threat they posed and moved to suppress them, they chose to decided forge their own path, eliminating any that stood in the way of their pursuit of power.
 
 Ultimately, to free themselves from the control of the Domain, they dedicated all their industrial might to the creation of ship-borne stargates. This allowed them to traverse subspace without stargates, provided a super fleet equipped with a stargate drive was stationed in the corresponding star system. Over time, they spread across much of known space. Some of these places have since become lost worlds — collapsed, abandoned, or simply forgotten. In time, they discovered the Persean Sector by their own means and are now one of the competing powers vying for dominance over civilization there.",,,,
-valk_boostrefit,SHIP_SYSTEM,"The rate of decrease of the carrier's fighter replacement rate and fighter replacement time is reduced by 1/3, and the speed and maneuverability of returning fighters is doubled. Use generates large amounts of flux energy.",Offensive,,,
+valk_boostrefit,SHIP_SYSTEM,"Reduces the rate at which fighter replacement rate decreases and fighter replacement time by 1/3, and doubles the speed and maneuverability of returning fighters. Generates a significant amount of flux when used.",Offensive,,,
 ,,,,,,
 valk_planet_enigma_i,CUSTOM,"The Valkyrian capital. It is here that sector wide royal decrees are made.
 
