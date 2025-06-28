@@ -6,7 +6,7 @@
     {
         "major":3,
         "minor":3,
-        "patch":0e2
+        "patch":0e3
     },
     "directDownloadURL": "https://github.com/persocom01/Valkyrian_EN/releases/latest/download/Valkyrian_EN.zip",
     "changelogURL": "https://raw.githubusercontent.com/persocom01/Valkyrian_EN/refs/heads/master/Changelog"
