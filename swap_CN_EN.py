@@ -264,10 +264,46 @@ def update_setting_in_json(file_path, key, new_value):
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
 
+def swap_variants(subdirectory='', folder_name='variants'):
+    # Get the directory where the script is located
+    script_directory = os.path.dirname(os.path.abspath(__file__))
+    script_directory += f'{subdirectory}'
 
+    # Define the paths
+    variants_path = os.path.join(script_directory, f'{folder_name}')
+    variants_cn_path = os.path.join(script_directory, f'{folder_name}_CN')
+    variants_en_path = os.path.join(script_directory, f'{folder_name}_EN')
 
+    # Print out the paths for debugging
+    print(f"Script directory: {script_directory}")
+    print(f"Variants path: {variants_path}")
+    print(f"Variants_cn path: {variants_cn_path}")
+    print(f"Variants_en path: {variants_en_path}")
+    
+    # Check existence of directories
+    print(f"Does 'variants' exist? {'Yes' if os.path.exists(variants_path) else 'No'}")
+    print(f"Does 'variants_cn' exist? {'Yes' if os.path.exists(variants_cn_path) else 'No'}")
+    print(f"Does 'variants_en' exist? {'Yes' if os.path.exists(variants_en_path) else 'No'}")
 
-      
+    # Check if the current backup is "variants_cn"
+    if os.path.exists(variants_cn_path) and not os.path.exists(variants_en_path):
+        # Rename "variants" to "variants_en"
+        os.rename(variants_path, variants_en_path)
+        # Rename "variants_cn" to "variants"
+        os.rename(variants_cn_path, variants_path)
+        print('Swapped "variants_cn" with "variants".')
+
+    # Check if the current backup is "variants_en"
+    elif os.path.exists(variants_en_path) and not os.path.exists(variants_cn_path):
+        # Rename "variants" to "variants_cn"
+        os.rename(variants_path, variants_cn_path)
+        # Rename "variants_en" to "variants"
+        os.rename(variants_en_path, variants_path)
+        print('Swapped "variants_en" with "variants".')
+
+    else:
+        print('No swap performed. Please ensure the directories exist and try again.')
+     
 if __name__ == "__main__":
     swap_file_csv("data/campaign/market_conditions.csv", "market_conditions", ['desc'])
     swap_file_csv("data/campaign/rules.csv", "rules", ['script','text','options'])
@@ -278,11 +314,11 @@ if __name__ == "__main__":
     swap_file_csv("data/shipsystems/ship_systems.csv", "ship_systems", ['name'])
     swap_file_csv("data/strings/descriptions.csv", "descriptions", ['text1','text2','text3','text4'])
     swap_file_csv("data/weapons/weapon_data.csv","weapon_data",['name','tech/manufacturer','primaryRoleStr','speedStr','trackingStr','customPrimary','customPrimaryHL'])
-    swap_json("data/campaign/channels.json","channels")
-    swap_json("data/config/settings.json", "settings")
-    swap_json("data/strings/strings.json", "strings")
-    swap_json("data/world/factions/valkyrian.faction", "valkyrian","faction")
-    swap_json("mod_info.json","mod_info")
+    swap_name("data/campaign/channels.json","channels.json")
+    swap_name("data/config/settings.json", "settings.json")
+    swap_name("data/strings/strings.json", "strings.json")
+    swap_name("data/world/factions/valkyrian.faction", "valkyrian.faction")
+    swap_name("mod_info.json","mod_info.json")
     swap_name("data/missions/battleforheavensgate/descriptor.json", "descriptor.json")
     swap_name("data/missions/battleforheavensgate/mission_text.txt", "mission_text.txt")
     swap_name("data/missions/battleforheavensgate/MissionDefinition.java", "MissionDefinition.java")
@@ -305,3 +341,4 @@ if __name__ == "__main__":
     swap_name("data/missions/valkdev/mission_text.txt", "mission_text.txt")
     swap_name("jars/Valkyrians.jar", "Valkyrians.jar")
     swap_name("valkyrians.version", "valkyrians.version")
+    swap_variants(r'\data')

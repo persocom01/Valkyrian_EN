@@ -5,4 +5,4 @@ I did not make this mod. All rights go to the authors, ValkyriaL and Originem.
 
 Original fossic post: https://www.fossic.org/forum.php?mod=viewthread&tid=630
 
-Language swap support was added, but not tested. The data/variants folder needs to be swapped manually, however.
+Can be swapped between EN and CN versions by running the swap_CN_EN.py file.

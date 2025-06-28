@@ -55,7 +55,7 @@ In some mercenary organizations subordinate to the Valkyries, the female captain
 valk_elegy,SHIP,"When this ship goes on the warpath, it signals the Valkyries' final, desperate counteroffensive. The Elegy-class Siege Ship is around with a heavy cruiser chassis, yet she has firepower rivaling that of a conventional battleship. Unlike mainline heavy cruisers such as the Almire and Nirvana series, this experimental ship is exceptionally volatile, her offense is like dancing on a knife's edge, and she is often used in the fleet as a trump card of last resort.
 
 Supporting all of this is an imperfect Valhalla Core. device embodying nearly a century of Valkyrian experimentation. However, an accident, resulted in the loss of vast amounts of experimental data, and despite much effort, only a flawed replica could be reconstructed. Fortunately, even in its incomplete state, the Valhalla is able to provide the Elegy-class Siege Ship with an energy output far surpassing that of any other vessel. The trade-off of ""Valhalla"" is that the ship becomes dangerously unstable as energy levels rise while in a state of high flux. We can only pray that the female officers refrain from pushing it too far, lest they perish.",,,,
-valk_nirvana_II,SHIP,"A next-generation concept ship, she is larger than all her sisters and has built-in weapons. Comparable in size to a capital ship, she and is classified as a super-armor cruiser and specializes in hunting heavy cruisers. This high-performance cruiser is not to be underestimated.
+valk_nirvana_II,SHIP,"A next-generation concept ship, she is larger than all her sisters and has built-in weapons. Comparable in size to a capital ship, she is classified as a super-armor cruiser and specializes in hunting heavy cruisers. This high-performance cruiser is not to be underestimated.
 
 The question ""what role should she play"" sparked debate within the Navy, which already has the Almire-class of assault ships for the frontlines. Although the Nirvana Mk.II is equipped with a class-specific system, its alpha strike potential fell short of expectations. The Navy ultimately concluded is that she was better suited for flanking assaults and surprise engagements than normal heavy cruisers.
 
@@ -75,7 +75,7 @@ valk_almire_I,SHIP,"A cruiser that has undergone numerous modifications over the
 ,,,,,,
 ,,,,,,
 ,,,,,,
-valk_herald,SHIP,"A tough nut that can deploy several shield drones. Being based on an Elysium-class destroyer hull gives her the power and maneuverability to fire salvos of missiles into enemies from a distance.",,,,
+valk_herald,SHIP,A tough nut that can deploy several shield drones. Being based on an Elysium-class destroyer hull gives her the power and maneuverability to fire salvos of missiles into enemies from a distance.,,,,
 valk_heron_b,SHIP,"A heavily armed carrier that replaced aging Valkyrian carriers and breathed new life into the fleet. Her oval hull design maximizes armor efficiency. She provides robust logistical support for her fighter complement, and in doing so, provides powerful fire support for the fleet that protects her.
 
 The Heron is among the most widely used and mass-produced ships in the Valkyrian Navy, rivaling even the Elfheim, better known as the ""Avenger-class"" destroyer. Her powerful point defenses easily neutralize missile barrages and enemy fighters, while deploying its own fighters to shield friendly vessels. In the later phases of modernization, following the introduction of the Sequence-class carriers, the Heron received a comprehensive upgrade. A more powerful engine and enhanced sensor suite were installed to improve combat effectiveness. Today, the Sequence and Heron serve side by side, new and old, replacing the supercarriers and light carriers of the past. Together, they safeguard Valkyrian systems for generations to come.",,,,
@@ -127,7 +127,7 @@ valk_ilc_II,WEAPON,"An enhanced, high-burst variant of the Redemption Laser Cann
 valk_quadheavymg,WEAPON,"A wicked quad-mounted heavy MG with a monstrous rate of fire. A ship equipped with it is virtually immune to threats from fighters or missiles.
 This weapon combines four heavy machine guns on a gun mount enhanced with pneumatic loaders and liquid-cooling mechanisms, and fires high-velocity fragmentation rounds to intercept fighters.",,,,
 ,,,,,,
-valk_dsc,WEAPON,"A small machine gun that fires large-caliber discarding sabot rounds at sublight speeds. Has an additional penetrating effect on high-strength shields.",,,,
+valk_dsc,WEAPON,A small machine gun that fires large-caliber discarding sabot rounds at sublight speeds. Has an additional penetrating effect on high-strength shields.,,,,
 valk_irpdburst,WEAPON,A not-so-powerful but highly effective instantaneous point defense system that is commonly found on military ships.,,,,
 valk_ibcm,WEAPON,The Hurricane launch system is equipped with IBCM kinetic warheads capable of devastating strikes against shields.,,,,
 valk_heavy_assault_cannon,WEAPON,"Developed at the same time as the Vatican Mk.III, this weapon's immense destructive power far surpasses the defensive capabilities of any ship.
@@ -151,7 +151,7 @@ valk_scorpion,WEAPON,"A lightweight MIRV warhead equipped with a Harpoon engine,
 ,,,,,,
 ,,,,,,
 ,,,,,,
-valk_hyperbeam,WEAPON,"This massive beam cannon utilizes hypermatter to unleash generate devastating firepower through a stream of hot particles that can completely melt through armor in the impact zone.",,,,
+valk_hyperbeam,WEAPON,This massive beam cannon utilizes hypermatter to unleash generate devastating firepower through a stream of hot particles that can completely melt through armor in the impact zone.,,,,
 ,,,,,,
 valk_imbc,WEAPON,"A super-heavy laser system capable of firing ultra-high density antiproton beams over long distances, which can inflict massive damage to unshielded ships.",,,,
 valk_light_antimatter_laser,WEAPON,"A lighter version of the heavier Antiproton Beam Cannon, with the same long range and high damage. It was the company's first beam weapon.",,,,
