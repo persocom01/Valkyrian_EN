@@ -135,7 +135,7 @@ Featuring a straightforward triple barrel design with a caliber ranging from 350
 valk_antiproton_laser,WEAPON,"Designed to provide large ships with burst firepower at medium to long range. The burst output of this weapon is capable of destroying small and medium-sized ships with ease, as well as placing a large amount of flux pressure on enemy capital ships.",,,,
 valk_plasma_laser,WEAPON,"A medium-sized cannon that was improved through a combination of advanced technology and careful study of Blackrock Drive Yards' fragmentation cannons.
 While its base damage is modest, the volatile, unstable plasmas projectiles it fires often trigger unpredictable secondary effects that cause major damage to the target.",,,,
-valk_bcnn,WEAPON,"A versatile kinetic weapon commonly used for long-range enemy suppression. As its design assumes the use of the revolver core, it is not recommended for non-Valkyrian ships.",,,,
+valk_bcnn,WEAPON,"A versatile kinetic weapon commonly used for long-range enemy suppression. As its design assumes the use of the cyclonic core, it is not recommended for non-Valkyrian ships.",,,,
 ,,,,,,
 ,,,,,,
 valk_ballista,WEAPON,An upgrade of the Annihilator rocket pod that uses plasma for both charging and propulsion. Its improved AI makes it harder for point-defense systems to shoot down.,,,,

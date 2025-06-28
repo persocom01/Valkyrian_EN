@@ -9,7 +9,7 @@
     {"id": "MagicLib", "name": "MagicLib"},
     {"id": "shaderLib", "name": "GraphicLib"}
   ],
-  "gameVersion": "0.98a",
+  "gameVersion": "0.98a-RC",
   "jars": ["jars/Valkyrians.jar"],
   "modPlugin": "data.scripts.VKSModPlugin"
 }
