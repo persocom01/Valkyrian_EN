@@ -3,7 +3,7 @@
   "name": "Valkyrian",
   "author": "Original Author:ValkyriaL\nCurrent Author:Originem\nNew Texture Reset:Laomi\nAssistance:FAX, Shadow Light\nTranslation: persocom01",
   "version": {"major": 3, "minor": 3, "patch": 0},
-  "description": "The Valkyries. An independent military power that once occupied many undiscovered worlds and star systems in this sector. They specialize in lasers, missiles and artillery, their fleet is very large, and their unconventional battleships numerous. They are a formidable opponent, and should not be taken lightly unless you are confident.",
+  "description": "The Valkyries. An independent military power that once occupied many undiscovered worlds and star systems in this sector. They specialize in lasers, missiles and artillery, and their fleet is massive, with numerous unconventional capital ships. They are a formidable opponent, and should not be taken lightly unless you are confident.",
   "dependencies": [
     {"id": "lw_lazylib", "name": "LazyLib"},
     {"id": "MagicLib", "name": "MagicLib"},
