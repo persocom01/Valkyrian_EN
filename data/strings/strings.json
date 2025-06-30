@@ -22,7 +22,7 @@
     "max_speed": "Top speed",
     "maneuverability": "Maneuverability",
     "ecm_0": "Enemy ship radar strength reduction %s",
-    "hc_title": "Covenant benefits"
+    "hc_title": "Covenant buff"
   },
   "valk_hullmods": {
     "bryn_heading": "Reduces weapon ordnance cost based on type/size",
